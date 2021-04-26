@@ -35,52 +35,31 @@ var __generator = (this && this.__generator) || function (thisArg, body) {
         if (op[0] & 5) throw op[1]; return { value: op[0] ? op[1] : void 0, done: true };
     }
 };
-var cheerio = require('cheerio');
-var axios = require('axios');
-var puppeteer = require('puppeteer');
+var __spreadArray = (this && this.__spreadArray) || function (to, from) {
+    for (var i = 0, il = from.length, j = to.length; i < il; i++, j++)
+        to[j] = from[i];
+    return to;
+};
+var __importDefault = (this && this.__importDefault) || function (mod) {
+    return (mod && mod.__esModule) ? mod : { "default": mod };
+};
+Object.defineProperty(exports, "__esModule", { value: true });
+var axios_1 = __importDefault(require("axios"));
+var cheerio = require("cheerio");
 var pubDevUrl = 'https://pub.dev/flutter/packages';
 var packageItemSelector = '.packages-item';
 var titleSelector = 'h3.packages-title > a';
 var likesSelector = '.packages-score-like .packages-score-value-number';
-var scrape = function () { return __awaiter(void 0, void 0, void 0, function () {
-    var browser, page, results, lastPageNumber, index;
-    return __generator(this, function (_a) {
-        switch (_a.label) {
-            case 0: return [4 /*yield*/, puppeteer.launch({ headless: false })];
-            case 1:
-                browser = _a.sent();
-                return [4 /*yield*/, browser.newPage()];
-            case 2:
-                page = _a.sent();
-                return [4 /*yield*/, page.goto(pubDevUrl)];
-            case 3:
-                _a.sent();
-                results = [];
-                lastPageNumber = 50;
-                index = 0;
-                _a.label = 4;
-            case 4:
-                if (!(index < lastPageNumber)) return [3 /*break*/, 8];
-                // wait 1 sec for page load
-                return [4 /*yield*/, page.waitFor(1000)];
-            case 5:
-                // wait 1 sec for page load
-                _a.sent();
-                if (!(index != lastPageNumber - 1)) return [3 /*break*/, 7];
-                return [4 /*yield*/, page.click('#default > div > div > div > div > section > div:nth-child(2) > div > ul > li.next > a')];
-            case 6:
-                _a.sent();
-                _a.label = 7;
-            case 7:
-                index++;
-                return [3 /*break*/, 4];
-            case 8: return [2 /*return*/];
-        }
-    });
-}); };
+var healthSelector = '.packages-score-health .packages-score-value-number';
+var popularitySelector = '.packages-score-popularity .packages-score-value-number';
+var badgeSelector = '.package-badge';
+var metadataSelector = '.packages-metadata-block';
+var BADGE_FLUTTER_FAV = 'flutter favorite';
+var BADGE_NULL_SAFE = 'null safety';
+var GOOGLE_ID = 'flutter.dev';
 function fetchHtmlFromUrl(url, page) {
     if (page === void 0) { page = 1; }
-    return axios
+    return axios_1.default
         .get(url, {
         params: {
             page: page,
@@ -89,48 +68,73 @@ function fetchHtmlFromUrl(url, page) {
     })
         .then(function (response) { return cheerio.load(response.data); });
 }
-function getPackageData(packageElement) {
-    var name = packageElement.find(titleSelector).text();
-    var likes = parseInt(packageElement.find(likesSelector).text());
-    return { name: name, likes: likes };
+function getPackageData($, packageEl) {
+    var packageItem = $(packageEl);
+    var name = packageItem.find(titleSelector).text();
+    // main stats
+    var likes = parseInt(packageItem.find(likesSelector).text());
+    var health = parseInt(packageItem.find(healthSelector).text());
+    var popularity = parseInt(packageItem.find(popularitySelector).text());
+    var badges = packageItem.find(badgeSelector).map(function (index, el) {
+        return $(el).text().trim().toLowerCase();
+    }).get();
+    // badges
+    var isNullSafe = badges.includes(BADGE_NULL_SAFE);
+    var isFlutterFav = badges.includes(BADGE_FLUTTER_FAV);
+    // developer
+    var _a = packageItem.find(metadataSelector).map(function (index, el) {
+        return $(el).find('a').text().trim();
+    }).get(), version = _a[0], developer = _a[1];
+    return { name: name, likes: likes, health: health, popularity: popularity, isNullSafe: isNullSafe, isFlutterFav: isFlutterFav, version: version, developer: developer };
 }
 function getPageData(pageNum) {
     return __awaiter(this, void 0, void 0, function () {
-        var $, packages, results;
+        var $, packages, pageData;
         return __generator(this, function (_a) {
             switch (_a.label) {
                 case 0: return [4 /*yield*/, fetchHtmlFromUrl(pubDevUrl, pageNum)];
                 case 1:
                     $ = _a.sent();
                     packages = $(packageItemSelector);
-                    results = packages.map(function (index, element) {
-                        return getPackageData($(element));
+                    pageData = [];
+                    packages.each(function (index, el) {
+                        pageData.push(getPackageData($, el));
                     }).get();
-                    console.table(results);
-                    return [2 /*return*/];
+                    return [2 /*return*/, pageData];
             }
         });
     });
 }
 function main() {
     return __awaiter(this, void 0, void 0, function () {
-        var i;
+        var totalPages, pageSize, totalPackages, allResults, i, pageData, officialPackages;
         return __generator(this, function (_a) {
             switch (_a.label) {
                 case 0:
                     console.log('starts fetching pub dev stats...');
+                    totalPages = 10;
+                    pageSize = 10;
+                    totalPackages = totalPages * pageSize;
+                    allResults = [];
                     i = 1;
                     _a.label = 1;
                 case 1:
-                    if (!(i <= 10)) return [3 /*break*/, 4];
+                    if (!(i <= totalPages)) return [3 /*break*/, 4];
+                    console.log("Fetching " + pageSize * i + "/" + totalPackages);
                     return [4 /*yield*/, getPageData(i)];
                 case 2:
-                    _a.sent();
+                    pageData = _a.sent();
+                    allResults = __spreadArray(__spreadArray([], allResults), pageData);
                     _a.label = 3;
                 case 3:
                     i++;
                     return [3 /*break*/, 1];
-                case 4: return [2 /*return*/];
+                case 4:
+                    console.table(allResults);
+                    officialPackages = allResults.filter(function (result) { return result.developer === GOOGLE_ID; });
+                    console.log("A total of " + officialPackages.length + "/" + totalPackages + " top packages come from Google");
+                    console.table(officialPackages);
+                    return [2 /*return*/];
             }
         });
     });
