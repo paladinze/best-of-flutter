@@ -13,7 +13,12 @@ const metadataSelector = '.packages-metadata-block'
 const BADGE_FLUTTER_FAV = 'flutter favorite'
 const BADGE_NULL_SAFE = 'null safety'
 
-const GOOGLE_ID = 'flutter.dev'
+const FIREBASE_ACCOUNT = 'firebase.google.com'
+const FLUTTER_ACCOUNT = 'flutter.dev'
+const GOOGLE_ACCOUNT = 'google.dev'
+const OFFICIAL_ACCOUNTS = [GOOGLE_ACCOUNT, FLUTTER_ACCOUNT]
+
+const STATE_MANAGE_LIST = ['get', 'provider', 'bloc', 'riverpod', 'mobx', 'flutter_redux', 'rxdart']
 
 
 function fetchHtmlFromUrl(url: string, page = 1): Promise<cheerio.Root> {
@@ -64,24 +69,33 @@ async function getPageData(pageNum: number | undefined) {
 
 async function main() {
     console.log('starts fetching pub dev stats...')
-    const totalPages = 10
+    const totalPages = 25
     const pageSize = 10
     const totalPackages = totalPages * pageSize
 
     // general summary
     let allResults: any[] = []
     for (let i = 1; i <= totalPages; i++) {
-        console.log(`Fetching ${pageSize * i}/${totalPackages}`)
+        console.log(`Fetching data for ${pageSize * i}/${totalPackages} packages ...`)
         const pageData = await getPageData(i)
         allResults = [...allResults, ...pageData]
     }
     console.table(allResults)
 
     // Offical packages
-    const officialPackages = allResults.filter(result => result.developer === GOOGLE_ID)
+    const officialPackages = allResults.filter(result => OFFICIAL_ACCOUNTS.includes(result.developer))
     console.log(`A total of ${officialPackages.length}/${totalPackages} top packages come from Google`)
     console.table(officialPackages)
 
+    // firebase packages
+    const firebasePackages = allResults.filter(result => result.developer === FIREBASE_ACCOUNT)
+    console.log(`Firebase Packages`)
+    console.table(firebasePackages)
+
+    // State management packages
+    const stateManagePackages = allResults.filter(result => STATE_MANAGE_LIST.includes(result.name))
+    console.log(`State Management Packages`)
+    console.table(stateManagePackages)
 }
 
 main()

@@ -56,7 +56,11 @@ var badgeSelector = '.package-badge';
 var metadataSelector = '.packages-metadata-block';
 var BADGE_FLUTTER_FAV = 'flutter favorite';
 var BADGE_NULL_SAFE = 'null safety';
-var GOOGLE_ID = 'flutter.dev';
+var FIREBASE_ACCOUNT = 'firebase.google.com';
+var FLUTTER_ACCOUNT = 'flutter.dev';
+var GOOGLE_ACCOUNT = 'google.dev';
+var OFFICIAL_ACCOUNTS = [GOOGLE_ACCOUNT, FLUTTER_ACCOUNT];
+var STATE_MANAGE_LIST = ['get', 'provider', 'bloc', 'riverpod', 'mobx', 'flutter_redux', 'rxdart'];
 function fetchHtmlFromUrl(url, page) {
     if (page === void 0) { page = 1; }
     return axios_1.default
@@ -107,12 +111,12 @@ function getPageData(pageNum) {
 }
 function main() {
     return __awaiter(this, void 0, void 0, function () {
-        var totalPages, pageSize, totalPackages, allResults, i, pageData, officialPackages;
+        var totalPages, pageSize, totalPackages, allResults, i, pageData, officialPackages, firebasePackages, stateManagePackages;
         return __generator(this, function (_a) {
             switch (_a.label) {
                 case 0:
                     console.log('starts fetching pub dev stats...');
-                    totalPages = 10;
+                    totalPages = 25;
                     pageSize = 10;
                     totalPackages = totalPages * pageSize;
                     allResults = [];
@@ -120,7 +124,7 @@ function main() {
                     _a.label = 1;
                 case 1:
                     if (!(i <= totalPages)) return [3 /*break*/, 4];
-                    console.log("Fetching " + pageSize * i + "/" + totalPackages);
+                    console.log("Fetching data for " + pageSize * i + "/" + totalPackages + " packages ...");
                     return [4 /*yield*/, getPageData(i)];
                 case 2:
                     pageData = _a.sent();
@@ -131,9 +135,15 @@ function main() {
                     return [3 /*break*/, 1];
                 case 4:
                     console.table(allResults);
-                    officialPackages = allResults.filter(function (result) { return result.developer === GOOGLE_ID; });
+                    officialPackages = allResults.filter(function (result) { return OFFICIAL_ACCOUNTS.includes(result.developer); });
                     console.log("A total of " + officialPackages.length + "/" + totalPackages + " top packages come from Google");
                     console.table(officialPackages);
+                    firebasePackages = allResults.filter(function (result) { return result.developer === FIREBASE_ACCOUNT; });
+                    console.log("Firebase Packages");
+                    console.table(firebasePackages);
+                    stateManagePackages = allResults.filter(function (result) { return STATE_MANAGE_LIST.includes(result.name); });
+                    console.log("State Management Packages");
+                    console.table(stateManagePackages);
                     return [2 /*return*/];
             }
         });
