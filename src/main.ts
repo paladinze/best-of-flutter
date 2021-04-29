@@ -1,26 +1,6 @@
 import axios from 'axios'
 import cheerio = require('cheerio')
 
-const pubDevUrl = 'https://pub.dev/flutter/packages'
-const packageItemSelector = '.packages-item'
-const titleSelector = 'h3.packages-title > a'
-const likesSelector = '.packages-score-like .packages-score-value-number'
-const healthSelector = '.packages-score-health .packages-score-value-number'
-const popularitySelector = '.packages-score-popularity .packages-score-value-number'
-const badgeSelector = '.package-badge'
-const metadataSelector = '.packages-metadata-block'
-
-const BADGE_FLUTTER_FAV = 'flutter favorite'
-const BADGE_NULL_SAFE = 'null safety'
-
-const FIREBASE_ACCOUNT = 'firebase.google.com'
-const FLUTTER_ACCOUNT = 'flutter.dev'
-const GOOGLE_ACCOUNT = 'google.dev'
-const OFFICIAL_ACCOUNTS = [GOOGLE_ACCOUNT, FLUTTER_ACCOUNT]
-
-const STATE_MANAGE_LIST = ['get', 'provider', 'bloc', 'riverpod', 'mobx', 'flutter_redux', 'rxdart']
-
-
 function fetchHtmlFromUrl(url: string, page = 1): Promise<cheerio.Root> {
     return axios
         .get(url, {

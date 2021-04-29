@@ -1,0 +1,16 @@
+"use strict";
+var pubDevUrl = 'https://pub.dev/flutter/packages';
+var packageItemSelector = '.packages-item';
+var titleSelector = 'h3.packages-title > a';
+var likesSelector = '.packages-score-like .packages-score-value-number';
+var healthSelector = '.packages-score-health .packages-score-value-number';
+var popularitySelector = '.packages-score-popularity .packages-score-value-number';
+var badgeSelector = '.package-badge';
+var metadataSelector = '.packages-metadata-block';
+var BADGE_FLUTTER_FAV = 'flutter favorite';
+var BADGE_NULL_SAFE = 'null safety';
+var FIREBASE_ACCOUNT = 'firebase.google.com';
+var FLUTTER_ACCOUNT = 'flutter.dev';
+var GOOGLE_ACCOUNT = 'google.dev';
+var OFFICIAL_ACCOUNTS = [GOOGLE_ACCOUNT, FLUTTER_ACCOUNT];
+var STATE_MANAGE_LIST = ['get', 'provider', 'bloc', 'riverpod', 'mobx', 'flutter_redux', 'rxdart'];
