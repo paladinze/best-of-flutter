@@ -24,3 +24,14 @@ The crawler will also collect data for a small subset of packages
 - official packages from Google, Flutter
 - Firebase packages
 - state management packages
+
+
+## Hybrid landscape
+
+A list of hybrid tech stack used by leading brands.
+
+Currently only stats for hybrid lanscape in China is collected.
+
+
+
+
