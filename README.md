@@ -2,7 +2,7 @@
 
 A crawler for Flutter's pub.dev website
 
-For sample result, see `result.log`
+For sample result, see `data` directory
 
 ## Key Data
 
