@@ -46,6 +46,7 @@ var __importDefault = (this && this.__importDefault) || function (mod) {
 Object.defineProperty(exports, "__esModule", { value: true });
 var axios_1 = __importDefault(require("axios"));
 var cheerio = require("cheerio");
+var constants_1 = require("./constants");
 function fetchHtmlFromUrl(url, page) {
     if (page === void 0) { page = 1; }
     return axios_1.default
@@ -59,32 +60,32 @@ function fetchHtmlFromUrl(url, page) {
 }
 function getPackageData($, packageEl) {
     var packageItem = $(packageEl);
-    var name = packageItem.find(titleSelector).text();
+    var name = packageItem.find(constants_1.titleSelector).text();
     // main stats
-    var likes = parseInt(packageItem.find(likesSelector).text());
-    var health = parseInt(packageItem.find(healthSelector).text());
-    var popularity = parseInt(packageItem.find(popularitySelector).text());
-    var badges = packageItem.find(badgeSelector).map(function (index, el) {
+    var likes = parseInt(packageItem.find(constants_1.likesSelector).text());
+    var health = parseInt(packageItem.find(constants_1.healthSelector).text());
+    var popularity = parseInt(packageItem.find(constants_1.popularitySelector).text());
+    var badges = packageItem.find(constants_1.badgeSelector).map(function (index, el) {
         return $(el).text().trim().toLowerCase();
     }).get();
     // badges
-    var isNullSafe = badges.includes(BADGE_NULL_SAFE);
-    var isFlutterFav = badges.includes(BADGE_FLUTTER_FAV);
+    var nullSafe = badges.includes(constants_1.BADGE_NULL_SAFE);
+    var endorsed = badges.includes(constants_1.BADGE_FLUTTER_FAV);
     // developer
-    var _a = packageItem.find(metadataSelector).map(function (index, el) {
+    var _a = packageItem.find(constants_1.metadataSelector).map(function (index, el) {
         return $(el).find('a').text().trim();
     }).get(), version = _a[0], developer = _a[1];
-    return { name: name, likes: likes, health: health, popularity: popularity, isNullSafe: isNullSafe, isFlutterFav: isFlutterFav, version: version, developer: developer };
+    return { name: name, likes: likes, health: health, popularity: popularity, nullSafe: nullSafe, endorsed: endorsed, version: version, developer: developer };
 }
 function getPageData(pageNum) {
     return __awaiter(this, void 0, void 0, function () {
         var $, packages, pageData;
         return __generator(this, function (_a) {
             switch (_a.label) {
-                case 0: return [4 /*yield*/, fetchHtmlFromUrl(pubDevUrl, pageNum)];
+                case 0: return [4 /*yield*/, fetchHtmlFromUrl(constants_1.pubDevUrl, pageNum)];
                 case 1:
                     $ = _a.sent();
-                    packages = $(packageItemSelector);
+                    packages = $(constants_1.packageItemSelector);
                     pageData = [];
                     packages.each(function (index, el) {
                         pageData.push(getPackageData($, el));
@@ -119,16 +120,17 @@ function main() {
                     i++;
                     return [3 /*break*/, 1];
                 case 4:
-                    console.table(allResults);
-                    officialPackages = allResults.filter(function (result) { return OFFICIAL_ACCOUNTS.includes(result.developer); });
+                    officialPackages = allResults.filter(function (result) { return constants_1.OFFICIAL_ACCOUNTS.includes(result.developer); });
                     console.log("A total of " + officialPackages.length + "/" + totalPackages + " top packages come from Google");
                     console.table(officialPackages);
-                    firebasePackages = allResults.filter(function (result) { return result.developer === FIREBASE_ACCOUNT; });
+                    firebasePackages = allResults.filter(function (result) { return result.developer === constants_1.FIREBASE_ACCOUNT; });
                     console.log("Firebase Packages");
                     console.table(firebasePackages);
-                    stateManagePackages = allResults.filter(function (result) { return STATE_MANAGE_LIST.includes(result.name); });
+                    stateManagePackages = allResults.filter(function (result) { return constants_1.STATE_MANAGE_LIST.includes(result.name); });
                     console.log("State Management Packages");
                     console.table(stateManagePackages);
+                    // general summary
+                    console.table(allResults);
                     return [2 /*return*/];
             }
         });

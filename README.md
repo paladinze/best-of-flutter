@@ -28,9 +28,11 @@ The crawler will also collect data for a small subset of packages
 
 ## Hybrid landscape
 
+For result, see `data` directory.
+
 A list of hybrid tech stack used by leading brands.
 
-Currently only stats for hybrid lanscape in China is collected.
+Currently only stats for hybrid lanscape in **China** is collected.
 
 
 

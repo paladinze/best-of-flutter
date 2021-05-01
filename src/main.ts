@@ -27,15 +27,15 @@ function getPackageData($: cheerio.Root, packageEl: cheerio.Element) {
     }).get();
 
     // badges
-    const isNullSafe = badges.includes(BADGE_NULL_SAFE)
-    const isFlutterFav = badges.includes(BADGE_FLUTTER_FAV)
+    const nullSafe = badges.includes(BADGE_NULL_SAFE)
+    const endorsed = badges.includes(BADGE_FLUTTER_FAV)
 
     // developer
     const [version, developer] = packageItem.find(metadataSelector).map((index: number, el: cheerio.Element) => {
         return $(el).find('a').text().trim();
     }).get();
 
-    return { name, likes, health, popularity, isNullSafe, isFlutterFav, version, developer }
+    return { name, likes, health, popularity, nullSafe, endorsed, version, developer }
 }
 
 async function getPageData(pageNum: number | undefined) {
@@ -54,14 +54,12 @@ async function main() {
     const pageSize = 10
     const totalPackages = totalPages * pageSize
 
-    // general summary
     let allResults: any[] = []
     for (let i = 1; i <= totalPages; i++) {
         console.log(`Fetching data for ${pageSize * i}/${totalPackages} packages ...`)
         const pageData = await getPageData(i)
         allResults = [...allResults, ...pageData]
     }
-    console.table(allResults)
 
     // Offical packages
     const officialPackages = allResults.filter(result => OFFICIAL_ACCOUNTS.includes(result.developer))
@@ -77,6 +75,9 @@ async function main() {
     const stateManagePackages = allResults.filter(result => STATE_MANAGE_LIST.includes(result.name))
     console.log(`State Management Packages`)
     console.table(stateManagePackages)
+
+    // general summary
+    console.table(allResults)
 }
 
 main()
