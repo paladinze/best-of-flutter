@@ -4,6 +4,16 @@ A crawler for Flutter's pub.dev website
 
 For sample result, see `data` directory
 
+## Quick start
+Do the followling to get the latest pub.dev ranking stats
+
+```bash
+npm i
+npm start
+```
+
+See `data/output.log` file for results
+
 ## Key Data
 
 The simple crawler collects the following for the **Most Liked** packages
