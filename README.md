@@ -14,7 +14,11 @@ npm start
 
 See `data/output.log` file for results
 
-## Key Data
+## Data collected
+
+The data are located in the `data` directory.
+
+### Key Data
 
 The simple crawler collects the following for the **Most Liked** packages
 
@@ -27,22 +31,20 @@ The simple crawler collects the following for the **Most Liked** packages
 - offical recognition (aka. flutter favourite status)
 
 
-## Shortlist
+### Shortlist
 
-The crawler will also collect data for a small subset of packages
+The crawler will also collect data for **a subset of packages**, such as
 
-- official packages from Google, Flutter
-- Firebase packages
-- state management packages
+- official packages from `Google`, `Flutter`
+- `Firebase` packages
+- `state management` packages
 
 
-## Hybrid landscape
-
-For result, see `data` directory.
+### Hybrid landscape
 
 A list of hybrid tech stack used by leading brands.
 
-Currently only stats for hybrid lanscape in **China** is collected.
+Currently only stats for the hybrid lanscape in **China** is collected.
 
 
 
