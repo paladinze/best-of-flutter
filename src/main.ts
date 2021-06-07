@@ -13,6 +13,10 @@ function fetchHtmlFromUrl(url: string, page = 1): Promise<cheerio.Root> {
         .then((response: { data: any; }) => cheerio.load(response.data))
 }
 
+function printDivider() {
+    console.log('\n');
+}
+
 function getPackageData($: cheerio.Root, packageEl: cheerio.Element) {
     const packageItem = $(packageEl)
 
@@ -60,23 +64,28 @@ async function main() {
         const pageData = await getPageData(i)
         allResults = [...allResults, ...pageData]
     }
+    printDivider();
 
-    // Offical packages
+    // Official packages
     const officialPackages = allResults.filter(result => OFFICIAL_ACCOUNTS.includes(result.developer))
-    console.log(`A total of ${officialPackages.length}/${totalPackages} top packages come from Google`)
+    console.log(`Google own a total of ${officialPackages.length}/${totalPackages} top packages`)
     console.table(officialPackages)
+    printDivider()
 
     // firebase packages
     const firebasePackages = allResults.filter(result => result.developer === FIREBASE_ACCOUNT)
     console.log(`Firebase Packages`)
     console.table(firebasePackages)
+    printDivider()
 
     // State management packages
     const stateManagePackages = allResults.filter(result => STATE_MANAGE_LIST.includes(result.name))
     console.log(`State Management Packages`)
     console.table(stateManagePackages)
+    printDivider()
 
     // general summary
+    console.log('Top 250 Flutter Packages')
     console.table(allResults)
 }
 

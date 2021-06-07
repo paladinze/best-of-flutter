@@ -58,6 +58,9 @@ function fetchHtmlFromUrl(url, page) {
     })
         .then(function (response) { return cheerio.load(response.data); });
 }
+function printDivider() {
+    console.log('\n');
+}
 function getPackageData($, packageEl) {
     var packageItem = $(packageEl);
     var name = packageItem.find(constants_1.titleSelector).text();
@@ -121,15 +124,19 @@ function main() {
                     return [3 /*break*/, 1];
                 case 4:
                     officialPackages = allResults.filter(function (result) { return constants_1.OFFICIAL_ACCOUNTS.includes(result.developer); });
-                    console.log("A total of " + officialPackages.length + "/" + totalPackages + " top packages come from Google");
+                    console.log("Google own a total of " + officialPackages.length + "/" + totalPackages + " top packages");
                     console.table(officialPackages);
+                    printDivider();
                     firebasePackages = allResults.filter(function (result) { return result.developer === constants_1.FIREBASE_ACCOUNT; });
                     console.log("Firebase Packages");
                     console.table(firebasePackages);
+                    printDivider();
                     stateManagePackages = allResults.filter(function (result) { return constants_1.STATE_MANAGE_LIST.includes(result.name); });
                     console.log("State Management Packages");
                     console.table(stateManagePackages);
+                    printDivider();
                     // general summary
+                    console.log('Top 250 Flutter Packages');
                     console.table(allResults);
                     return [2 /*return*/];
             }
