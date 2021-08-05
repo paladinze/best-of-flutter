@@ -71,14 +71,24 @@ function getPackageData($, packageEl) {
     var badges = packageItem.find(constants_1.badgeSelector).map(function (index, el) {
         return $(el).text().trim().toLowerCase();
     }).get();
+    var badgesSub = packageItem.find(constants_1.badgeSubSelector).map(function (index, el) {
+        return $(el).text().trim().toLowerCase();
+    }).get();
     // badges
     var nullSafe = badges.includes(constants_1.BADGE_NULL_SAFE);
     var endorsed = badges.includes(constants_1.BADGE_FLUTTER_FAV);
+    // platforms
+    var android = badgesSub.includes(constants_1.PLATFORM_ANDROID);
+    var ios = badgesSub.includes(constants_1.PLATFORM_IOS);
+    var linux = badgesSub.includes(constants_1.PLATFORM_LINUX);
+    var macos = badgesSub.includes(constants_1.PLATFORM_MACOS);
+    var web = badgesSub.includes(constants_1.PLATFORM_WEB);
+    var windows = badgesSub.includes(constants_1.PLATFORM_WINDOWS);
     // developer
     var _a = packageItem.find(constants_1.metadataSelector).map(function (index, el) {
         return $(el).find('a').text().trim();
     }).get(), version = _a[0], developer = _a[1];
-    return { name: name, likes: likes, health: health, popularity: popularity, nullSafe: nullSafe, endorsed: endorsed, version: version, developer: developer };
+    return { name: name, likes: likes, health: health, popularity: popularity, nullSafe: nullSafe, endorsed: endorsed, version: version, developer: developer, android: android, ios: ios, linux: linux, macos: macos, web: web, windows: windows };
 }
 function getPageData(pageNum) {
     return __awaiter(this, void 0, void 0, function () {
@@ -123,6 +133,7 @@ function main() {
                     i++;
                     return [3 /*break*/, 1];
                 case 4:
+                    printDivider();
                     officialPackages = allResults.filter(function (result) { return constants_1.OFFICIAL_ACCOUNTS.includes(result.developer); });
                     console.log("Google own a total of " + officialPackages.length + "/" + totalPackages + " top packages");
                     console.table(officialPackages);
@@ -136,7 +147,7 @@ function main() {
                     console.table(stateManagePackages);
                     printDivider();
                     // general summary
-                    console.log('Top 250 Flutter Packages');
+                    console.log("Top " + totalPackages + " Flutter Packages");
                     console.table(allResults);
                     return [2 /*return*/];
             }
