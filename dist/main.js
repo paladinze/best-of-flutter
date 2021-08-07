@@ -44,6 +44,7 @@ var __importDefault = (this && this.__importDefault) || function (mod) {
     return (mod && mod.__esModule) ? mod : { "default": mod };
 };
 Object.defineProperty(exports, "__esModule", { value: true });
+var fs_1 = __importDefault(require("fs"));
 var axios_1 = __importDefault(require("axios"));
 var cheerio = require("cheerio");
 var constants_1 = require("./constants");
@@ -57,6 +58,21 @@ function fetchHtmlFromUrl(url, page) {
         }
     })
         .then(function (response) { return cheerio.load(response.data); });
+}
+function saveResultsToFile(results) {
+    var classified = classifyResults(results);
+    var serializedData = JSON.stringify(classified, null, 4);
+    var now = new Date();
+    var dataPath = "data/json/top_packages_" + now.getFullYear() + "_" + now.getMonth() + "_" + now.getDate() + ".json";
+    fs_1.default.writeFileSync(dataPath, serializedData, 'utf8');
+}
+function classifyResults(allResults) {
+    return {
+        official: allResults.filter(function (result) { return constants_1.OFFICIAL_ACCOUNTS.includes(result.developer); }),
+        firebase: allResults.filter(function (result) { return result.developer === constants_1.FIREBASE_ACCOUNT; }),
+        stateManagement: allResults.filter(function (result) { return constants_1.STATE_MANAGE_LIST.includes(result.name); }),
+        all: allResults,
+    };
 }
 function printDivider() {
     console.log('\n');
@@ -149,6 +165,8 @@ function main() {
                     // general summary
                     console.log("Top " + totalPackages + " Flutter Packages");
                     console.table(allResults);
+                    // save all results to file
+                    saveResultsToFile(allResults);
                     return [2 /*return*/];
             }
         });
