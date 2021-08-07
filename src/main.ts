@@ -1,6 +1,6 @@
 import axios from 'axios'
 import cheerio = require('cheerio')
-import { titleSelector, likesSelector, healthSelector, popularitySelector, badgeSelector, BADGE_NULL_SAFE, BADGE_FLUTTER_FAV, metadataSelector, pubDevUrl, packageItemSelector, OFFICIAL_ACCOUNTS, FIREBASE_ACCOUNT, STATE_MANAGE_LIST } from './constants'
+import { titleSelector, likesSelector, healthSelector, popularitySelector, badgeSelector, badgeSubSelector, BADGE_NULL_SAFE, BADGE_FLUTTER_FAV, PLATFORM_ANDROID, PLATFORM_IOS, PLATFORM_LINUX, PLATFORM_MACOS, PLATFORM_WEB, PLATFORM_WINDOWS, metadataSelector, pubDevUrl, packageItemSelector, OFFICIAL_ACCOUNTS, FIREBASE_ACCOUNT, STATE_MANAGE_LIST } from './constants'
 
 function fetchHtmlFromUrl(url: string, page = 1): Promise<cheerio.Root> {
     return axios
@@ -29,17 +29,28 @@ function getPackageData($: cheerio.Root, packageEl: cheerio.Element) {
     const badges = packageItem.find(badgeSelector).map((index: number, el: cheerio.Element) => {
         return $(el).text().trim().toLowerCase()
     }).get();
+    const badgesSub = packageItem.find(badgeSubSelector).map((index: number, el: cheerio.Element) => {
+        return $(el).text().trim().toLowerCase()
+    }).get();
 
     // badges
     const nullSafe = badges.includes(BADGE_NULL_SAFE)
     const endorsed = badges.includes(BADGE_FLUTTER_FAV)
+
+    // platforms
+    const android = badgesSub.includes(PLATFORM_ANDROID)
+    const ios = badgesSub.includes(PLATFORM_IOS)
+    const linux = badgesSub.includes(PLATFORM_LINUX)
+    const macos = badgesSub.includes(PLATFORM_MACOS)
+    const web = badgesSub.includes(PLATFORM_WEB)
+    const windows = badgesSub.includes(PLATFORM_WINDOWS)
 
     // developer
     const [version, developer] = packageItem.find(metadataSelector).map((index: number, el: cheerio.Element) => {
         return $(el).find('a').text().trim();
     }).get();
 
-    return { name, likes, health, popularity, nullSafe, endorsed, version, developer }
+    return { name, likes, health, popularity, nullSafe, endorsed, version, developer, android, ios, linux, macos, web, windows }
 }
 
 async function getPageData(pageNum: number | undefined) {
@@ -85,7 +96,7 @@ async function main() {
     printDivider()
 
     // general summary
-    console.log('Top 250 Flutter Packages')
+    console.log(`Top ${totalPackages} Flutter Packages`)
     console.table(allResults)
 }
 
