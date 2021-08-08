@@ -44,10 +44,10 @@ var __importDefault = (this && this.__importDefault) || function (mod) {
     return (mod && mod.__esModule) ? mod : { "default": mod };
 };
 Object.defineProperty(exports, "__esModule", { value: true });
-var fs_1 = __importDefault(require("fs"));
 var axios_1 = __importDefault(require("axios"));
 var cheerio = require("cheerio");
 var constants_1 = require("./constants");
+var utils_1 = require("./utils");
 function fetchHtmlFromUrl(url, page) {
     if (page === void 0) { page = 1; }
     return axios_1.default
@@ -58,24 +58,6 @@ function fetchHtmlFromUrl(url, page) {
         }
     })
         .then(function (response) { return cheerio.load(response.data); });
-}
-function saveResultsToFile(results) {
-    var classified = classifyResults(results);
-    var serializedData = JSON.stringify(classified, null, 4);
-    var now = new Date();
-    var dataPath = "data/json/top_packages_" + now.getFullYear() + "_" + now.getMonth() + "_" + now.getDate() + ".json";
-    fs_1.default.writeFileSync(dataPath, serializedData, 'utf8');
-}
-function classifyResults(allResults) {
-    return {
-        official: allResults.filter(function (result) { return constants_1.OFFICIAL_ACCOUNTS.includes(result.developer); }),
-        firebase: allResults.filter(function (result) { return result.developer === constants_1.FIREBASE_ACCOUNT; }),
-        stateManagement: allResults.filter(function (result) { return constants_1.STATE_MANAGE_LIST.includes(result.name); }),
-        all: allResults,
-    };
-}
-function printDivider() {
-    console.log('\n');
 }
 function getPackageData($, packageEl) {
     var packageItem = $(packageEl);
@@ -104,7 +86,22 @@ function getPackageData($, packageEl) {
     var _a = packageItem.find(constants_1.metadataSelector).map(function (index, el) {
         return $(el).find('a').text().trim();
     }).get(), version = _a[0], developer = _a[1];
-    return { name: name, likes: likes, health: health, popularity: popularity, nullSafe: nullSafe, endorsed: endorsed, version: version, developer: developer, android: android, ios: ios, linux: linux, macos: macos, web: web, windows: windows };
+    return {
+        name: name,
+        likes: likes,
+        health: health,
+        popularity: popularity,
+        nullSafe: nullSafe,
+        endorsed: endorsed,
+        version: version,
+        developer: developer,
+        android: android,
+        ios: ios,
+        linux: linux,
+        macos: macos,
+        web: web,
+        windows: windows
+    };
 }
 function getPageData(pageNum) {
     return __awaiter(this, void 0, void 0, function () {
@@ -126,7 +123,7 @@ function getPageData(pageNum) {
 }
 function main() {
     return __awaiter(this, void 0, void 0, function () {
-        var totalPages, pageSize, totalPackages, allResults, i, pageData, officialPackages, firebasePackages, stateManagePackages;
+        var totalPages, pageSize, totalPackages, allResults, i, pageData, classifiedResults;
         return __generator(this, function (_a) {
             switch (_a.label) {
                 case 0:
@@ -149,24 +146,12 @@ function main() {
                     i++;
                     return [3 /*break*/, 1];
                 case 4:
-                    printDivider();
-                    officialPackages = allResults.filter(function (result) { return constants_1.OFFICIAL_ACCOUNTS.includes(result.developer); });
-                    console.log("Google own a total of " + officialPackages.length + "/" + totalPackages + " top packages");
-                    console.table(officialPackages);
-                    printDivider();
-                    firebasePackages = allResults.filter(function (result) { return result.developer === constants_1.FIREBASE_ACCOUNT; });
-                    console.log("Firebase Packages");
-                    console.table(firebasePackages);
-                    printDivider();
-                    stateManagePackages = allResults.filter(function (result) { return constants_1.STATE_MANAGE_LIST.includes(result.name); });
-                    console.log("State Management Packages");
-                    console.table(stateManagePackages);
-                    printDivider();
-                    // general summary
-                    console.log("Top " + totalPackages + " Flutter Packages");
-                    console.table(allResults);
+                    utils_1.printDivider();
+                    classifiedResults = utils_1.classifyResults(allResults);
+                    // print results to console
+                    utils_1.printResults(classifiedResults);
                     // save all results to file
-                    saveResultsToFile(allResults);
+                    utils_1.saveResultsToFile(classifiedResults);
                     return [2 /*return*/];
             }
         });

@@ -1,5 +1,3 @@
-import fs from 'fs'
-import util from 'util'
 import axios from 'axios'
 import cheerio = require('cheerio')
 import {
@@ -20,25 +18,8 @@ import {
   metadataSelector,
   pubDevUrl,
   packageItemSelector,
-  OFFICIAL_ACCOUNTS,
-  FIREBASE_ACCOUNT,
-  STATE_MANAGE_LIST
 } from './constants'
-
-interface ClassifiedResults {
-  official: any[];
-  firebase: any[];
-  stateManagement: any[];
-  all: any[]
-}
-
-function genDateStr() {
-  const today = new Date()
-  const year = today.getFullYear()
-  const month = `${today.getMonth() + 1}`.padStart(2, "0")
-  const day = `${today.getDate()}`.padStart(2, "0")
-  return [year, month, day].join("_")
-}
+import { classifyResults, printDivider, printResults, saveResultsToFile } from './utils';
 
 function fetchHtmlFromUrl(url: string, page = 1): Promise<cheerio.Root> {
   return axios
@@ -49,60 +30,6 @@ function fetchHtmlFromUrl(url: string, page = 1): Promise<cheerio.Root> {
       }
     })
     .then((response: { data: any; }) => cheerio.load(response.data))
-}
-
-function classifyResults(allResults: any[]) {
-  const all = allResults.map((item, index) => ({ ...item, rank: index + 1}))
-  return {
-    official: all.filter(result => OFFICIAL_ACCOUNTS.includes(result.developer)),
-    firebase: all.filter(result => result.developer === FIREBASE_ACCOUNT),
-    stateManagement: all.filter(result => STATE_MANAGE_LIST.includes(result.name)),
-    all: all,
-  }
-}
-
-function saveResultsToFile(classifiedResults: ClassifiedResults) {
-  const serializedData = JSON.stringify(classifiedResults, null, 4)
-  const dataPath = `data/json/top_packages_${genDateStr()}.json`
-  fs.writeFileSync(dataPath, serializedData, 'utf8')
-}
-
-function printResults(classifiedResults: ClassifiedResults) {
-  const dataPath = `data/log/top_packages_${genDateStr()}.log`
-  const log_file = fs.createWriteStream(dataPath, {flags: 'w'});
-  const log_stdout = process.stdout;
-
-  console.log = function (d: any) {
-    log_file.write(util.format(d));
-    log_stdout.write(util.format(d) + '\n');
-  };
-
-  const {all, official, firebase, stateManagement} = classifiedResults;
-  const totalPackages = all.length;
-
-  // Official packages
-  console.log(`Google own a total of ${official.length}/${totalPackages} top packages`)
-  console.table(official)
-  printDivider()
-
-  // firebase packages
-  console.log(`Firebase Packages`)
-  console.table(firebase)
-  printDivider()
-
-  // State management packages
-  console.log(`State Management Packages`)
-  console.table(stateManagement)
-  printDivider()
-
-  // general summary
-  console.log(`Top ${totalPackages} Flutter Packages`)
-  console.table(all)
-}
-
-
-function printDivider() {
-  console.log('\n');
 }
 
 function getPackageData($: cheerio.Root, packageEl: cheerio.Element) {
