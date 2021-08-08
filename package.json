@@ -4,7 +4,7 @@
   "description": "A crawler for Flutter pub dev website",
   "main": "index.js",
   "scripts": {
-    "start": "tsc && node dist/main.js > data/output.txt",
+    "start": "tsc && node dist/main.js > data/text/top_packages_`date +\"%Y-%m-%d\"`.txt",
     "dev": "nodemon --watch 'src/**/*.ts' --exec 'ts-node' src/main.ts",
     "test": "echo \"Error: no test specified\" && exit 1"
   },

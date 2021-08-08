@@ -1,8 +1,9 @@
 {
     "official": [
         {
+            "rank": 3,
             "name": "shared_preferences",
-            "likes": 3795,
+            "likes": 3796,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -14,12 +15,12 @@
             "linux": true,
             "macos": true,
             "web": true,
-            "windows": true,
-            "rank": 3
+            "windows": true
         },
         {
+            "rank": 5,
             "name": "url_launcher",
-            "likes": 2946,
+            "likes": 2949,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -31,10 +32,10 @@
             "linux": true,
             "macos": true,
             "web": true,
-            "windows": true,
-            "rank": 5
+            "windows": true
         },
         {
+            "rank": 6,
             "name": "animations",
             "likes": 2746,
             "health": 130,
@@ -48,12 +49,12 @@
             "linux": true,
             "macos": true,
             "web": true,
-            "windows": true,
-            "rank": 6
+            "windows": true
         },
         {
+            "rank": 11,
             "name": "image_picker",
-            "likes": 2451,
+            "likes": 2452,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -65,10 +66,10 @@
             "linux": false,
             "macos": false,
             "web": true,
-            "windows": false,
-            "rank": 11
+            "windows": false
         },
         {
+            "rank": 20,
             "name": "path_provider",
             "likes": 1820,
             "health": 120,
@@ -82,12 +83,12 @@
             "linux": true,
             "macos": true,
             "web": false,
-            "windows": true,
-            "rank": 20
+            "windows": true
         },
         {
+            "rank": 24,
             "name": "google_maps_flutter",
-            "likes": 1701,
+            "likes": 1702,
             "health": 120,
             "popularity": 99,
             "nullSafe": true,
@@ -99,12 +100,12 @@
             "linux": false,
             "macos": false,
             "web": false,
-            "windows": false,
-            "rank": 24
+            "windows": false
         },
         {
+            "rank": 29,
             "name": "connectivity",
-            "likes": 1652,
+            "likes": 1653,
             "health": 130,
             "popularity": 99,
             "nullSafe": true,
@@ -116,10 +117,10 @@
             "linux": false,
             "macos": true,
             "web": true,
-            "windows": false,
-            "rank": 29
+            "windows": false
         },
         {
+            "rank": 36,
             "name": "share",
             "likes": 1431,
             "health": 120,
@@ -133,10 +134,10 @@
             "linux": false,
             "macos": false,
             "web": false,
-            "windows": false,
-            "rank": 36
+            "windows": false
         },
         {
+            "rank": 38,
             "name": "webview_flutter",
             "likes": 1402,
             "health": 120,
@@ -150,10 +151,10 @@
             "linux": false,
             "macos": false,
             "web": false,
-            "windows": false,
-            "rank": 38
+            "windows": false
         },
         {
+            "rank": 51,
             "name": "google_sign_in",
             "likes": 1140,
             "health": 130,
@@ -167,10 +168,10 @@
             "linux": false,
             "macos": false,
             "web": true,
-            "windows": false,
-            "rank": 51
+            "windows": false
         },
         {
+            "rank": 53,
             "name": "device_info",
             "likes": 1108,
             "health": 120,
@@ -184,10 +185,10 @@
             "linux": false,
             "macos": false,
             "web": false,
-            "windows": false,
-            "rank": 53
+            "windows": false
         },
         {
+            "rank": 60,
             "name": "video_player",
             "likes": 1061,
             "health": 130,
@@ -201,10 +202,10 @@
             "linux": false,
             "macos": false,
             "web": true,
-            "windows": false,
-            "rank": 60
+            "windows": false
         },
         {
+            "rank": 74,
             "name": "package_info",
             "likes": 868,
             "health": 120,
@@ -218,10 +219,10 @@
             "linux": false,
             "macos": true,
             "web": false,
-            "windows": false,
-            "rank": 74
+            "windows": false
         },
         {
+            "rank": 94,
             "name": "local_auth",
             "likes": 711,
             "health": 120,
@@ -235,10 +236,10 @@
             "linux": false,
             "macos": false,
             "web": false,
-            "windows": false,
-            "rank": 94
+            "windows": false
         },
         {
+            "rank": 96,
             "name": "in_app_purchase",
             "likes": 687,
             "health": 120,
@@ -252,10 +253,10 @@
             "linux": false,
             "macos": false,
             "web": false,
-            "windows": false,
-            "rank": 96
+            "windows": false
         },
         {
+            "rank": 102,
             "name": "camera",
             "likes": 671,
             "health": 110,
@@ -269,10 +270,10 @@
             "linux": false,
             "macos": false,
             "web": false,
-            "windows": false,
-            "rank": 102
+            "windows": false
         },
         {
+            "rank": 104,
             "name": "google_mobile_ads",
             "likes": 668,
             "health": 110,
@@ -286,10 +287,27 @@
             "linux": false,
             "macos": false,
             "web": false,
-            "windows": false,
-            "rank": 104
+            "windows": false
         },
         {
+            "rank": 121,
+            "name": "scrollable_positioned_list",
+            "likes": 564,
+            "health": 110,
+            "popularity": 98,
+            "nullSafe": false,
+            "endorsed": false,
+            "version": "0.1.100.2.0-nullsafety.0",
+            "developer": "google.dev",
+            "android": true,
+            "ios": true,
+            "linux": true,
+            "macos": true,
+            "web": true,
+            "windows": true
+        },
+        {
+            "rank": 133,
             "name": "pedantic",
             "likes": 533,
             "health": 130,
@@ -303,12 +321,12 @@
             "linux": true,
             "macos": true,
             "web": true,
-            "windows": true,
-            "rank": 130
+            "windows": true
         },
         {
+            "rank": 185,
             "name": "flutter_markdown",
-            "likes": 401,
+            "likes": 402,
             "health": 130,
             "popularity": 98,
             "nullSafe": true,
@@ -320,10 +338,10 @@
             "linux": true,
             "macos": true,
             "web": true,
-            "windows": true,
-            "rank": 184
+            "windows": true
         },
         {
+            "rank": 198,
             "name": "sensors",
             "likes": 378,
             "health": 120,
@@ -337,10 +355,10 @@
             "linux": false,
             "macos": false,
             "web": false,
-            "windows": false,
-            "rank": 198
+            "windows": false
         },
         {
+            "rank": 203,
             "name": "built_value",
             "likes": 366,
             "health": 130,
@@ -354,10 +372,10 @@
             "linux": true,
             "macos": true,
             "web": true,
-            "windows": true,
-            "rank": 201
+            "windows": true
         },
         {
+            "rank": 212,
             "name": "android_alarm_manager",
             "likes": 351,
             "health": 110,
@@ -371,27 +389,10 @@
             "linux": false,
             "macos": false,
             "web": false,
-            "windows": false,
-            "rank": 210
+            "windows": false
         },
         {
-            "name": "android_alarm_manager",
-            "likes": 351,
-            "health": 110,
-            "popularity": 93,
-            "nullSafe": true,
-            "endorsed": false,
-            "version": "2.0.2",
-            "developer": "flutter.dev",
-            "android": true,
-            "ios": false,
-            "linux": false,
-            "macos": false,
-            "web": false,
-            "windows": false,
-            "rank": 212
-        },
-        {
+            "rank": 244,
             "name": "json_annotation",
             "likes": 304,
             "health": 120,
@@ -405,12 +406,12 @@
             "linux": true,
             "macos": true,
             "web": true,
-            "windows": true,
-            "rank": 244
+            "windows": true
         },
         {
+            "rank": 247,
             "name": "googleapis",
-            "likes": 303,
+            "likes": 304,
             "health": 125,
             "popularity": 96,
             "nullSafe": true,
@@ -422,12 +423,12 @@
             "linux": true,
             "macos": true,
             "web": true,
-            "windows": true,
-            "rank": 247
+            "windows": true
         }
     ],
     "firebase": [
         {
+            "rank": 23,
             "name": "firebase_auth",
             "likes": 1736,
             "health": 120,
@@ -441,12 +442,12 @@
             "linux": false,
             "macos": true,
             "web": true,
-            "windows": false,
-            "rank": 23
+            "windows": false
         },
         {
+            "rank": 32,
             "name": "cloud_firestore",
-            "likes": 1598,
+            "likes": 1599,
             "health": 120,
             "popularity": 100,
             "nullSafe": true,
@@ -458,10 +459,10 @@
             "linux": false,
             "macos": true,
             "web": true,
-            "windows": false,
-            "rank": 32
+            "windows": false
         },
         {
+            "rank": 34,
             "name": "firebase_messaging",
             "likes": 1522,
             "health": 120,
@@ -475,12 +476,12 @@
             "linux": false,
             "macos": true,
             "web": true,
-            "windows": false,
-            "rank": 34
+            "windows": false
         },
         {
+            "rank": 52,
             "name": "firebase_core",
-            "likes": 1128,
+            "likes": 1129,
             "health": 120,
             "popularity": 100,
             "nullSafe": true,
@@ -492,10 +493,10 @@
             "linux": false,
             "macos": true,
             "web": true,
-            "windows": false,
-            "rank": 52
+            "windows": false
         },
         {
+            "rank": 111,
             "name": "firebase_storage",
             "likes": 614,
             "health": 120,
@@ -509,10 +510,10 @@
             "linux": false,
             "macos": true,
             "web": true,
-            "windows": false,
-            "rank": 111
+            "windows": false
         },
         {
+            "rank": 139,
             "name": "firebase_analytics",
             "likes": 516,
             "health": 120,
@@ -526,10 +527,10 @@
             "linux": false,
             "macos": false,
             "web": true,
-            "windows": false,
-            "rank": 138
+            "windows": false
         },
         {
+            "rank": 165,
             "name": "firebase_crashlytics",
             "likes": 459,
             "health": 110,
@@ -543,10 +544,10 @@
             "linux": false,
             "macos": true,
             "web": false,
-            "windows": false,
-            "rank": 165
+            "windows": false
         },
         {
+            "rank": 216,
             "name": "firebase_dynamic_links",
             "likes": 342,
             "health": 120,
@@ -560,14 +561,14 @@
             "linux": false,
             "macos": false,
             "web": false,
-            "windows": false,
-            "rank": 216
+            "windows": false
         }
     ],
     "stateManagement": [
         {
+            "rank": 1,
             "name": "get",
-            "likes": 5680,
+            "likes": 5682,
             "health": 120,
             "popularity": 99,
             "nullSafe": true,
@@ -579,12 +580,12 @@
             "linux": true,
             "macos": true,
             "web": true,
-            "windows": true,
-            "rank": 1
+            "windows": true
         },
         {
+            "rank": 2,
             "name": "provider",
-            "likes": 4806,
+            "likes": 4807,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -596,12 +597,12 @@
             "linux": true,
             "macos": true,
             "web": true,
-            "windows": true,
-            "rank": 2
+            "windows": true
         },
         {
+            "rank": 46,
             "name": "rxdart",
-            "likes": 1245,
+            "likes": 1246,
             "health": 125,
             "popularity": 100,
             "nullSafe": true,
@@ -613,10 +614,10 @@
             "linux": true,
             "macos": true,
             "web": true,
-            "windows": true,
-            "rank": 46
+            "windows": true
         },
         {
+            "rank": 55,
             "name": "bloc",
             "likes": 1092,
             "health": 130,
@@ -630,12 +631,12 @@
             "linux": true,
             "macos": true,
             "web": true,
-            "windows": true,
-            "rank": 55
+            "windows": true
         },
         {
+            "rank": 69,
             "name": "riverpod",
-            "likes": 925,
+            "likes": 927,
             "health": 130,
             "popularity": 98,
             "nullSafe": true,
@@ -646,10 +647,10 @@
             "linux": true,
             "macos": true,
             "web": true,
-            "windows": true,
-            "rank": 69
+            "windows": true
         },
         {
+            "rank": 105,
             "name": "mobx",
             "likes": 663,
             "health": 120,
@@ -663,14 +664,14 @@
             "linux": true,
             "macos": true,
             "web": true,
-            "windows": true,
-            "rank": 105
+            "windows": true
         }
     ],
     "all": [
         {
+            "rank": 1,
             "name": "get",
-            "likes": 5680,
+            "likes": 5682,
             "health": 120,
             "popularity": 99,
             "nullSafe": true,
@@ -682,12 +683,12 @@
             "linux": true,
             "macos": true,
             "web": true,
-            "windows": true,
-            "rank": 1
+            "windows": true
         },
         {
+            "rank": 2,
             "name": "provider",
-            "likes": 4806,
+            "likes": 4807,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -699,12 +700,12 @@
             "linux": true,
             "macos": true,
             "web": true,
-            "windows": true,
-            "rank": 2
+            "windows": true
         },
         {
+            "rank": 3,
             "name": "shared_preferences",
-            "likes": 3795,
+            "likes": 3796,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -716,10 +717,10 @@
             "linux": true,
             "macos": true,
             "web": true,
-            "windows": true,
-            "rank": 3
+            "windows": true
         },
         {
+            "rank": 4,
             "name": "http",
             "likes": 3124,
             "health": 130,
@@ -733,12 +734,12 @@
             "linux": true,
             "macos": true,
             "web": true,
-            "windows": true,
-            "rank": 4
+            "windows": true
         },
         {
+            "rank": 5,
             "name": "url_launcher",
-            "likes": 2946,
+            "likes": 2949,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -750,10 +751,10 @@
             "linux": true,
             "macos": true,
             "web": true,
-            "windows": true,
-            "rank": 5
+            "windows": true
         },
         {
+            "rank": 6,
             "name": "animations",
             "likes": 2746,
             "health": 130,
@@ -767,10 +768,10 @@
             "linux": true,
             "macos": true,
             "web": true,
-            "windows": true,
-            "rank": 6
+            "windows": true
         },
         {
+            "rank": 7,
             "name": "flutter_bloc",
             "likes": 2595,
             "health": 130,
@@ -784,10 +785,10 @@
             "linux": true,
             "macos": true,
             "web": true,
-            "windows": true,
-            "rank": 7
+            "windows": true
         },
         {
+            "rank": 8,
             "name": "dio",
             "likes": 2523,
             "health": 130,
@@ -801,12 +802,12 @@
             "linux": true,
             "macos": true,
             "web": true,
-            "windows": true,
-            "rank": 8
+            "windows": true
         },
         {
+            "rank": 9,
             "name": "flutter_launcher_icons",
-            "likes": 2516,
+            "likes": 2518,
             "health": 90,
             "popularity": 99,
             "nullSafe": true,
@@ -818,12 +819,12 @@
             "linux": true,
             "macos": true,
             "web": false,
-            "windows": true,
-            "rank": 9
+            "windows": true
         },
         {
+            "rank": 10,
             "name": "google_fonts",
-            "likes": 2467,
+            "likes": 2471,
             "health": 130,
             "popularity": 99,
             "nullSafe": true,
@@ -835,12 +836,12 @@
             "linux": true,
             "macos": true,
             "web": true,
-            "windows": true,
-            "rank": 10
+            "windows": true
         },
         {
+            "rank": 11,
             "name": "image_picker",
-            "likes": 2451,
+            "likes": 2452,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -852,12 +853,12 @@
             "linux": false,
             "macos": false,
             "web": true,
-            "windows": false,
-            "rank": 11
+            "windows": false
         },
         {
+            "rank": 12,
             "name": "flutter_local_notifications",
-            "likes": 2192,
+            "likes": 2193,
             "health": 120,
             "popularity": 99,
             "nullSafe": true,
@@ -869,10 +870,10 @@
             "linux": false,
             "macos": true,
             "web": false,
-            "windows": false,
-            "rank": 12
+            "windows": false
         },
         {
+            "rank": 13,
             "name": "flutter_slidable",
             "likes": 2172,
             "health": 120,
@@ -886,10 +887,10 @@
             "linux": true,
             "macos": true,
             "web": true,
-            "windows": true,
-            "rank": 13
+            "windows": true
         },
         {
+            "rank": 14,
             "name": "hive",
             "likes": 2110,
             "health": 130,
@@ -903,12 +904,12 @@
             "linux": true,
             "macos": true,
             "web": true,
-            "windows": true,
-            "rank": 14
+            "windows": true
         },
         {
+            "rank": 15,
             "name": "cached_network_image",
-            "likes": 2108,
+            "likes": 2109,
             "health": 120,
             "popularity": 100,
             "nullSafe": true,
@@ -920,12 +921,12 @@
             "linux": false,
             "macos": true,
             "web": false,
-            "windows": false,
-            "rank": 15
+            "windows": false
         },
         {
+            "rank": 16,
             "name": "geolocator",
-            "likes": 2104,
+            "likes": 2106,
             "health": 130,
             "popularity": 99,
             "nullSafe": true,
@@ -937,10 +938,10 @@
             "linux": false,
             "macos": false,
             "web": true,
-            "windows": false,
-            "rank": 16
+            "windows": false
         },
         {
+            "rank": 17,
             "name": "animated_text_kit",
             "likes": 2012,
             "health": 130,
@@ -954,10 +955,10 @@
             "linux": true,
             "macos": true,
             "web": true,
-            "windows": true,
-            "rank": 17
+            "windows": true
         },
         {
+            "rank": 18,
             "name": "sqflite",
             "likes": 1973,
             "health": 120,
@@ -971,10 +972,10 @@
             "linux": false,
             "macos": true,
             "web": false,
-            "windows": false,
-            "rank": 18
+            "windows": false
         },
         {
+            "rank": 19,
             "name": "carousel_slider",
             "likes": 1929,
             "health": 120,
@@ -988,10 +989,10 @@
             "linux": true,
             "macos": true,
             "web": true,
-            "windows": true,
-            "rank": 19
+            "windows": true
         },
         {
+            "rank": 20,
             "name": "path_provider",
             "likes": 1820,
             "health": 120,
@@ -1005,10 +1006,10 @@
             "linux": true,
             "macos": true,
             "web": false,
-            "windows": true,
-            "rank": 20
+            "windows": true
         },
         {
+            "rank": 21,
             "name": "intl",
             "likes": 1819,
             "health": 120,
@@ -1022,10 +1023,10 @@
             "linux": true,
             "macos": true,
             "web": true,
-            "windows": true,
-            "rank": 21
+            "windows": true
         },
         {
+            "rank": 22,
             "name": "fl_chart",
             "likes": 1772,
             "health": 120,
@@ -1039,10 +1040,10 @@
             "linux": true,
             "macos": true,
             "web": true,
-            "windows": true,
-            "rank": 22
+            "windows": true
         },
         {
+            "rank": 23,
             "name": "firebase_auth",
             "likes": 1736,
             "health": 120,
@@ -1056,12 +1057,12 @@
             "linux": false,
             "macos": true,
             "web": true,
-            "windows": false,
-            "rank": 23
+            "windows": false
         },
         {
+            "rank": 24,
             "name": "google_maps_flutter",
-            "likes": 1701,
+            "likes": 1702,
             "health": 120,
             "popularity": 99,
             "nullSafe": true,
@@ -1073,10 +1074,10 @@
             "linux": false,
             "macos": false,
             "web": false,
-            "windows": false,
-            "rank": 24
+            "windows": false
         },
         {
+            "rank": 25,
             "name": "animate_do",
             "likes": 1701,
             "health": 120,
@@ -1090,12 +1091,12 @@
             "linux": true,
             "macos": true,
             "web": true,
-            "windows": true,
-            "rank": 25
+            "windows": true
         },
         {
+            "rank": 26,
             "name": "flutter_spinkit",
-            "likes": 1700,
+            "likes": 1701,
             "health": 105,
             "popularity": 99,
             "nullSafe": true,
@@ -1106,12 +1107,12 @@
             "linux": true,
             "macos": true,
             "web": true,
-            "windows": true,
-            "rank": 26
+            "windows": true
         },
         {
+            "rank": 27,
             "name": "flutter_native_splash",
-            "likes": 1669,
+            "likes": 1671,
             "health": 130,
             "popularity": 98,
             "nullSafe": true,
@@ -1123,12 +1124,12 @@
             "linux": true,
             "macos": true,
             "web": true,
-            "windows": true,
-            "rank": 27
+            "windows": true
         },
         {
+            "rank": 28,
             "name": "font_awesome_flutter",
-            "likes": 1657,
+            "likes": 1658,
             "health": 120,
             "popularity": 99,
             "nullSafe": true,
@@ -1140,12 +1141,12 @@
             "linux": true,
             "macos": true,
             "web": true,
-            "windows": true,
-            "rank": 28
+            "windows": true
         },
         {
+            "rank": 29,
             "name": "connectivity",
-            "likes": 1652,
+            "likes": 1653,
             "health": 130,
             "popularity": 99,
             "nullSafe": true,
@@ -1157,10 +1158,10 @@
             "linux": false,
             "macos": true,
             "web": true,
-            "windows": false,
-            "rank": 29
+            "windows": false
         },
         {
+            "rank": 30,
             "name": "flutter_svg",
             "likes": 1639,
             "health": 120,
@@ -1174,10 +1175,10 @@
             "linux": true,
             "macos": true,
             "web": false,
-            "windows": true,
-            "rank": 30
+            "windows": true
         },
         {
+            "rank": 31,
             "name": "shimmer",
             "likes": 1631,
             "health": 130,
@@ -1191,12 +1192,12 @@
             "linux": true,
             "macos": true,
             "web": true,
-            "windows": true,
-            "rank": 31
+            "windows": true
         },
         {
+            "rank": 32,
             "name": "cloud_firestore",
-            "likes": 1598,
+            "likes": 1599,
             "health": 120,
             "popularity": 100,
             "nullSafe": true,
@@ -1208,12 +1209,12 @@
             "linux": false,
             "macos": true,
             "web": true,
-            "windows": false,
-            "rank": 32
+            "windows": false
         },
         {
+            "rank": 33,
             "name": "auto_size_text",
-            "likes": 1543,
+            "likes": 1544,
             "health": 110,
             "popularity": 99,
             "nullSafe": false,
@@ -1224,10 +1225,10 @@
             "linux": true,
             "macos": true,
             "web": true,
-            "windows": true,
-            "rank": 33
+            "windows": true
         },
         {
+            "rank": 34,
             "name": "firebase_messaging",
             "likes": 1522,
             "health": 120,
@@ -1241,12 +1242,12 @@
             "linux": false,
             "macos": true,
             "web": true,
-            "windows": false,
-            "rank": 34
+            "windows": false
         },
         {
+            "rank": 35,
             "name": "permission_handler",
-            "likes": 1517,
+            "likes": 1518,
             "health": 120,
             "popularity": 99,
             "nullSafe": true,
@@ -1258,10 +1259,10 @@
             "linux": false,
             "macos": false,
             "web": false,
-            "windows": false,
-            "rank": 35
+            "windows": false
         },
         {
+            "rank": 36,
             "name": "share",
             "likes": 1431,
             "health": 120,
@@ -1275,12 +1276,12 @@
             "linux": false,
             "macos": false,
             "web": false,
-            "windows": false,
-            "rank": 36
+            "windows": false
         },
         {
+            "rank": 37,
             "name": "get_it",
-            "likes": 1405,
+            "likes": 1407,
             "health": 130,
             "popularity": 99,
             "nullSafe": true,
@@ -1292,10 +1293,10 @@
             "linux": true,
             "macos": true,
             "web": true,
-            "windows": true,
-            "rank": 37
+            "windows": true
         },
         {
+            "rank": 38,
             "name": "webview_flutter",
             "likes": 1402,
             "health": 120,
@@ -1309,10 +1310,10 @@
             "linux": false,
             "macos": false,
             "web": false,
-            "windows": false,
-            "rank": 38
+            "windows": false
         },
         {
+            "rank": 39,
             "name": "flutter_swiper",
             "likes": 1347,
             "health": 110,
@@ -1325,10 +1326,10 @@
             "linux": true,
             "macos": true,
             "web": true,
-            "windows": true,
-            "rank": 39
+            "windows": true
         },
         {
+            "rank": 40,
             "name": "file_picker",
             "likes": 1327,
             "health": 130,
@@ -1342,12 +1343,12 @@
             "linux": false,
             "macos": false,
             "web": true,
-            "windows": false,
-            "rank": 40
+            "windows": false
         },
         {
+            "rank": 41,
             "name": "flutter_staggered_grid_view",
-            "likes": 1325,
+            "likes": 1326,
             "health": 130,
             "popularity": 99,
             "nullSafe": true,
@@ -1359,12 +1360,12 @@
             "linux": true,
             "macos": true,
             "web": true,
-            "windows": true,
-            "rank": 41
+            "windows": true
         },
         {
+            "rank": 42,
             "name": "device_preview",
-            "likes": 1295,
+            "likes": 1296,
             "health": 110,
             "popularity": 97,
             "nullSafe": true,
@@ -1376,10 +1377,10 @@
             "linux": true,
             "macos": true,
             "web": false,
-            "windows": true,
-            "rank": 42
+            "windows": true
         },
         {
+            "rank": 43,
             "name": "location",
             "likes": 1293,
             "health": 125,
@@ -1393,12 +1394,12 @@
             "linux": false,
             "macos": true,
             "web": true,
-            "windows": false,
-            "rank": 43
+            "windows": false
         },
         {
+            "rank": 44,
             "name": "convex_bottom_bar",
-            "likes": 1293,
+            "likes": 1295,
             "health": 130,
             "popularity": 96,
             "nullSafe": true,
@@ -1410,12 +1411,12 @@
             "linux": true,
             "macos": true,
             "web": true,
-            "windows": true,
-            "rank": 44
+            "windows": true
         },
         {
+            "rank": 45,
             "name": "modal_bottom_sheet",
-            "likes": 1257,
+            "likes": 1258,
             "health": 120,
             "popularity": 99,
             "nullSafe": true,
@@ -1427,12 +1428,12 @@
             "linux": true,
             "macos": true,
             "web": true,
-            "windows": true,
-            "rank": 45
+            "windows": true
         },
         {
+            "rank": 46,
             "name": "rxdart",
-            "likes": 1245,
+            "likes": 1246,
             "health": 125,
             "popularity": 100,
             "nullSafe": true,
@@ -1444,12 +1445,12 @@
             "linux": true,
             "macos": true,
             "web": true,
-            "windows": true,
-            "rank": 46
+            "windows": true
         },
         {
+            "rank": 47,
             "name": "fluttertoast",
-            "likes": 1231,
+            "likes": 1233,
             "health": 130,
             "popularity": 99,
             "nullSafe": true,
@@ -1461,10 +1462,10 @@
             "linux": false,
             "macos": false,
             "web": true,
-            "windows": false,
-            "rank": 47
+            "windows": false
         },
         {
+            "rank": 48,
             "name": "pull_to_refresh",
             "likes": 1225,
             "health": 130,
@@ -1477,12 +1478,12 @@
             "linux": true,
             "macos": true,
             "web": true,
-            "windows": true,
-            "rank": 48
+            "windows": true
         },
         {
+            "rank": 49,
             "name": "sliding_up_panel",
-            "likes": 1218,
+            "likes": 1219,
             "health": 130,
             "popularity": 98,
             "nullSafe": true,
@@ -1494,10 +1495,10 @@
             "linux": true,
             "macos": true,
             "web": true,
-            "windows": true,
-            "rank": 49
+            "windows": true
         },
         {
+            "rank": 50,
             "name": "flutter_screenutil",
             "likes": 1200,
             "health": 130,
@@ -1510,10 +1511,10 @@
             "linux": true,
             "macos": true,
             "web": true,
-            "windows": true,
-            "rank": 50
+            "windows": true
         },
         {
+            "rank": 51,
             "name": "google_sign_in",
             "likes": 1140,
             "health": 130,
@@ -1527,12 +1528,12 @@
             "linux": false,
             "macos": false,
             "web": true,
-            "windows": false,
-            "rank": 51
+            "windows": false
         },
         {
+            "rank": 52,
             "name": "firebase_core",
-            "likes": 1128,
+            "likes": 1129,
             "health": 120,
             "popularity": 100,
             "nullSafe": true,
@@ -1544,10 +1545,10 @@
             "linux": false,
             "macos": true,
             "web": true,
-            "windows": false,
-            "rank": 52
+            "windows": false
         },
         {
+            "rank": 53,
             "name": "device_info",
             "likes": 1108,
             "health": 120,
@@ -1561,12 +1562,12 @@
             "linux": false,
             "macos": false,
             "web": false,
-            "windows": false,
-            "rank": 53
+            "windows": false
         },
         {
+            "rank": 54,
             "name": "introduction_screen",
-            "likes": 1104,
+            "likes": 1106,
             "health": 120,
             "popularity": 98,
             "nullSafe": true,
@@ -1577,10 +1578,10 @@
             "linux": true,
             "macos": true,
             "web": true,
-            "windows": true,
-            "rank": 54
+            "windows": true
         },
         {
+            "rank": 55,
             "name": "bloc",
             "likes": 1092,
             "health": 130,
@@ -1594,10 +1595,10 @@
             "linux": true,
             "macos": true,
             "web": true,
-            "windows": true,
-            "rank": 55
+            "windows": true
         },
         {
+            "rank": 56,
             "name": "photo_view",
             "likes": 1084,
             "health": 130,
@@ -1611,10 +1612,10 @@
             "linux": true,
             "macos": true,
             "web": true,
-            "windows": true,
-            "rank": 56
+            "windows": true
         },
         {
+            "rank": 57,
             "name": "just_audio",
             "likes": 1074,
             "health": 130,
@@ -1628,10 +1629,10 @@
             "linux": false,
             "macos": true,
             "web": true,
-            "windows": false,
-            "rank": 57
+            "windows": false
         },
         {
+            "rank": 58,
             "name": "flutter_secure_storage",
             "likes": 1065,
             "health": 120,
@@ -1644,10 +1645,10 @@
             "linux": true,
             "macos": false,
             "web": false,
-            "windows": false,
-            "rank": 58
+            "windows": false
         },
         {
+            "rank": 59,
             "name": "syncfusion_flutter_charts",
             "likes": 1063,
             "health": 130,
@@ -1661,10 +1662,10 @@
             "linux": true,
             "macos": true,
             "web": true,
-            "windows": true,
-            "rank": 59
+            "windows": true
         },
         {
+            "rank": 60,
             "name": "video_player",
             "likes": 1061,
             "health": 130,
@@ -1678,12 +1679,12 @@
             "linux": false,
             "macos": false,
             "web": true,
-            "windows": false,
-            "rank": 60
+            "windows": false
         },
         {
+            "rank": 61,
             "name": "simple_animations",
-            "likes": 1047,
+            "likes": 1048,
             "health": 130,
             "popularity": 98,
             "nullSafe": true,
@@ -1695,10 +1696,10 @@
             "linux": true,
             "macos": true,
             "web": true,
-            "windows": true,
-            "rank": 61
+            "windows": true
         },
         {
+            "rank": 62,
             "name": "audioplayers",
             "likes": 998,
             "health": 130,
@@ -1712,12 +1713,12 @@
             "linux": false,
             "macos": true,
             "web": true,
-            "windows": false,
-            "rank": 62
+            "windows": false
         },
         {
+            "rank": 63,
             "name": "table_calendar",
-            "likes": 987,
+            "likes": 989,
             "health": 130,
             "popularity": 98,
             "nullSafe": true,
@@ -1728,10 +1729,10 @@
             "linux": true,
             "macos": true,
             "web": true,
-            "windows": true,
-            "rank": 63
+            "windows": true
         },
         {
+            "rank": 64,
             "name": "badges",
             "likes": 984,
             "health": 130,
@@ -1745,12 +1746,12 @@
             "linux": true,
             "macos": true,
             "web": true,
-            "windows": true,
-            "rank": 64
+            "windows": true
         },
         {
+            "rank": 65,
             "name": "easy_localization",
-            "likes": 976,
+            "likes": 977,
             "health": 130,
             "popularity": 98,
             "nullSafe": true,
@@ -1761,10 +1762,10 @@
             "linux": true,
             "macos": true,
             "web": true,
-            "windows": true,
-            "rank": 65
+            "windows": true
         },
         {
+            "rank": 66,
             "name": "responsive_framework",
             "likes": 968,
             "health": 130,
@@ -1778,10 +1779,10 @@
             "linux": true,
             "macos": true,
             "web": true,
-            "windows": true,
-            "rank": 66
+            "windows": true
         },
         {
+            "rank": 67,
             "name": "equatable",
             "likes": 947,
             "health": 130,
@@ -1795,12 +1796,12 @@
             "linux": true,
             "macos": true,
             "web": true,
-            "windows": true,
-            "rank": 67
+            "windows": true
         },
         {
+            "rank": 68,
             "name": "lottie",
-            "likes": 942,
+            "likes": 944,
             "health": 130,
             "popularity": 99,
             "nullSafe": true,
@@ -1812,12 +1813,12 @@
             "linux": true,
             "macos": true,
             "web": true,
-            "windows": true,
-            "rank": 68
+            "windows": true
         },
         {
+            "rank": 69,
             "name": "riverpod",
-            "likes": 925,
+            "likes": 927,
             "health": 130,
             "popularity": 98,
             "nullSafe": true,
@@ -1828,10 +1829,10 @@
             "linux": true,
             "macos": true,
             "web": true,
-            "windows": true,
-            "rank": 69
+            "windows": true
         },
         {
+            "rank": 70,
             "name": "timeline_tile",
             "likes": 909,
             "health": 120,
@@ -1845,10 +1846,10 @@
             "linux": true,
             "macos": true,
             "web": true,
-            "windows": true,
-            "rank": 70
+            "windows": true
         },
         {
+            "rank": 71,
             "name": "logger",
             "likes": 907,
             "health": 130,
@@ -1861,10 +1862,10 @@
             "linux": true,
             "macos": true,
             "web": true,
-            "windows": true,
-            "rank": 71
+            "windows": true
         },
         {
+            "rank": 72,
             "name": "flutter_form_builder",
             "likes": 891,
             "health": 130,
@@ -1878,10 +1879,10 @@
             "linux": true,
             "macos": true,
             "web": true,
-            "windows": true,
-            "rank": 72
+            "windows": true
         },
         {
+            "rank": 73,
             "name": "curved_navigation_bar",
             "likes": 890,
             "health": 130,
@@ -1895,10 +1896,10 @@
             "linux": true,
             "macos": true,
             "web": true,
-            "windows": true,
-            "rank": 73
+            "windows": true
         },
         {
+            "rank": 74,
             "name": "package_info",
             "likes": 868,
             "health": 120,
@@ -1912,28 +1913,28 @@
             "linux": false,
             "macos": true,
             "web": false,
-            "windows": false,
-            "rank": 74
+            "windows": false
         },
         {
+            "rank": 75,
             "name": "auto_route",
-            "likes": 866,
+            "likes": 867,
             "health": 120,
             "popularity": 97,
             "nullSafe": true,
             "endorsed": false,
-            "version": "2.2.0",
+            "version": "2.3.0",
             "android": true,
             "ios": true,
             "linux": true,
             "macos": true,
             "web": true,
-            "windows": true,
-            "rank": 75
+            "windows": true
         },
         {
+            "rank": 76,
             "name": "persistent_bottom_nav_bar",
-            "likes": 820,
+            "likes": 821,
             "health": 130,
             "popularity": 97,
             "nullSafe": true,
@@ -1944,10 +1945,10 @@
             "linux": true,
             "macos": true,
             "web": true,
-            "windows": true,
-            "rank": 76
+            "windows": true
         },
         {
+            "rank": 77,
             "name": "percent_indicator",
             "likes": 798,
             "health": 130,
@@ -1961,27 +1962,10 @@
             "linux": true,
             "macos": true,
             "web": true,
-            "windows": true,
-            "rank": 77
+            "windows": true
         },
         {
-            "name": "pdf",
-            "likes": 794,
-            "health": 130,
-            "popularity": 98,
-            "nullSafe": true,
-            "endorsed": false,
-            "version": "3.4.2",
-            "developer": "nfet.net",
-            "android": true,
-            "ios": true,
-            "linux": true,
-            "macos": true,
-            "web": true,
-            "windows": true,
-            "rank": 78
-        },
-        {
+            "rank": 78,
             "name": "stacked",
             "likes": 794,
             "health": 120,
@@ -1995,12 +1979,29 @@
             "linux": true,
             "macos": true,
             "web": true,
-            "windows": true,
-            "rank": 79
+            "windows": true
         },
         {
+            "rank": 79,
+            "name": "pdf",
+            "likes": 794,
+            "health": 130,
+            "popularity": 98,
+            "nullSafe": true,
+            "endorsed": false,
+            "version": "3.4.2",
+            "developer": "nfet.net",
+            "android": true,
+            "ios": true,
+            "linux": true,
+            "macos": true,
+            "web": true,
+            "windows": true
+        },
+        {
+            "rank": 80,
             "name": "charts_flutter",
-            "likes": 787,
+            "likes": 788,
             "health": 120,
             "popularity": 98,
             "nullSafe": true,
@@ -2011,10 +2012,10 @@
             "linux": true,
             "macos": true,
             "web": true,
-            "windows": true,
-            "rank": 80
+            "windows": true
         },
         {
+            "rank": 81,
             "name": "infinite_scroll_pagination",
             "likes": 784,
             "health": 130,
@@ -2028,12 +2029,12 @@
             "linux": true,
             "macos": true,
             "web": true,
-            "windows": true,
-            "rank": 81
+            "windows": true
         },
         {
+            "rank": 82,
             "name": "supercharged",
-            "likes": 775,
+            "likes": 776,
             "health": 130,
             "popularity": 99,
             "nullSafe": true,
@@ -2045,10 +2046,26 @@
             "linux": true,
             "macos": true,
             "web": true,
-            "windows": true,
-            "rank": 82
+            "windows": true
         },
         {
+            "rank": 83,
+            "name": "flutter_neumorphic",
+            "likes": 771,
+            "health": 110,
+            "popularity": 95,
+            "nullSafe": true,
+            "endorsed": false,
+            "version": "3.1.0",
+            "android": true,
+            "ios": true,
+            "linux": true,
+            "macos": true,
+            "web": false,
+            "windows": true
+        },
+        {
+            "rank": 84,
             "name": "image_cropper",
             "likes": 770,
             "health": 115,
@@ -2062,28 +2079,12 @@
             "linux": false,
             "macos": false,
             "web": false,
-            "windows": false,
-            "rank": 83
+            "windows": false
         },
         {
-            "name": "flutter_neumorphic",
-            "likes": 771,
-            "health": 110,
-            "popularity": 95,
-            "nullSafe": true,
-            "endorsed": false,
-            "version": "3.1.0",
-            "android": true,
-            "ios": true,
-            "linux": true,
-            "macos": true,
-            "web": false,
-            "windows": true,
-            "rank": 84
-        },
-        {
+            "rank": 85,
             "name": "material_floating_search_bar",
-            "likes": 763,
+            "likes": 764,
             "health": 130,
             "popularity": 96,
             "nullSafe": true,
@@ -2094,10 +2095,10 @@
             "linux": true,
             "macos": true,
             "web": true,
-            "windows": true,
-            "rank": 85
+            "windows": true
         },
         {
+            "rank": 86,
             "name": "responsive_builder",
             "likes": 751,
             "health": 130,
@@ -2111,10 +2112,10 @@
             "linux": true,
             "macos": true,
             "web": true,
-            "windows": true,
-            "rank": 86
+            "windows": true
         },
         {
+            "rank": 87,
             "name": "pin_code_fields",
             "likes": 745,
             "health": 130,
@@ -2128,12 +2129,12 @@
             "linux": true,
             "macos": true,
             "web": true,
-            "windows": true,
-            "rank": 87
+            "windows": true
         },
         {
+            "rank": 88,
             "name": "flutter_hooks",
-            "likes": 744,
+            "likes": 745,
             "health": 130,
             "popularity": 98,
             "nullSafe": true,
@@ -2145,12 +2146,12 @@
             "linux": true,
             "macos": true,
             "web": true,
-            "windows": true,
-            "rank": 88
+            "windows": true
         },
         {
+            "rank": 89,
             "name": "getwidget",
-            "likes": 730,
+            "likes": 731,
             "health": 130,
             "popularity": 96,
             "nullSafe": true,
@@ -2162,12 +2163,12 @@
             "linux": true,
             "macos": true,
             "web": true,
-            "windows": true,
-            "rank": 89
+            "windows": true
         },
         {
+            "rank": 90,
             "name": "flutter_typeahead",
-            "likes": 727,
+            "likes": 728,
             "health": 130,
             "popularity": 98,
             "nullSafe": true,
@@ -2178,12 +2179,12 @@
             "linux": false,
             "macos": false,
             "web": true,
-            "windows": false,
-            "rank": 90
+            "windows": false
         },
         {
+            "rank": 91,
             "name": "flutter_html",
-            "likes": 717,
+            "likes": 719,
             "health": 110,
             "popularity": 99,
             "nullSafe": true,
@@ -2195,10 +2196,10 @@
             "linux": false,
             "macos": false,
             "web": false,
-            "windows": false,
-            "rank": 91
+            "windows": false
         },
         {
+            "rank": 92,
             "name": "flutter_inappwebview",
             "likes": 715,
             "health": 120,
@@ -2212,12 +2213,12 @@
             "linux": false,
             "macos": false,
             "web": false,
-            "windows": false,
-            "rank": 92
+            "windows": false
         },
         {
+            "rank": 93,
             "name": "flutter_rating_bar",
-            "likes": 713,
+            "likes": 715,
             "health": 130,
             "popularity": 99,
             "nullSafe": true,
@@ -2229,10 +2230,10 @@
             "linux": true,
             "macos": true,
             "web": true,
-            "windows": true,
-            "rank": 93
+            "windows": true
         },
         {
+            "rank": 94,
             "name": "local_auth",
             "likes": 711,
             "health": 120,
@@ -2246,10 +2247,10 @@
             "linux": false,
             "macos": false,
             "web": false,
-            "windows": false,
-            "rank": 94
+            "windows": false
         },
         {
+            "rank": 95,
             "name": "smooth_page_indicator",
             "likes": 697,
             "health": 110,
@@ -2262,10 +2263,10 @@
             "linux": true,
             "macos": true,
             "web": true,
-            "windows": true,
-            "rank": 95
+            "windows": true
         },
         {
+            "rank": 96,
             "name": "in_app_purchase",
             "likes": 687,
             "health": 120,
@@ -2279,10 +2280,10 @@
             "linux": false,
             "macos": false,
             "web": false,
-            "windows": false,
-            "rank": 96
+            "windows": false
         },
         {
+            "rank": 97,
             "name": "flutter_staggered_animations",
             "likes": 687,
             "health": 120,
@@ -2296,10 +2297,10 @@
             "linux": true,
             "macos": true,
             "web": true,
-            "windows": true,
-            "rank": 97
+            "windows": true
         },
         {
+            "rank": 98,
             "name": "expandable",
             "likes": 686,
             "health": 130,
@@ -2312,10 +2313,10 @@
             "linux": true,
             "macos": true,
             "web": true,
-            "windows": true,
-            "rank": 98
+            "windows": true
         },
         {
+            "rank": 99,
             "name": "extended_image",
             "likes": 678,
             "health": 120,
@@ -2329,10 +2330,10 @@
             "linux": true,
             "macos": true,
             "web": true,
-            "windows": true,
-            "rank": 99
+            "windows": true
         },
         {
+            "rank": 100,
             "name": "qr_flutter",
             "likes": 678,
             "health": 130,
@@ -2346,12 +2347,12 @@
             "linux": true,
             "macos": true,
             "web": true,
-            "windows": true,
-            "rank": 100
+            "windows": true
         },
         {
+            "rank": 101,
             "name": "velocity_x",
-            "likes": 675,
+            "likes": 676,
             "health": 130,
             "popularity": 96,
             "nullSafe": true,
@@ -2363,10 +2364,10 @@
             "linux": true,
             "macos": true,
             "web": true,
-            "windows": true,
-            "rank": 101
+            "windows": true
         },
         {
+            "rank": 102,
             "name": "camera",
             "likes": 671,
             "health": 110,
@@ -2380,12 +2381,12 @@
             "linux": false,
             "macos": false,
             "web": false,
-            "windows": false,
-            "rank": 102
+            "windows": false
         },
         {
+            "rank": 103,
             "name": "flutter_blurhash",
-            "likes": 672,
+            "likes": 674,
             "health": 130,
             "popularity": 99,
             "nullSafe": true,
@@ -2397,10 +2398,10 @@
             "linux": true,
             "macos": true,
             "web": true,
-            "windows": true,
-            "rank": 103
+            "windows": true
         },
         {
+            "rank": 104,
             "name": "google_mobile_ads",
             "likes": 668,
             "health": 110,
@@ -2414,10 +2415,10 @@
             "linux": false,
             "macos": false,
             "web": false,
-            "windows": false,
-            "rank": 104
+            "windows": false
         },
         {
+            "rank": 105,
             "name": "mobx",
             "likes": 663,
             "health": 120,
@@ -2431,10 +2432,10 @@
             "linux": true,
             "macos": true,
             "web": true,
-            "windows": true,
-            "rank": 105
+            "windows": true
         },
         {
+            "rank": 106,
             "name": "timeago",
             "likes": 650,
             "health": 115,
@@ -2447,12 +2448,12 @@
             "linux": true,
             "macos": true,
             "web": true,
-            "windows": true,
-            "rank": 106
+            "windows": true
         },
         {
+            "rank": 107,
             "name": "smart_select",
-            "likes": 649,
+            "likes": 650,
             "health": 100,
             "popularity": 95,
             "nullSafe": false,
@@ -2464,10 +2465,10 @@
             "linux": true,
             "macos": true,
             "web": true,
-            "windows": true,
-            "rank": 107
+            "windows": true
         },
         {
+            "rank": 108,
             "name": "flutter_modular",
             "likes": 648,
             "health": 120,
@@ -2481,10 +2482,10 @@
             "linux": true,
             "macos": true,
             "web": true,
-            "windows": true,
-            "rank": 108
+            "windows": true
         },
         {
+            "rank": 109,
             "name": "uuid",
             "likes": 643,
             "health": 130,
@@ -2498,12 +2499,12 @@
             "linux": true,
             "macos": true,
             "web": true,
-            "windows": true,
-            "rank": 109
+            "windows": true
         },
         {
+            "rank": 110,
             "name": "sign_in_with_apple",
-            "likes": 637,
+            "likes": 638,
             "health": 120,
             "popularity": 98,
             "nullSafe": true,
@@ -2515,10 +2516,10 @@
             "linux": false,
             "macos": true,
             "web": false,
-            "windows": false,
-            "rank": 110
+            "windows": false
         },
         {
+            "rank": 111,
             "name": "firebase_storage",
             "likes": 614,
             "health": 120,
@@ -2532,10 +2533,10 @@
             "linux": false,
             "macos": true,
             "web": true,
-            "windows": false,
-            "rank": 111
+            "windows": false
         },
         {
+            "rank": 112,
             "name": "intro_slider",
             "likes": 611,
             "health": 120,
@@ -2548,12 +2549,12 @@
             "linux": true,
             "macos": true,
             "web": false,
-            "windows": true,
-            "rank": 112
+            "windows": true
         },
         {
+            "rank": 113,
             "name": "awesome_notifications",
-            "likes": 602,
+            "likes": 603,
             "health": 120,
             "popularity": 95,
             "nullSafe": true,
@@ -2565,10 +2566,10 @@
             "linux": false,
             "macos": false,
             "web": false,
-            "windows": false,
-            "rank": 113
+            "windows": false
         },
         {
+            "rank": 114,
             "name": "qr_code_scanner",
             "likes": 595,
             "health": 120,
@@ -2581,10 +2582,10 @@
             "linux": false,
             "macos": false,
             "web": false,
-            "windows": false,
-            "rank": 114
+            "windows": false
         },
         {
+            "rank": 115,
             "name": "flutter_easyloading",
             "likes": 591,
             "health": 120,
@@ -2597,10 +2598,10 @@
             "linux": true,
             "macos": true,
             "web": true,
-            "windows": true,
-            "rank": 115
+            "windows": true
         },
         {
+            "rank": 116,
             "name": "bottom_navy_bar",
             "likes": 584,
             "health": 120,
@@ -2614,12 +2615,12 @@
             "linux": true,
             "macos": true,
             "web": true,
-            "windows": true,
-            "rank": 116
+            "windows": true
         },
         {
+            "rank": 117,
             "name": "wakelock",
-            "likes": 582,
+            "likes": 584,
             "health": 130,
             "popularity": 99,
             "nullSafe": true,
@@ -2631,10 +2632,10 @@
             "linux": false,
             "macos": true,
             "web": true,
-            "windows": true,
-            "rank": 117
+            "windows": true
         },
         {
+            "rank": 118,
             "name": "youtube_player_flutter",
             "likes": 579,
             "health": 120,
@@ -2648,12 +2649,12 @@
             "linux": false,
             "macos": false,
             "web": false,
-            "windows": false,
-            "rank": 118
+            "windows": false
         },
         {
+            "rank": 119,
             "name": "chewie",
-            "likes": 578,
+            "likes": 579,
             "health": 130,
             "popularity": 99,
             "nullSafe": true,
@@ -2664,12 +2665,12 @@
             "linux": false,
             "macos": false,
             "web": true,
-            "windows": false,
-            "rank": 119
+            "windows": false
         },
         {
+            "rank": 120,
             "name": "flutter_login",
-            "likes": 570,
+            "likes": 571,
             "health": 130,
             "popularity": 95,
             "nullSafe": true,
@@ -2680,10 +2681,27 @@
             "linux": true,
             "macos": true,
             "web": true,
-            "windows": true,
-            "rank": 120
+            "windows": true
         },
         {
+            "rank": 121,
+            "name": "scrollable_positioned_list",
+            "likes": 564,
+            "health": 110,
+            "popularity": 98,
+            "nullSafe": false,
+            "endorsed": false,
+            "version": "0.1.100.2.0-nullsafety.0",
+            "developer": "google.dev",
+            "android": true,
+            "ios": true,
+            "linux": true,
+            "macos": true,
+            "web": true,
+            "windows": true
+        },
+        {
+            "rank": 122,
             "name": "flutter_icons",
             "likes": 559,
             "health": 85,
@@ -2696,12 +2714,12 @@
             "linux": true,
             "macos": true,
             "web": true,
-            "windows": true,
-            "rank": 121
+            "windows": true
         },
         {
+            "rank": 123,
             "name": "flutter_cache_manager",
-            "likes": 556,
+            "likes": 557,
             "health": 120,
             "popularity": 100,
             "nullSafe": true,
@@ -2713,12 +2731,12 @@
             "linux": false,
             "macos": true,
             "web": false,
-            "windows": false,
-            "rank": 122
+            "windows": false
         },
         {
+            "rank": 124,
             "name": "rflutter_alert",
-            "likes": 555,
+            "likes": 556,
             "health": 130,
             "popularity": 98,
             "nullSafe": true,
@@ -2730,10 +2748,10 @@
             "linux": true,
             "macos": true,
             "web": true,
-            "windows": true,
-            "rank": 123
+            "windows": true
         },
         {
+            "rank": 125,
             "name": "assets_audio_player",
             "likes": 555,
             "health": 110,
@@ -2746,10 +2764,10 @@
             "linux": false,
             "macos": true,
             "web": true,
-            "windows": false,
-            "rank": 124
+            "windows": false
         },
         {
+            "rank": 126,
             "name": "page_transition",
             "likes": 555,
             "health": 130,
@@ -2763,10 +2781,10 @@
             "linux": true,
             "macos": true,
             "web": true,
-            "windows": true,
-            "rank": 125
+            "windows": true
         },
         {
+            "rank": 127,
             "name": "sleek_circular_slider",
             "likes": 551,
             "health": 110,
@@ -2779,12 +2797,12 @@
             "linux": true,
             "macos": true,
             "web": true,
-            "windows": true,
-            "rank": 126
+            "windows": true
         },
         {
+            "rank": 128,
             "name": "audio_service",
-            "likes": 548,
+            "likes": 549,
             "health": 130,
             "popularity": 96,
             "nullSafe": true,
@@ -2796,10 +2814,10 @@
             "linux": false,
             "macos": true,
             "web": true,
-            "windows": false,
-            "rank": 127
+            "windows": false
         },
         {
+            "rank": 129,
             "name": "uni_links",
             "likes": 548,
             "health": 130,
@@ -2812,10 +2830,10 @@
             "linux": false,
             "macos": false,
             "web": true,
-            "windows": false,
-            "rank": 128
+            "windows": false
         },
         {
+            "rank": 130,
             "name": "in_app_review",
             "likes": 542,
             "health": 120,
@@ -2829,27 +2847,10 @@
             "linux": false,
             "macos": true,
             "web": false,
-            "windows": false,
-            "rank": 129
+            "windows": false
         },
         {
-            "name": "pedantic",
-            "likes": 533,
-            "health": 130,
-            "popularity": 100,
-            "nullSafe": true,
-            "endorsed": false,
-            "version": "1.11.1",
-            "developer": "google.dev",
-            "android": true,
-            "ios": true,
-            "linux": true,
-            "macos": true,
-            "web": true,
-            "windows": true,
-            "rank": 130
-        },
-        {
+            "rank": 131,
             "name": "awesome_dialog",
             "likes": 535,
             "health": 130,
@@ -2863,12 +2864,12 @@
             "linux": true,
             "macos": true,
             "web": true,
-            "windows": true,
-            "rank": 131
+            "windows": true
         },
         {
+            "rank": 132,
             "name": "showcaseview",
-            "likes": 532,
+            "likes": 533,
             "health": 120,
             "popularity": 96,
             "nullSafe": true,
@@ -2880,10 +2881,27 @@
             "linux": true,
             "macos": true,
             "web": true,
-            "windows": true,
-            "rank": 132
+            "windows": true
         },
         {
+            "rank": 133,
+            "name": "pedantic",
+            "likes": 533,
+            "health": 130,
+            "popularity": 100,
+            "nullSafe": true,
+            "endorsed": false,
+            "version": "1.11.1",
+            "developer": "google.dev",
+            "android": true,
+            "ios": true,
+            "linux": true,
+            "macos": true,
+            "web": true,
+            "windows": true
+        },
+        {
+            "rank": 134,
             "name": "google_nav_bar",
             "likes": 529,
             "health": 120,
@@ -2897,12 +2915,12 @@
             "linux": true,
             "macos": true,
             "web": true,
-            "windows": true,
-            "rank": 133
+            "windows": true
         },
         {
+            "rank": 135,
             "name": "workmanager",
-            "likes": 528,
+            "likes": 529,
             "health": 120,
             "popularity": 96,
             "nullSafe": true,
@@ -2914,12 +2932,12 @@
             "linux": false,
             "macos": false,
             "web": false,
-            "windows": false,
-            "rank": 134
+            "windows": false
         },
         {
+            "rank": 136,
             "name": "flutter_sound",
-            "likes": 523,
+            "likes": 525,
             "health": 130,
             "popularity": 96,
             "nullSafe": true,
@@ -2931,10 +2949,10 @@
             "linux": false,
             "macos": false,
             "web": true,
-            "windows": false,
-            "rank": 135
+            "windows": false
         },
         {
+            "rank": 137,
             "name": "timelines",
             "likes": 524,
             "health": 120,
@@ -2948,10 +2966,10 @@
             "linux": true,
             "macos": true,
             "web": true,
-            "windows": true,
-            "rank": 136
+            "windows": true
         },
         {
+            "rank": 138,
             "name": "liquid_swipe",
             "likes": 521,
             "health": 130,
@@ -2965,10 +2983,10 @@
             "linux": true,
             "macos": true,
             "web": true,
-            "windows": true,
-            "rank": 137
+            "windows": true
         },
         {
+            "rank": 139,
             "name": "firebase_analytics",
             "likes": 516,
             "health": 120,
@@ -2982,10 +3000,10 @@
             "linux": false,
             "macos": false,
             "web": true,
-            "windows": false,
-            "rank": 138
+            "windows": false
         },
         {
+            "rank": 140,
             "name": "flutter_downloader",
             "likes": 511,
             "health": 110,
@@ -2999,10 +3017,10 @@
             "linux": false,
             "macos": false,
             "web": false,
-            "windows": false,
-            "rank": 139
+            "windows": false
         },
         {
+            "rank": 141,
             "name": "path",
             "likes": 512,
             "health": 130,
@@ -3016,10 +3034,10 @@
             "linux": true,
             "macos": true,
             "web": true,
-            "windows": true,
-            "rank": 140
+            "windows": true
         },
         {
+            "rank": 142,
             "name": "fluro",
             "likes": 510,
             "health": 130,
@@ -3033,10 +3051,10 @@
             "linux": true,
             "macos": true,
             "web": true,
-            "windows": true,
-            "rank": 141
+            "windows": true
         },
         {
+            "rank": 143,
             "name": "image",
             "likes": 506,
             "health": 120,
@@ -3049,10 +3067,10 @@
             "linux": true,
             "macos": true,
             "web": true,
-            "windows": true,
-            "rank": 142
+            "windows": true
         },
         {
+            "rank": 144,
             "name": "retrofit",
             "likes": 504,
             "health": 130,
@@ -3066,12 +3084,12 @@
             "linux": true,
             "macos": true,
             "web": true,
-            "windows": true,
-            "rank": 143
+            "windows": true
         },
         {
+            "rank": 145,
             "name": "get_storage",
-            "likes": 501,
+            "likes": 502,
             "health": 130,
             "popularity": 98,
             "nullSafe": true,
@@ -3083,10 +3101,10 @@
             "linux": true,
             "macos": true,
             "web": true,
-            "windows": true,
-            "rank": 144
+            "windows": true
         },
         {
+            "rank": 146,
             "name": "flame",
             "likes": 499,
             "health": 90,
@@ -3100,10 +3118,10 @@
             "linux": false,
             "macos": true,
             "web": false,
-            "windows": false,
-            "rank": 145
+            "windows": false
         },
         {
+            "rank": 147,
             "name": "like_button",
             "likes": 497,
             "health": 130,
@@ -3117,43 +3135,10 @@
             "linux": true,
             "macos": true,
             "web": true,
-            "windows": true,
-            "rank": 146
+            "windows": true
         },
         {
-            "name": "flutter_riverpod",
-            "likes": 496,
-            "health": 130,
-            "popularity": 98,
-            "nullSafe": true,
-            "endorsed": false,
-            "version": "0.14.0+31.0.0-dev.6",
-            "android": true,
-            "ios": true,
-            "linux": true,
-            "macos": true,
-            "web": true,
-            "windows": true,
-            "rank": 147
-        },
-        {
-            "name": "flare_flutter",
-            "likes": 494,
-            "health": 90,
-            "popularity": 99,
-            "nullSafe": true,
-            "endorsed": false,
-            "version": "3.0.2",
-            "developer": "rive.app",
-            "android": true,
-            "ios": true,
-            "linux": true,
-            "macos": true,
-            "web": true,
-            "windows": true,
-            "rank": 148
-        },
-        {
+            "rank": 148,
             "name": "auto_animated",
             "likes": 497,
             "health": 130,
@@ -3167,12 +3152,45 @@
             "linux": true,
             "macos": true,
             "web": true,
-            "windows": true,
-            "rank": 149
+            "windows": true
         },
         {
+            "rank": 149,
+            "name": "flutter_riverpod",
+            "likes": 497,
+            "health": 130,
+            "popularity": 98,
+            "nullSafe": true,
+            "endorsed": false,
+            "version": "0.14.0+31.0.0-dev.6",
+            "android": true,
+            "ios": true,
+            "linux": true,
+            "macos": true,
+            "web": true,
+            "windows": true
+        },
+        {
+            "rank": 150,
+            "name": "flare_flutter",
+            "likes": 494,
+            "health": 90,
+            "popularity": 99,
+            "nullSafe": true,
+            "endorsed": false,
+            "version": "3.0.2",
+            "developer": "rive.app",
+            "android": true,
+            "ios": true,
+            "linux": true,
+            "macos": true,
+            "web": true,
+            "windows": true
+        },
+        {
+            "rank": 151,
             "name": "syncfusion_flutter_calendar",
-            "likes": 492,
+            "likes": 493,
             "health": 130,
             "popularity": 96,
             "nullSafe": true,
@@ -3184,27 +3202,26 @@
             "linux": true,
             "macos": true,
             "web": true,
-            "windows": true,
-            "rank": 150
+            "windows": true
         },
         {
-            "name": "syncfusion_flutter_calendar",
-            "likes": 492,
+            "rank": 152,
+            "name": "flash",
+            "likes": 491,
             "health": 130,
-            "popularity": 96,
+            "popularity": 97,
             "nullSafe": true,
             "endorsed": false,
-            "version": "19.2.51",
-            "developer": "syncfusion.com",
+            "version": "2.0.1",
             "android": true,
             "ios": true,
             "linux": true,
             "macos": true,
             "web": true,
-            "windows": true,
-            "rank": 151
+            "windows": true
         },
         {
+            "rank": 153,
             "name": "crypto",
             "likes": 491,
             "health": 130,
@@ -3218,26 +3235,27 @@
             "linux": true,
             "macos": true,
             "web": true,
-            "windows": true,
-            "rank": 152
+            "windows": true
         },
         {
-            "name": "flash",
-            "likes": 490,
+            "rank": 154,
+            "name": "sembast",
+            "likes": 484,
             "health": 130,
             "popularity": 97,
             "nullSafe": true,
             "endorsed": false,
-            "version": "2.0.1",
+            "version": "3.1.0+2",
+            "developer": "tekartik.com",
             "android": true,
             "ios": true,
             "linux": true,
             "macos": true,
             "web": true,
-            "windows": true,
-            "rank": 153
+            "windows": true
         },
         {
+            "rank": 155,
             "name": "flutter_map",
             "likes": 482,
             "health": 110,
@@ -3251,27 +3269,10 @@
             "linux": true,
             "macos": true,
             "web": false,
-            "windows": true,
-            "rank": 154
+            "windows": true
         },
         {
-            "name": "sembast",
-            "likes": 483,
-            "health": 130,
-            "popularity": 97,
-            "nullSafe": true,
-            "endorsed": false,
-            "version": "3.1.0+2",
-            "developer": "tekartik.com",
-            "android": true,
-            "ios": true,
-            "linux": true,
-            "macos": true,
-            "web": true,
-            "windows": true,
-            "rank": 155
-        },
-        {
+            "rank": 156,
             "name": "bot_toast",
             "likes": 481,
             "health": 120,
@@ -3284,10 +3285,10 @@
             "linux": true,
             "macos": true,
             "web": true,
-            "windows": true,
-            "rank": 156
+            "windows": true
         },
         {
+            "rank": 157,
             "name": "background_fetch",
             "likes": 478,
             "health": 120,
@@ -3301,12 +3302,12 @@
             "linux": false,
             "macos": false,
             "web": false,
-            "windows": false,
-            "rank": 157
+            "windows": false
         },
         {
+            "rank": 158,
             "name": "tutorial_coach_mark",
-            "likes": 472,
+            "likes": 473,
             "health": 120,
             "popularity": 95,
             "nullSafe": true,
@@ -3317,10 +3318,10 @@
             "linux": true,
             "macos": true,
             "web": true,
-            "windows": true,
-            "rank": 158
+            "windows": true
         },
         {
+            "rank": 159,
             "name": "flutter_platform_widgets",
             "likes": 471,
             "health": 110,
@@ -3334,10 +3335,10 @@
             "linux": true,
             "macos": true,
             "web": true,
-            "windows": true,
-            "rank": 159
+            "windows": true
         },
         {
+            "rank": 160,
             "name": "flutter_datetime_picker",
             "likes": 470,
             "health": 110,
@@ -3350,10 +3351,10 @@
             "linux": true,
             "macos": true,
             "web": true,
-            "windows": true,
-            "rank": 160
+            "windows": true
         },
         {
+            "rank": 161,
             "name": "sliding_sheet",
             "likes": 467,
             "health": 120,
@@ -3366,27 +3367,10 @@
             "linux": true,
             "macos": true,
             "web": true,
-            "windows": true,
-            "rank": 161
+            "windows": true
         },
         {
-            "name": "keyboard_actions",
-            "likes": 462,
-            "health": 120,
-            "popularity": 97,
-            "nullSafe": true,
-            "endorsed": false,
-            "version": "3.4.3",
-            "developer": "diegoveloper.com",
-            "android": true,
-            "ios": true,
-            "linux": true,
-            "macos": true,
-            "web": true,
-            "windows": true,
-            "rank": 162
-        },
-        {
+            "rank": 162,
             "name": "lint",
             "likes": 465,
             "health": 130,
@@ -3400,10 +3384,27 @@
             "linux": true,
             "macos": true,
             "web": true,
-            "windows": true,
-            "rank": 163
+            "windows": true
         },
         {
+            "rank": 163,
+            "name": "keyboard_actions",
+            "likes": 462,
+            "health": 120,
+            "popularity": 97,
+            "nullSafe": true,
+            "endorsed": false,
+            "version": "3.4.3",
+            "developer": "diegoveloper.com",
+            "android": true,
+            "ios": true,
+            "linux": true,
+            "macos": true,
+            "web": true,
+            "windows": true
+        },
+        {
+            "rank": 164,
             "name": "dropdown_search",
             "likes": 461,
             "health": 130,
@@ -3416,10 +3417,10 @@
             "linux": true,
             "macos": true,
             "web": true,
-            "windows": true,
-            "rank": 164
+            "windows": true
         },
         {
+            "rank": 165,
             "name": "firebase_crashlytics",
             "likes": 459,
             "health": 110,
@@ -3433,10 +3434,10 @@
             "linux": false,
             "macos": true,
             "web": false,
-            "windows": false,
-            "rank": 165
+            "windows": false
         },
         {
+            "rank": 166,
             "name": "printing",
             "likes": 459,
             "health": 130,
@@ -3450,10 +3451,10 @@
             "linux": true,
             "macos": true,
             "web": true,
-            "windows": true,
-            "rank": 166
+            "windows": true
         },
         {
+            "rank": 167,
             "name": "flutter_signin_button",
             "likes": 457,
             "health": 130,
@@ -3466,12 +3467,12 @@
             "linux": true,
             "macos": true,
             "web": true,
-            "windows": true,
-            "rank": 167
+            "windows": true
         },
         {
+            "rank": 168,
             "name": "feature_discovery",
-            "likes": 453,
+            "likes": 454,
             "health": 120,
             "popularity": 93,
             "nullSafe": true,
@@ -3482,10 +3483,10 @@
             "linux": true,
             "macos": true,
             "web": true,
-            "windows": true,
-            "rank": 168
+            "windows": true
         },
         {
+            "rank": 169,
             "name": "flutter_webview_plugin",
             "likes": 451,
             "health": 115,
@@ -3499,12 +3500,12 @@
             "linux": false,
             "macos": false,
             "web": false,
-            "windows": false,
-            "rank": 169
+            "windows": false
         },
         {
+            "rank": 170,
             "name": "flutter_blue",
-            "likes": 446,
+            "likes": 447,
             "health": 90,
             "popularity": 97,
             "nullSafe": true,
@@ -3516,10 +3517,10 @@
             "linux": false,
             "macos": true,
             "web": false,
-            "windows": false,
-            "rank": 170
+            "windows": false
         },
         {
+            "rank": 171,
             "name": "flutter_tts",
             "likes": 444,
             "health": 130,
@@ -3533,12 +3534,12 @@
             "linux": false,
             "macos": true,
             "web": true,
-            "windows": false,
-            "rank": 171
+            "windows": false
         },
         {
+            "rank": 172,
             "name": "flutter_speed_dial",
-            "likes": 442,
+            "likes": 443,
             "health": 130,
             "popularity": 98,
             "nullSafe": true,
@@ -3549,12 +3550,12 @@
             "linux": true,
             "macos": true,
             "web": true,
-            "windows": true,
-            "rank": 172
+            "windows": true
         },
         {
+            "rank": 173,
             "name": "sizer",
-            "likes": 441,
+            "likes": 442,
             "health": 130,
             "popularity": 96,
             "nullSafe": true,
@@ -3565,12 +3566,12 @@
             "linux": true,
             "macos": true,
             "web": true,
-            "windows": true,
-            "rank": 173
+            "windows": true
         },
         {
+            "rank": 174,
             "name": "flutter_barcode_scanner",
-            "likes": 441,
+            "likes": 442,
             "health": 120,
             "popularity": 98,
             "nullSafe": true,
@@ -3581,12 +3582,12 @@
             "linux": false,
             "macos": false,
             "web": false,
-            "windows": false,
-            "rank": 174
+            "windows": false
         },
         {
+            "rank": 175,
             "name": "avatar_glow",
-            "likes": 439,
+            "likes": 440,
             "health": 120,
             "popularity": 96,
             "nullSafe": true,
@@ -3598,10 +3599,10 @@
             "linux": true,
             "macos": true,
             "web": true,
-            "windows": true,
-            "rank": 175
+            "windows": true
         },
         {
+            "rank": 176,
             "name": "confetti",
             "likes": 436,
             "health": 110,
@@ -3615,10 +3616,10 @@
             "linux": true,
             "macos": true,
             "web": true,
-            "windows": true,
-            "rank": 176
+            "windows": true
         },
         {
+            "rank": 177,
             "name": "rive",
             "likes": 427,
             "health": 120,
@@ -3632,10 +3633,26 @@
             "linux": true,
             "macos": true,
             "web": true,
-            "windows": true,
-            "rank": 177
+            "windows": true
         },
         {
+            "rank": 178,
+            "name": "injectable",
+            "likes": 427,
+            "health": 130,
+            "popularity": 97,
+            "nullSafe": true,
+            "endorsed": false,
+            "version": "1.4.1",
+            "android": true,
+            "ios": true,
+            "linux": true,
+            "macos": true,
+            "web": true,
+            "windows": true
+        },
+        {
+            "rank": 179,
             "name": "mockito",
             "likes": 426,
             "health": 130,
@@ -3649,26 +3666,10 @@
             "linux": true,
             "macos": true,
             "web": true,
-            "windows": true,
-            "rank": 178
+            "windows": true
         },
         {
-            "name": "injectable",
-            "likes": 427,
-            "health": 130,
-            "popularity": 97,
-            "nullSafe": true,
-            "endorsed": false,
-            "version": "1.4.1",
-            "android": true,
-            "ios": true,
-            "linux": true,
-            "macos": true,
-            "web": true,
-            "windows": true,
-            "rank": 179
-        },
-        {
+            "rank": 180,
             "name": "dartz",
             "likes": 423,
             "health": 90,
@@ -3681,10 +3682,26 @@
             "linux": true,
             "macos": true,
             "web": true,
-            "windows": true,
-            "rank": 180
+            "windows": true
         },
         {
+            "rank": 181,
+            "name": "better_player",
+            "likes": 421,
+            "health": 120,
+            "popularity": 97,
+            "nullSafe": true,
+            "endorsed": false,
+            "version": "0.0.72",
+            "android": true,
+            "ios": true,
+            "linux": false,
+            "macos": false,
+            "web": false,
+            "windows": false
+        },
+        {
+            "rank": 182,
             "name": "grouped_list",
             "likes": 409,
             "health": 130,
@@ -3698,12 +3715,12 @@
             "linux": true,
             "macos": true,
             "web": true,
-            "windows": true,
-            "rank": 181
+            "windows": true
         },
         {
+            "rank": 183,
             "name": "pinput",
-            "likes": 409,
+            "likes": 410,
             "health": 130,
             "popularity": 97,
             "nullSafe": true,
@@ -3715,10 +3732,10 @@
             "linux": true,
             "macos": true,
             "web": true,
-            "windows": true,
-            "rank": 182
+            "windows": true
         },
         {
+            "rank": 184,
             "name": "slimy_card",
             "likes": 404,
             "health": 100,
@@ -3731,12 +3748,12 @@
             "linux": true,
             "macos": true,
             "web": true,
-            "windows": true,
-            "rank": 183
+            "windows": true
         },
         {
+            "rank": 185,
             "name": "flutter_markdown",
-            "likes": 401,
+            "likes": 402,
             "health": 130,
             "popularity": 98,
             "nullSafe": true,
@@ -3748,10 +3765,10 @@
             "linux": true,
             "macos": true,
             "web": true,
-            "windows": true,
-            "rank": 184
+            "windows": true
         },
         {
+            "rank": 186,
             "name": "moor",
             "likes": 399,
             "health": 120,
@@ -3765,10 +3782,10 @@
             "linux": true,
             "macos": true,
             "web": true,
-            "windows": true,
-            "rank": 185
+            "windows": true
         },
         {
+            "rank": 187,
             "name": "socket_io_client",
             "likes": 398,
             "health": 130,
@@ -3781,10 +3798,10 @@
             "linux": true,
             "macos": true,
             "web": true,
-            "windows": true,
-            "rank": 186
+            "windows": true
         },
         {
+            "rank": 188,
             "name": "giffy_dialog",
             "likes": 398,
             "health": 100,
@@ -3797,10 +3814,10 @@
             "linux": true,
             "macos": true,
             "web": true,
-            "windows": true,
-            "rank": 187
+            "windows": true
         },
         {
+            "rank": 189,
             "name": "liquid_progress_indicator",
             "likes": 397,
             "health": 120,
@@ -3813,10 +3830,10 @@
             "linux": true,
             "macos": true,
             "web": true,
-            "windows": true,
-            "rank": 188
+            "windows": true
         },
         {
+            "rank": 190,
             "name": "modal_progress_hud",
             "likes": 397,
             "health": 100,
@@ -3829,10 +3846,10 @@
             "linux": true,
             "macos": true,
             "web": true,
-            "windows": true,
-            "rank": 189
+            "windows": true
         },
         {
+            "rank": 191,
             "name": "syncfusion_flutter_datepicker",
             "likes": 393,
             "health": 130,
@@ -3846,27 +3863,10 @@
             "linux": true,
             "macos": true,
             "web": true,
-            "windows": true,
-            "rank": 190
+            "windows": true
         },
         {
-            "name": "syncfusion_flutter_datepicker",
-            "likes": 393,
-            "health": 130,
-            "popularity": 97,
-            "nullSafe": true,
-            "endorsed": false,
-            "version": "19.2.51",
-            "developer": "syncfusion.com",
-            "android": true,
-            "ios": true,
-            "linux": true,
-            "macos": true,
-            "web": true,
-            "windows": true,
-            "rank": 191
-        },
-        {
+            "rank": 192,
             "name": "flutter_image_compress",
             "likes": 392,
             "health": 120,
@@ -3879,10 +3879,10 @@
             "linux": false,
             "macos": false,
             "web": false,
-            "windows": false,
-            "rank": 192
+            "windows": false
         },
         {
+            "rank": 193,
             "name": "flutter_webrtc",
             "likes": 390,
             "health": 120,
@@ -3895,27 +3895,10 @@
             "linux": false,
             "macos": true,
             "web": false,
-            "windows": true,
-            "rank": 193
+            "windows": true
         },
         {
-            "name": "upgrader",
-            "likes": 388,
-            "health": 120,
-            "popularity": 95,
-            "nullSafe": true,
-            "endorsed": false,
-            "version": "3.4.1",
-            "developer": "larryaasen.com",
-            "android": true,
-            "ios": true,
-            "linux": false,
-            "macos": false,
-            "web": false,
-            "windows": false,
-            "rank": 194
-        },
-        {
+            "rank": 194,
             "name": "adaptive_dialog",
             "likes": 389,
             "health": 130,
@@ -3929,10 +3912,27 @@
             "linux": true,
             "macos": true,
             "web": true,
-            "windows": true,
-            "rank": 195
+            "windows": true
         },
         {
+            "rank": 195,
+            "name": "upgrader",
+            "likes": 388,
+            "health": 120,
+            "popularity": 95,
+            "nullSafe": true,
+            "endorsed": false,
+            "version": "3.4.1",
+            "developer": "larryaasen.com",
+            "android": true,
+            "ios": true,
+            "linux": false,
+            "macos": false,
+            "web": false,
+            "windows": false
+        },
+        {
+            "rank": 196,
             "name": "reorderables",
             "likes": 385,
             "health": 120,
@@ -3945,12 +3945,12 @@
             "linux": true,
             "macos": true,
             "web": true,
-            "windows": true,
-            "rank": 196
+            "windows": true
         },
         {
+            "rank": 197,
             "name": "flip_card",
-            "likes": 380,
+            "likes": 382,
             "health": 130,
             "popularity": 96,
             "nullSafe": true,
@@ -3961,10 +3961,10 @@
             "linux": true,
             "macos": true,
             "web": true,
-            "windows": true,
-            "rank": 197
+            "windows": true
         },
         {
+            "rank": 198,
             "name": "sensors",
             "likes": 378,
             "health": 120,
@@ -3978,10 +3978,10 @@
             "linux": false,
             "macos": false,
             "web": false,
-            "windows": false,
-            "rank": 198
+            "windows": false
         },
         {
+            "rank": 199,
             "name": "flutter_mobx",
             "likes": 376,
             "health": 130,
@@ -3995,10 +3995,10 @@
             "linux": true,
             "macos": true,
             "web": true,
-            "windows": true,
-            "rank": 199
+            "windows": true
         },
         {
+            "rank": 200,
             "name": "email_validator",
             "likes": 374,
             "health": 130,
@@ -4011,10 +4011,43 @@
             "linux": true,
             "macos": true,
             "web": true,
-            "windows": true,
-            "rank": 200
+            "windows": true
         },
         {
+            "rank": 201,
+            "name": "flutter_facebook_auth",
+            "likes": 373,
+            "health": 130,
+            "popularity": 98,
+            "nullSafe": true,
+            "endorsed": false,
+            "version": "3.5.0",
+            "developer": "meedu.app",
+            "android": true,
+            "ios": true,
+            "linux": false,
+            "macos": false,
+            "web": true,
+            "windows": false
+        },
+        {
+            "rank": 202,
+            "name": "dartx",
+            "likes": 374,
+            "health": 120,
+            "popularity": 96,
+            "nullSafe": true,
+            "endorsed": false,
+            "version": "0.7.1",
+            "android": true,
+            "ios": true,
+            "linux": true,
+            "macos": true,
+            "web": true,
+            "windows": true
+        },
+        {
+            "rank": 203,
             "name": "built_value",
             "likes": 366,
             "health": 130,
@@ -4028,10 +4061,10 @@
             "linux": true,
             "macos": true,
             "web": true,
-            "windows": true,
-            "rank": 201
+            "windows": true
         },
         {
+            "rank": 204,
             "name": "flutter_facebook_login",
             "likes": 366,
             "health": 90,
@@ -4045,10 +4078,10 @@
             "linux": false,
             "macos": false,
             "web": false,
-            "windows": false,
-            "rank": 202
+            "windows": false
         },
         {
+            "rank": 205,
             "name": "after_layout",
             "likes": 363,
             "health": 120,
@@ -4062,10 +4095,10 @@
             "linux": true,
             "macos": true,
             "web": true,
-            "windows": true,
-            "rank": 203
+            "windows": true
         },
         {
+            "rank": 206,
             "name": "mask_text_input_formatter",
             "likes": 360,
             "health": 120,
@@ -4078,29 +4111,12 @@
             "linux": true,
             "macos": true,
             "web": true,
-            "windows": true,
-            "rank": 204
+            "windows": true
         },
         {
-            "name": "graphql_flutter",
-            "likes": 357,
-            "health": 85,
-            "popularity": 97,
-            "nullSafe": false,
-            "endorsed": false,
-            "version": "5.0.0",
-            "developer": "zinoapp.com",
-            "android": true,
-            "ios": true,
-            "linux": true,
-            "macos": true,
-            "web": false,
-            "windows": true,
-            "rank": 205
-        },
-        {
+            "rank": 207,
             "name": "octo_image",
-            "likes": 357,
+            "likes": 358,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -4112,10 +4128,10 @@
             "linux": true,
             "macos": true,
             "web": true,
-            "windows": true,
-            "rank": 206
+            "windows": true
         },
         {
+            "rank": 208,
             "name": "speech_to_text",
             "likes": 357,
             "health": 130,
@@ -4129,12 +4145,29 @@
             "linux": false,
             "macos": false,
             "web": true,
-            "windows": false,
-            "rank": 207
+            "windows": false
         },
         {
+            "rank": 209,
+            "name": "graphql_flutter",
+            "likes": 357,
+            "health": 85,
+            "popularity": 97,
+            "nullSafe": false,
+            "endorsed": false,
+            "version": "5.0.0",
+            "developer": "zinoapp.com",
+            "android": true,
+            "ios": true,
+            "linux": true,
+            "macos": true,
+            "web": false,
+            "windows": true
+        },
+        {
+            "rank": 210,
             "name": "syncfusion_flutter_gauges",
-            "likes": 356,
+            "likes": 357,
             "health": 130,
             "popularity": 96,
             "nullSafe": true,
@@ -4146,10 +4179,10 @@
             "linux": true,
             "macos": true,
             "web": true,
-            "windows": true,
-            "rank": 208
+            "windows": true
         },
         {
+            "rank": 211,
             "name": "country_code_picker",
             "likes": 354,
             "health": 130,
@@ -4162,10 +4195,10 @@
             "linux": true,
             "macos": true,
             "web": true,
-            "windows": true,
-            "rank": 209
+            "windows": true
         },
         {
+            "rank": 212,
             "name": "android_alarm_manager",
             "likes": 351,
             "health": 110,
@@ -4179,43 +4212,10 @@
             "linux": false,
             "macos": false,
             "web": false,
-            "windows": false,
-            "rank": 210
+            "windows": false
         },
         {
-            "name": "country_code_picker",
-            "likes": 354,
-            "health": 130,
-            "popularity": 98,
-            "nullSafe": true,
-            "endorsed": false,
-            "version": "2.0.2",
-            "android": true,
-            "ios": true,
-            "linux": true,
-            "macos": true,
-            "web": true,
-            "windows": true,
-            "rank": 211
-        },
-        {
-            "name": "android_alarm_manager",
-            "likes": 351,
-            "health": 110,
-            "popularity": 93,
-            "nullSafe": true,
-            "endorsed": false,
-            "version": "2.0.2",
-            "developer": "flutter.dev",
-            "android": true,
-            "ios": false,
-            "linux": false,
-            "macos": false,
-            "web": false,
-            "windows": false,
-            "rank": 212
-        },
-        {
+            "rank": 213,
             "name": "floor",
             "likes": 351,
             "health": 110,
@@ -4229,10 +4229,10 @@
             "linux": false,
             "macos": true,
             "web": false,
-            "windows": false,
-            "rank": 213
+            "windows": false
         },
         {
+            "rank": 214,
             "name": "splashscreen",
             "likes": 348,
             "health": 100,
@@ -4246,10 +4246,10 @@
             "linux": true,
             "macos": true,
             "web": true,
-            "windows": true,
-            "rank": 214
+            "windows": true
         },
         {
+            "rank": 215,
             "name": "onesignal_flutter",
             "likes": 343,
             "health": 110,
@@ -4262,10 +4262,10 @@
             "linux": false,
             "macos": false,
             "web": false,
-            "windows": false,
-            "rank": 215
+            "windows": false
         },
         {
+            "rank": 216,
             "name": "firebase_dynamic_links",
             "likes": 342,
             "health": 120,
@@ -4279,10 +4279,10 @@
             "linux": false,
             "macos": false,
             "web": false,
-            "windows": false,
-            "rank": 216
+            "windows": false
         },
         {
+            "rank": 217,
             "name": "dash_chat",
             "likes": 339,
             "health": 130,
@@ -4295,10 +4295,10 @@
             "linux": true,
             "macos": true,
             "web": true,
-            "windows": true,
-            "rank": 217
+            "windows": true
         },
         {
+            "rank": 218,
             "name": "styled_widget",
             "likes": 339,
             "health": 120,
@@ -4311,10 +4311,10 @@
             "linux": true,
             "macos": true,
             "web": true,
-            "windows": true,
-            "rank": 218
+            "windows": true
         },
         {
+            "rank": 219,
             "name": "flutter_linkify",
             "likes": 338,
             "health": 120,
@@ -4328,10 +4328,10 @@
             "linux": true,
             "macos": true,
             "web": true,
-            "windows": true,
-            "rank": 219
+            "windows": true
         },
         {
+            "rank": 220,
             "name": "sliver_tools",
             "likes": 339,
             "health": 130,
@@ -4345,10 +4345,10 @@
             "linux": true,
             "macos": true,
             "web": true,
-            "windows": true,
-            "rank": 220
+            "windows": true
         },
         {
+            "rank": 221,
             "name": "fab_circular_menu",
             "likes": 334,
             "health": 120,
@@ -4361,10 +4361,10 @@
             "linux": true,
             "macos": true,
             "web": true,
-            "windows": true,
-            "rank": 221
+            "windows": true
         },
         {
+            "rank": 222,
             "name": "material_design_icons_flutter",
             "likes": 334,
             "health": 90,
@@ -4377,12 +4377,12 @@
             "linux": true,
             "macos": true,
             "web": true,
-            "windows": true,
-            "rank": 222
+            "windows": true
         },
         {
+            "rank": 223,
             "name": "intro_views_flutter",
-            "likes": 332,
+            "likes": 333,
             "health": 130,
             "popularity": 94,
             "nullSafe": true,
@@ -4394,10 +4394,10 @@
             "linux": true,
             "macos": true,
             "web": true,
-            "windows": true,
-            "rank": 223
+            "windows": true
         },
         {
+            "rank": 224,
             "name": "admob_flutter",
             "likes": 329,
             "health": 80,
@@ -4410,10 +4410,10 @@
             "linux": false,
             "macos": false,
             "web": false,
-            "windows": false,
-            "rank": 224
+            "windows": false
         },
         {
+            "rank": 225,
             "name": "flutter_unity_widget",
             "likes": 328,
             "health": 110,
@@ -4427,10 +4427,10 @@
             "linux": false,
             "macos": false,
             "web": false,
-            "windows": false,
-            "rank": 225
+            "windows": false
         },
         {
+            "rank": 226,
             "name": "flutter_snake_navigationbar",
             "likes": 327,
             "health": 120,
@@ -4444,10 +4444,10 @@
             "linux": true,
             "macos": true,
             "web": true,
-            "windows": true,
-            "rank": 226
+            "windows": true
         },
         {
+            "rank": 227,
             "name": "flutter_sticky_header",
             "likes": 325,
             "health": 130,
@@ -4461,10 +4461,10 @@
             "linux": true,
             "macos": true,
             "web": true,
-            "windows": true,
-            "rank": 227
+            "windows": true
         },
         {
+            "rank": 228,
             "name": "bubble",
             "likes": 325,
             "health": 110,
@@ -4477,10 +4477,10 @@
             "linux": true,
             "macos": true,
             "web": true,
-            "windows": true,
-            "rank": 228
+            "windows": true
         },
         {
+            "rank": 229,
             "name": "settings_ui",
             "likes": 323,
             "health": 120,
@@ -4494,10 +4494,10 @@
             "linux": true,
             "macos": true,
             "web": true,
-            "windows": true,
-            "rank": 229
+            "windows": true
         },
         {
+            "rank": 230,
             "name": "step_progress_indicator",
             "likes": 322,
             "health": 130,
@@ -4511,10 +4511,10 @@
             "linux": true,
             "macos": true,
             "web": true,
-            "windows": true,
-            "rank": 230
+            "windows": true
         },
         {
+            "rank": 231,
             "name": "dotted_border",
             "likes": 322,
             "health": 130,
@@ -4527,10 +4527,10 @@
             "linux": true,
             "macos": true,
             "web": true,
-            "windows": true,
-            "rank": 231
+            "windows": true
         },
         {
+            "rank": 232,
             "name": "data_connection_checker",
             "likes": 322,
             "health": 100,
@@ -4543,10 +4543,10 @@
             "linux": true,
             "macos": true,
             "web": false,
-            "windows": true,
-            "rank": 232
+            "windows": true
         },
         {
+            "rank": 233,
             "name": "stripe_payment",
             "likes": 321,
             "health": 100,
@@ -4559,12 +4559,12 @@
             "linux": false,
             "macos": false,
             "web": false,
-            "windows": false,
-            "rank": 233
+            "windows": false
         },
         {
+            "rank": 234,
             "name": "flutter_inner_drawer",
-            "likes": 318,
+            "likes": 319,
             "health": 130,
             "popularity": 93,
             "nullSafe": true,
@@ -4576,10 +4576,10 @@
             "linux": true,
             "macos": true,
             "web": true,
-            "windows": true,
-            "rank": 234
+            "windows": true
         },
         {
+            "rank": 235,
             "name": "animated_bottom_navigation_bar",
             "likes": 317,
             "health": 130,
@@ -4592,10 +4592,10 @@
             "linux": true,
             "macos": true,
             "web": true,
-            "windows": true,
-            "rank": 235
+            "windows": true
         },
         {
+            "rank": 236,
             "name": "states_rebuilder",
             "likes": 316,
             "health": 120,
@@ -4608,12 +4608,12 @@
             "linux": true,
             "macos": true,
             "web": true,
-            "windows": true,
-            "rank": 236
+            "windows": true
         },
         {
+            "rank": 237,
             "name": "flutter_custom_clippers",
-            "likes": 317,
+            "likes": 318,
             "health": 130,
             "popularity": 96,
             "nullSafe": true,
@@ -4625,10 +4625,10 @@
             "linux": true,
             "macos": true,
             "web": true,
-            "windows": true,
-            "rank": 237
+            "windows": true
         },
         {
+            "rank": 238,
             "name": "flutter_zoom_drawer",
             "likes": 314,
             "health": 130,
@@ -4642,10 +4642,10 @@
             "linux": true,
             "macos": true,
             "web": true,
-            "windows": true,
-            "rank": 238
+            "windows": true
         },
         {
+            "rank": 239,
             "name": "snapping_sheet",
             "likes": 310,
             "health": 130,
@@ -4659,10 +4659,10 @@
             "linux": true,
             "macos": true,
             "web": true,
-            "windows": true,
-            "rank": 239
+            "windows": true
         },
         {
+            "rank": 240,
             "name": "in_app_update",
             "likes": 309,
             "health": 90,
@@ -4676,10 +4676,27 @@
             "linux": false,
             "macos": false,
             "web": false,
-            "windows": false,
-            "rank": 240
+            "windows": false
         },
         {
+            "rank": 241,
+            "name": "wave",
+            "likes": 306,
+            "health": 120,
+            "popularity": 95,
+            "nullSafe": true,
+            "endorsed": false,
+            "version": "0.2.0",
+            "developer": "swift.fit",
+            "android": true,
+            "ios": true,
+            "linux": true,
+            "macos": true,
+            "web": true,
+            "windows": true
+        },
+        {
+            "rank": 242,
             "name": "web_socket_channel",
             "likes": 305,
             "health": 120,
@@ -4693,27 +4710,10 @@
             "linux": true,
             "macos": true,
             "web": true,
-            "windows": true,
-            "rank": 241
+            "windows": true
         },
         {
-            "name": "wave",
-            "likes": 305,
-            "health": 120,
-            "popularity": 95,
-            "nullSafe": true,
-            "endorsed": false,
-            "version": "0.2.0",
-            "developer": "swift.fit",
-            "android": true,
-            "ios": true,
-            "linux": true,
-            "macos": true,
-            "web": true,
-            "windows": true,
-            "rank": 242
-        },
-        {
+            "rank": 243,
             "name": "beamer",
             "likes": 304,
             "health": 130,
@@ -4727,10 +4727,10 @@
             "linux": true,
             "macos": true,
             "web": true,
-            "windows": true,
-            "rank": 243
+            "windows": true
         },
         {
+            "rank": 244,
             "name": "json_annotation",
             "likes": 304,
             "health": 120,
@@ -4744,10 +4744,10 @@
             "linux": true,
             "macos": true,
             "web": true,
-            "windows": true,
-            "rank": 244
+            "windows": true
         },
         {
+            "rank": 245,
             "name": "flutter_dotenv",
             "likes": 304,
             "health": 120,
@@ -4760,10 +4760,10 @@
             "linux": true,
             "macos": true,
             "web": true,
-            "windows": true,
-            "rank": 245
+            "windows": true
         },
         {
+            "rank": 246,
             "name": "connectivity_plus",
             "likes": 305,
             "health": 130,
@@ -4777,12 +4777,12 @@
             "linux": true,
             "macos": true,
             "web": true,
-            "windows": true,
-            "rank": 246
+            "windows": true
         },
         {
+            "rank": 247,
             "name": "googleapis",
-            "likes": 303,
+            "likes": 304,
             "health": 125,
             "popularity": 96,
             "nullSafe": true,
@@ -4794,10 +4794,10 @@
             "linux": true,
             "macos": true,
             "web": true,
-            "windows": true,
-            "rank": 247
+            "windows": true
         },
         {
+            "rank": 248,
             "name": "story_view",
             "likes": 303,
             "health": 100,
@@ -4811,10 +4811,10 @@
             "linux": false,
             "macos": false,
             "web": false,
-            "windows": false,
-            "rank": 248
+            "windows": false
         },
         {
+            "rank": 249,
             "name": "flutter_easyrefresh",
             "likes": 300,
             "health": 120,
@@ -4827,12 +4827,12 @@
             "linux": true,
             "macos": true,
             "web": true,
-            "windows": true,
-            "rank": 249
+            "windows": true
         },
         {
+            "rank": 250,
             "name": "sticky_headers",
-            "likes": 300,
+            "likes": 301,
             "health": 120,
             "popularity": 97,
             "nullSafe": true,
@@ -4844,8 +4844,7 @@
             "linux": true,
             "macos": true,
             "web": true,
-            "windows": true,
-            "rank": 250
+            "windows": true
         }
     ]
 }
