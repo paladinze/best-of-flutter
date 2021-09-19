@@ -2,7 +2,7 @@ name: 'Generate report data'
 
 on:
   schedule:
-    - cron: '0 10 * * *'
+    - cron: '50 23 * * *'
   workflow_dispatch:
 
 jobs:
