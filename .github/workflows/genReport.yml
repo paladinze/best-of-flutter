@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
 
 jobs:
-  checkout_code:
+  generate_report:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout code
