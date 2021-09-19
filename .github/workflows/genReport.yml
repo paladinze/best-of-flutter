@@ -26,5 +26,5 @@ jobs:
         run: |
           git config --global user.name 'paladinze'
           git config --global user.email 'paladinze@users.noreply.github.com'
-          git commit -am `feat: Automated report for $CURRENT_DATE`
+          git commit -am "feat: Automated report for $CURRENT_DATE"
           git push
