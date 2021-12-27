@@ -3,7 +3,7 @@
         {
             "rank": 3,
             "name": "shared_preferences",
-            "likes": 4637,
+            "likes": 4643,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -20,7 +20,7 @@
         {
             "rank": 5,
             "name": "url_launcher",
-            "likes": 3635,
+            "likes": 3645,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -37,7 +37,7 @@
         {
             "rank": 6,
             "name": "animations",
-            "likes": 3290,
+            "likes": 3292,
             "health": 130,
             "popularity": 99,
             "nullSafe": true,
@@ -54,7 +54,7 @@
         {
             "rank": 10,
             "name": "image_picker",
-            "likes": 3126,
+            "likes": 3130,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -71,7 +71,7 @@
         {
             "rank": 23,
             "name": "path_provider",
-            "likes": 2262,
+            "likes": 2267,
             "health": 120,
             "popularity": 100,
             "nullSafe": true,
@@ -88,7 +88,7 @@
         {
             "rank": 29,
             "name": "google_maps_flutter",
-            "likes": 2059,
+            "likes": 2060,
             "health": 120,
             "popularity": 100,
             "nullSafe": true,
@@ -105,7 +105,7 @@
         {
             "rank": 35,
             "name": "connectivity",
-            "likes": 1845,
+            "likes": 1847,
             "health": 120,
             "popularity": 100,
             "nullSafe": true,
@@ -122,7 +122,7 @@
         {
             "rank": 37,
             "name": "webview_flutter",
-            "likes": 1803,
+            "likes": 1805,
             "health": 120,
             "popularity": 100,
             "nullSafe": true,
@@ -156,7 +156,7 @@
         {
             "rank": 53,
             "name": "google_sign_in",
-            "likes": 1429,
+            "likes": 1432,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -173,7 +173,7 @@
         {
             "rank": 60,
             "name": "video_player",
-            "likes": 1324,
+            "likes": 1326,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -207,7 +207,7 @@
         {
             "rank": 85,
             "name": "google_mobile_ads",
-            "likes": 982,
+            "likes": 983,
             "health": 115,
             "popularity": 99,
             "nullSafe": true,
@@ -224,7 +224,7 @@
         {
             "rank": 86,
             "name": "local_auth",
-            "likes": 962,
+            "likes": 963,
             "health": 120,
             "popularity": 99,
             "nullSafe": true,
@@ -258,7 +258,7 @@
         {
             "rank": 96,
             "name": "camera",
-            "likes": 899,
+            "likes": 901,
             "health": 130,
             "popularity": 99,
             "nullSafe": true,
@@ -275,7 +275,7 @@
         {
             "rank": 101,
             "name": "in_app_purchase",
-            "likes": 877,
+            "likes": 878,
             "health": 110,
             "popularity": 98,
             "nullSafe": true,
@@ -292,7 +292,7 @@
         {
             "rank": 120,
             "name": "scrollable_positioned_list",
-            "likes": 736,
+            "likes": 738,
             "health": 130,
             "popularity": 99,
             "nullSafe": true,
@@ -309,7 +309,7 @@
         {
             "rank": 189,
             "name": "flutter_markdown",
-            "likes": 516,
+            "likes": 517,
             "health": 130,
             "popularity": 98,
             "nullSafe": true,
@@ -326,7 +326,7 @@
         {
             "rank": 228,
             "name": "built_value",
-            "likes": 418,
+            "likes": 421,
             "health": 130,
             "popularity": 99,
             "nullSafe": true,
@@ -343,7 +343,7 @@
         {
             "rank": 236,
             "name": "json_annotation",
-            "likes": 403,
+            "likes": 404,
             "health": 120,
             "popularity": 100,
             "nullSafe": true,
@@ -360,7 +360,7 @@
         {
             "rank": 240,
             "name": "googleapis",
-            "likes": 398,
+            "likes": 399,
             "health": 125,
             "popularity": 97,
             "nullSafe": true,
@@ -407,13 +407,30 @@
             "macos": true,
             "web": true,
             "windows": true
+        },
+        {
+            "rank": 249,
+            "name": "flutter_lints",
+            "likes": 385,
+            "health": 130,
+            "popularity": 100,
+            "nullSafe": true,
+            "endorsed": false,
+            "version": "1.0.4",
+            "developer": "flutter.dev",
+            "android": true,
+            "ios": true,
+            "linux": true,
+            "macos": true,
+            "web": true,
+            "windows": true
         }
     ],
     "firebase": [
         {
             "rank": 28,
             "name": "firebase_auth",
-            "likes": 2063,
+            "likes": 2066,
             "health": 120,
             "popularity": 100,
             "nullSafe": true,
@@ -430,7 +447,7 @@
         {
             "rank": 33,
             "name": "cloud_firestore",
-            "likes": 1871,
+            "likes": 1876,
             "health": 120,
             "popularity": 100,
             "nullSafe": true,
@@ -447,7 +464,7 @@
         {
             "rank": 34,
             "name": "firebase_messaging",
-            "likes": 1868,
+            "likes": 1872,
             "health": 120,
             "popularity": 100,
             "nullSafe": true,
@@ -464,7 +481,7 @@
         {
             "rank": 51,
             "name": "firebase_core",
-            "likes": 1456,
+            "likes": 1458,
             "health": 120,
             "popularity": 100,
             "nullSafe": true,
@@ -481,7 +498,7 @@
         {
             "rank": 115,
             "name": "firebase_storage",
-            "likes": 755,
+            "likes": 757,
             "health": 120,
             "popularity": 100,
             "nullSafe": true,
@@ -551,7 +568,7 @@
         {
             "rank": 1,
             "name": "get",
-            "likes": 7412,
+            "likes": 7430,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -568,7 +585,7 @@
         {
             "rank": 2,
             "name": "provider",
-            "likes": 5708,
+            "likes": 5718,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -602,7 +619,7 @@
         {
             "rank": 57,
             "name": "bloc",
-            "likes": 1384,
+            "likes": 1386,
             "health": 130,
             "popularity": 99,
             "nullSafe": true,
@@ -619,7 +636,7 @@
         {
             "rank": 63,
             "name": "riverpod",
-            "likes": 1273,
+            "likes": 1277,
             "health": 130,
             "popularity": 97,
             "nullSafe": true,
@@ -636,7 +653,7 @@
         {
             "rank": 116,
             "name": "mobx",
-            "likes": 752,
+            "likes": 754,
             "health": 130,
             "popularity": 99,
             "nullSafe": true,
@@ -655,7 +672,7 @@
         {
             "rank": 1,
             "name": "get",
-            "likes": 7412,
+            "likes": 7430,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -672,7 +689,7 @@
         {
             "rank": 2,
             "name": "provider",
-            "likes": 5708,
+            "likes": 5718,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -689,7 +706,7 @@
         {
             "rank": 3,
             "name": "shared_preferences",
-            "likes": 4637,
+            "likes": 4643,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -706,7 +723,7 @@
         {
             "rank": 4,
             "name": "http",
-            "likes": 3840,
+            "likes": 3848,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -723,7 +740,7 @@
         {
             "rank": 5,
             "name": "url_launcher",
-            "likes": 3635,
+            "likes": 3645,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -740,7 +757,7 @@
         {
             "rank": 6,
             "name": "animations",
-            "likes": 3290,
+            "likes": 3292,
             "health": 130,
             "popularity": 99,
             "nullSafe": true,
@@ -757,7 +774,7 @@
         {
             "rank": 7,
             "name": "flutter_bloc",
-            "likes": 3274,
+            "likes": 3280,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -774,7 +791,7 @@
         {
             "rank": 8,
             "name": "flutter_launcher_icons",
-            "likes": 3197,
+            "likes": 3201,
             "health": 90,
             "popularity": 99,
             "nullSafe": true,
@@ -791,7 +808,7 @@
         {
             "rank": 9,
             "name": "dio",
-            "likes": 3191,
+            "likes": 3201,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -808,7 +825,7 @@
         {
             "rank": 10,
             "name": "image_picker",
-            "likes": 3126,
+            "likes": 3130,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -825,7 +842,7 @@
         {
             "rank": 11,
             "name": "google_fonts",
-            "likes": 3018,
+            "likes": 3025,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -842,7 +859,7 @@
         {
             "rank": 12,
             "name": "flutter_local_notifications",
-            "likes": 2783,
+            "likes": 2788,
             "health": 110,
             "popularity": 100,
             "nullSafe": true,
@@ -859,7 +876,7 @@
         {
             "rank": 13,
             "name": "hive",
-            "likes": 2720,
+            "likes": 2729,
             "health": 130,
             "popularity": 99,
             "nullSafe": true,
@@ -876,7 +893,7 @@
         {
             "rank": 14,
             "name": "cached_network_image",
-            "likes": 2677,
+            "likes": 2683,
             "health": 120,
             "popularity": 100,
             "nullSafe": true,
@@ -893,7 +910,7 @@
         {
             "rank": 15,
             "name": "flutter_slidable",
-            "likes": 2628,
+            "likes": 2633,
             "health": 130,
             "popularity": 99,
             "nullSafe": true,
@@ -910,7 +927,7 @@
         {
             "rank": 16,
             "name": "geolocator",
-            "likes": 2609,
+            "likes": 2611,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -927,7 +944,7 @@
         {
             "rank": 17,
             "name": "flutter_native_splash",
-            "likes": 2568,
+            "likes": 2579,
             "health": 130,
             "popularity": 99,
             "nullSafe": true,
@@ -944,7 +961,7 @@
         {
             "rank": 18,
             "name": "animated_text_kit",
-            "likes": 2539,
+            "likes": 2543,
             "health": 130,
             "popularity": 99,
             "nullSafe": true,
@@ -961,7 +978,7 @@
         {
             "rank": 19,
             "name": "carousel_slider",
-            "likes": 2444,
+            "likes": 2446,
             "health": 120,
             "popularity": 100,
             "nullSafe": true,
@@ -978,7 +995,7 @@
         {
             "rank": 20,
             "name": "sqflite",
-            "likes": 2411,
+            "likes": 2415,
             "health": 120,
             "popularity": 100,
             "nullSafe": true,
@@ -995,7 +1012,7 @@
         {
             "rank": 21,
             "name": "intl",
-            "likes": 2337,
+            "likes": 2341,
             "health": 120,
             "popularity": 100,
             "nullSafe": true,
@@ -1012,7 +1029,7 @@
         {
             "rank": 22,
             "name": "fl_chart",
-            "likes": 2285,
+            "likes": 2290,
             "health": 130,
             "popularity": 99,
             "nullSafe": true,
@@ -1029,7 +1046,7 @@
         {
             "rank": 23,
             "name": "path_provider",
-            "likes": 2262,
+            "likes": 2267,
             "health": 120,
             "popularity": 100,
             "nullSafe": true,
@@ -1046,7 +1063,7 @@
         {
             "rank": 24,
             "name": "flutter_svg",
-            "likes": 2161,
+            "likes": 2165,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -1063,7 +1080,7 @@
         {
             "rank": 25,
             "name": "font_awesome_flutter",
-            "likes": 2122,
+            "likes": 2126,
             "health": 120,
             "popularity": 100,
             "nullSafe": true,
@@ -1080,7 +1097,7 @@
         {
             "rank": 26,
             "name": "flutter_spinkit",
-            "likes": 2077,
+            "likes": 2080,
             "health": 105,
             "popularity": 100,
             "nullSafe": true,
@@ -1097,7 +1114,7 @@
         {
             "rank": 27,
             "name": "shimmer",
-            "likes": 2069,
+            "likes": 2072,
             "health": 130,
             "popularity": 99,
             "nullSafe": true,
@@ -1114,7 +1131,7 @@
         {
             "rank": 28,
             "name": "firebase_auth",
-            "likes": 2063,
+            "likes": 2066,
             "health": 120,
             "popularity": 100,
             "nullSafe": true,
@@ -1131,7 +1148,7 @@
         {
             "rank": 29,
             "name": "google_maps_flutter",
-            "likes": 2059,
+            "likes": 2060,
             "health": 120,
             "popularity": 100,
             "nullSafe": true,
@@ -1165,7 +1182,7 @@
         {
             "rank": 31,
             "name": "auto_size_text",
-            "likes": 2007,
+            "likes": 2014,
             "health": 130,
             "popularity": 99,
             "nullSafe": true,
@@ -1182,7 +1199,7 @@
         {
             "rank": 32,
             "name": "permission_handler",
-            "likes": 1992,
+            "likes": 1995,
             "health": 120,
             "popularity": 100,
             "nullSafe": true,
@@ -1199,7 +1216,7 @@
         {
             "rank": 33,
             "name": "cloud_firestore",
-            "likes": 1871,
+            "likes": 1876,
             "health": 120,
             "popularity": 100,
             "nullSafe": true,
@@ -1216,7 +1233,7 @@
         {
             "rank": 34,
             "name": "firebase_messaging",
-            "likes": 1868,
+            "likes": 1872,
             "health": 120,
             "popularity": 100,
             "nullSafe": true,
@@ -1233,7 +1250,7 @@
         {
             "rank": 35,
             "name": "connectivity",
-            "likes": 1845,
+            "likes": 1847,
             "health": 120,
             "popularity": 100,
             "nullSafe": true,
@@ -1250,7 +1267,7 @@
         {
             "rank": 36,
             "name": "file_picker",
-            "likes": 1803,
+            "likes": 1805,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -1267,7 +1284,7 @@
         {
             "rank": 37,
             "name": "webview_flutter",
-            "likes": 1803,
+            "likes": 1805,
             "health": 120,
             "popularity": 100,
             "nullSafe": true,
@@ -1284,7 +1301,7 @@
         {
             "rank": 38,
             "name": "get_it",
-            "likes": 1735,
+            "likes": 1737,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -1301,12 +1318,12 @@
         {
             "rank": 39,
             "name": "flutter_staggered_grid_view",
-            "likes": 1709,
+            "likes": 1710,
             "health": 130,
             "popularity": 99,
             "nullSafe": true,
             "endorsed": false,
-            "version": "0.4.10.5.0-dev.4",
+            "version": "0.4.10.5.0-dev.6",
             "developer": "romainrastel.com",
             "android": true,
             "ios": true,
@@ -1318,7 +1335,7 @@
         {
             "rank": 40,
             "name": "device_preview",
-            "likes": 1656,
+            "likes": 1659,
             "health": 130,
             "popularity": 98,
             "nullSafe": true,
@@ -1335,7 +1352,7 @@
         {
             "rank": 41,
             "name": "fluttertoast",
-            "likes": 1624,
+            "likes": 1627,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -1369,7 +1386,7 @@
         {
             "rank": 43,
             "name": "pull_to_refresh",
-            "likes": 1582,
+            "likes": 1586,
             "health": 130,
             "popularity": 99,
             "nullSafe": true,
@@ -1385,7 +1402,7 @@
         {
             "rank": 44,
             "name": "flutter_screenutil",
-            "likes": 1578,
+            "likes": 1581,
             "health": 120,
             "popularity": 99,
             "nullSafe": true,
@@ -1401,7 +1418,7 @@
         {
             "rank": 45,
             "name": "modal_bottom_sheet",
-            "likes": 1572,
+            "likes": 1573,
             "health": 120,
             "popularity": 99,
             "nullSafe": true,
@@ -1418,7 +1435,7 @@
         {
             "rank": 46,
             "name": "sliding_up_panel",
-            "likes": 1570,
+            "likes": 1573,
             "health": 130,
             "popularity": 99,
             "nullSafe": true,
@@ -1452,7 +1469,7 @@
         {
             "rank": 48,
             "name": "location",
-            "likes": 1552,
+            "likes": 1553,
             "health": 125,
             "popularity": 99,
             "nullSafe": true,
@@ -1469,7 +1486,7 @@
         {
             "rank": 49,
             "name": "just_audio",
-            "likes": 1523,
+            "likes": 1527,
             "health": 130,
             "popularity": 99,
             "nullSafe": true,
@@ -1502,7 +1519,7 @@
         {
             "rank": 51,
             "name": "firebase_core",
-            "likes": 1456,
+            "likes": 1458,
             "health": 120,
             "popularity": 100,
             "nullSafe": true,
@@ -1536,7 +1553,7 @@
         {
             "rank": 53,
             "name": "google_sign_in",
-            "likes": 1429,
+            "likes": 1432,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -1553,7 +1570,7 @@
         {
             "rank": 54,
             "name": "syncfusion_flutter_charts",
-            "likes": 1403,
+            "likes": 1406,
             "health": 130,
             "popularity": 99,
             "nullSafe": true,
@@ -1570,7 +1587,7 @@
         {
             "rank": 55,
             "name": "photo_view",
-            "likes": 1400,
+            "likes": 1403,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -1587,7 +1604,7 @@
         {
             "rank": 56,
             "name": "flutter_secure_storage",
-            "likes": 1397,
+            "likes": 1401,
             "health": 120,
             "popularity": 99,
             "nullSafe": true,
@@ -1603,7 +1620,7 @@
         {
             "rank": 57,
             "name": "bloc",
-            "likes": 1384,
+            "likes": 1386,
             "health": 130,
             "popularity": 99,
             "nullSafe": true,
@@ -1620,7 +1637,7 @@
         {
             "rank": 58,
             "name": "introduction_screen",
-            "likes": 1379,
+            "likes": 1380,
             "health": 120,
             "popularity": 98,
             "nullSafe": true,
@@ -1653,7 +1670,7 @@
         {
             "rank": 60,
             "name": "video_player",
-            "likes": 1324,
+            "likes": 1326,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -1670,7 +1687,7 @@
         {
             "rank": 61,
             "name": "lottie",
-            "likes": 1305,
+            "likes": 1306,
             "health": 130,
             "popularity": 99,
             "nullSafe": true,
@@ -1687,7 +1704,7 @@
         {
             "rank": 62,
             "name": "responsive_framework",
-            "likes": 1302,
+            "likes": 1303,
             "health": 120,
             "popularity": 97,
             "nullSafe": true,
@@ -1704,7 +1721,7 @@
         {
             "rank": 63,
             "name": "riverpod",
-            "likes": 1273,
+            "likes": 1277,
             "health": 130,
             "popularity": 97,
             "nullSafe": true,
@@ -1721,7 +1738,7 @@
         {
             "rank": 64,
             "name": "table_calendar",
-            "likes": 1268,
+            "likes": 1270,
             "health": 130,
             "popularity": 99,
             "nullSafe": true,
@@ -1737,7 +1754,7 @@
         {
             "rank": 65,
             "name": "easy_localization",
-            "likes": 1264,
+            "likes": 1266,
             "health": 130,
             "popularity": 99,
             "nullSafe": true,
@@ -1752,25 +1769,8 @@
         },
         {
             "rank": 66,
-            "name": "simple_animations",
-            "likes": 1239,
-            "health": 130,
-            "popularity": 99,
-            "nullSafe": true,
-            "endorsed": false,
-            "version": "4.0.1",
-            "developer": "felix-blaschke.de",
-            "android": true,
-            "ios": true,
-            "linux": true,
-            "macos": true,
-            "web": true,
-            "windows": true
-        },
-        {
-            "rank": 67,
             "name": "infinite_scroll_pagination",
-            "likes": 1237,
+            "likes": 1241,
             "health": 130,
             "popularity": 98,
             "nullSafe": true,
@@ -1785,9 +1785,26 @@
             "windows": true
         },
         {
+            "rank": 67,
+            "name": "simple_animations",
+            "likes": 1240,
+            "health": 130,
+            "popularity": 99,
+            "nullSafe": true,
+            "endorsed": false,
+            "version": "4.0.1",
+            "developer": "felix-blaschke.de",
+            "android": true,
+            "ios": true,
+            "linux": true,
+            "macos": true,
+            "web": true,
+            "windows": true
+        },
+        {
             "rank": 68,
             "name": "audioplayers",
-            "likes": 1231,
+            "likes": 1234,
             "health": 130,
             "popularity": 99,
             "nullSafe": true,
@@ -1821,7 +1838,7 @@
         {
             "rank": 70,
             "name": "auto_route",
-            "likes": 1215,
+            "likes": 1218,
             "health": 110,
             "popularity": 98,
             "nullSafe": true,
@@ -1837,7 +1854,7 @@
         {
             "rank": 71,
             "name": "equatable",
-            "likes": 1209,
+            "likes": 1210,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -1854,7 +1871,7 @@
         {
             "rank": 72,
             "name": "logger",
-            "likes": 1198,
+            "likes": 1199,
             "health": 130,
             "popularity": 99,
             "nullSafe": true,
@@ -1870,7 +1887,7 @@
         {
             "rank": 73,
             "name": "flutter_form_builder",
-            "likes": 1169,
+            "likes": 1173,
             "health": 130,
             "popularity": 98,
             "nullSafe": true,
@@ -1904,7 +1921,7 @@
         {
             "rank": 75,
             "name": "persistent_bottom_nav_bar",
-            "likes": 1096,
+            "likes": 1097,
             "health": 130,
             "popularity": 98,
             "nullSafe": true,
@@ -1920,7 +1937,7 @@
         {
             "rank": 76,
             "name": "smooth_page_indicator",
-            "likes": 1050,
+            "likes": 1055,
             "health": 130,
             "popularity": 99,
             "nullSafe": true,
@@ -1953,7 +1970,7 @@
         {
             "rank": 78,
             "name": "material_floating_search_bar",
-            "likes": 1047,
+            "likes": 1049,
             "health": 130,
             "popularity": 97,
             "nullSafe": true,
@@ -1969,7 +1986,7 @@
         {
             "rank": 79,
             "name": "pdf",
-            "likes": 1043,
+            "likes": 1045,
             "health": 130,
             "popularity": 99,
             "nullSafe": true,
@@ -2003,7 +2020,7 @@
         {
             "rank": 81,
             "name": "awesome_notifications",
-            "likes": 1031,
+            "likes": 1032,
             "health": 120,
             "popularity": 97,
             "nullSafe": true,
@@ -2020,7 +2037,7 @@
         {
             "rank": 82,
             "name": "flutter_neumorphic",
-            "likes": 1004,
+            "likes": 1006,
             "health": 110,
             "popularity": 96,
             "nullSafe": true,
@@ -2036,7 +2053,7 @@
         {
             "rank": 83,
             "name": "pin_code_fields",
-            "likes": 1002,
+            "likes": 1003,
             "health": 130,
             "popularity": 99,
             "nullSafe": true,
@@ -2053,7 +2070,7 @@
         {
             "rank": 84,
             "name": "charts_flutter",
-            "likes": 985,
+            "likes": 988,
             "health": 120,
             "popularity": 99,
             "nullSafe": true,
@@ -2069,7 +2086,7 @@
         {
             "rank": 85,
             "name": "google_mobile_ads",
-            "likes": 982,
+            "likes": 983,
             "health": 115,
             "popularity": 99,
             "nullSafe": true,
@@ -2086,7 +2103,7 @@
         {
             "rank": 86,
             "name": "local_auth",
-            "likes": 962,
+            "likes": 963,
             "health": 120,
             "popularity": 99,
             "nullSafe": true,
@@ -2120,7 +2137,7 @@
         {
             "rank": 88,
             "name": "flutter_rating_bar",
-            "likes": 953,
+            "likes": 955,
             "health": 130,
             "popularity": 99,
             "nullSafe": true,
@@ -2137,7 +2154,7 @@
         {
             "rank": 89,
             "name": "getwidget",
-            "likes": 944,
+            "likes": 945,
             "health": 120,
             "popularity": 97,
             "nullSafe": true,
@@ -2154,7 +2171,7 @@
         {
             "rank": 90,
             "name": "flutter_html",
-            "likes": 939,
+            "likes": 940,
             "health": 110,
             "popularity": 100,
             "nullSafe": true,
@@ -2171,7 +2188,7 @@
         {
             "rank": 91,
             "name": "flutter_inappwebview",
-            "likes": 931,
+            "likes": 933,
             "health": 120,
             "popularity": 99,
             "nullSafe": true,
@@ -2221,7 +2238,7 @@
         {
             "rank": 94,
             "name": "flutter_hooks",
-            "likes": 919,
+            "likes": 920,
             "health": 130,
             "popularity": 98,
             "nullSafe": true,
@@ -2238,7 +2255,7 @@
         {
             "rank": 95,
             "name": "stacked",
-            "likes": 907,
+            "likes": 908,
             "health": 120,
             "popularity": 98,
             "nullSafe": true,
@@ -2255,7 +2272,7 @@
         {
             "rank": 96,
             "name": "camera",
-            "likes": 899,
+            "likes": 901,
             "health": 130,
             "popularity": 99,
             "nullSafe": true,
@@ -2272,7 +2289,7 @@
         {
             "rank": 97,
             "name": "qr_flutter",
-            "likes": 896,
+            "likes": 897,
             "health": 120,
             "popularity": 99,
             "nullSafe": true,
@@ -2289,7 +2306,7 @@
         {
             "rank": 98,
             "name": "expandable",
-            "likes": 883,
+            "likes": 884,
             "health": 130,
             "popularity": 99,
             "nullSafe": true,
@@ -2322,7 +2339,7 @@
         {
             "rank": 100,
             "name": "flutter_blurhash",
-            "likes": 883,
+            "likes": 885,
             "health": 130,
             "popularity": 99,
             "nullSafe": true,
@@ -2339,7 +2356,7 @@
         {
             "rank": 101,
             "name": "in_app_purchase",
-            "likes": 877,
+            "likes": 878,
             "health": 110,
             "popularity": 98,
             "nullSafe": true,
@@ -2390,7 +2407,7 @@
         {
             "rank": 104,
             "name": "uuid",
-            "likes": 851,
+            "likes": 853,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -2407,7 +2424,7 @@
         {
             "rank": 105,
             "name": "qr_code_scanner",
-            "likes": 844,
+            "likes": 845,
             "health": 120,
             "popularity": 99,
             "nullSafe": true,
@@ -2423,7 +2440,7 @@
         {
             "rank": 106,
             "name": "extended_image",
-            "likes": 842,
+            "likes": 843,
             "health": 130,
             "popularity": 98,
             "nullSafe": true,
@@ -2440,7 +2457,7 @@
         {
             "rank": 107,
             "name": "sign_in_with_apple",
-            "likes": 805,
+            "likes": 808,
             "health": 130,
             "popularity": 99,
             "nullSafe": true,
@@ -2457,7 +2474,7 @@
         {
             "rank": 108,
             "name": "velocity_x",
-            "likes": 805,
+            "likes": 806,
             "health": 120,
             "popularity": 97,
             "nullSafe": true,
@@ -2507,7 +2524,7 @@
         {
             "rank": 111,
             "name": "timeago",
-            "likes": 771,
+            "likes": 773,
             "health": 115,
             "popularity": 99,
             "nullSafe": true,
@@ -2540,7 +2557,7 @@
         {
             "rank": 113,
             "name": "chewie",
-            "likes": 760,
+            "likes": 764,
             "health": 120,
             "popularity": 99,
             "nullSafe": true,
@@ -2556,7 +2573,7 @@
         {
             "rank": 114,
             "name": "wakelock",
-            "likes": 759,
+            "likes": 761,
             "health": 130,
             "popularity": 99,
             "nullSafe": true,
@@ -2573,7 +2590,7 @@
         {
             "rank": 115,
             "name": "firebase_storage",
-            "likes": 755,
+            "likes": 757,
             "health": 120,
             "popularity": 100,
             "nullSafe": true,
@@ -2590,7 +2607,7 @@
         {
             "rank": 116,
             "name": "mobx",
-            "likes": 752,
+            "likes": 754,
             "health": 130,
             "popularity": 99,
             "nullSafe": true,
@@ -2607,7 +2624,7 @@
         {
             "rank": 117,
             "name": "flame",
-            "likes": 748,
+            "likes": 750,
             "health": 130,
             "popularity": 96,
             "nullSafe": true,
@@ -2641,7 +2658,7 @@
         {
             "rank": 119,
             "name": "bottom_navy_bar",
-            "likes": 739,
+            "likes": 740,
             "health": 120,
             "popularity": 97,
             "nullSafe": true,
@@ -2658,7 +2675,7 @@
         {
             "rank": 120,
             "name": "scrollable_positioned_list",
-            "likes": 736,
+            "likes": 738,
             "health": 130,
             "popularity": 99,
             "nullSafe": true,
@@ -2675,7 +2692,7 @@
         {
             "rank": 121,
             "name": "flutter_login",
-            "likes": 719,
+            "likes": 720,
             "health": 130,
             "popularity": 96,
             "nullSafe": true,
@@ -2724,6 +2741,23 @@
         },
         {
             "rank": 124,
+            "name": "connectivity_plus",
+            "likes": 704,
+            "health": 130,
+            "popularity": 99,
+            "nullSafe": true,
+            "endorsed": true,
+            "version": "2.1.0",
+            "developer": "fluttercommunity.dev",
+            "android": true,
+            "ios": true,
+            "linux": true,
+            "macos": true,
+            "web": true,
+            "windows": true
+        },
+        {
+            "rank": 125,
             "name": "timelines",
             "likes": 704,
             "health": 120,
@@ -2740,9 +2774,9 @@
             "windows": true
         },
         {
-            "rank": 125,
+            "rank": 126,
             "name": "intro_slider",
-            "likes": 700,
+            "likes": 702,
             "health": 120,
             "popularity": 98,
             "nullSafe": true,
@@ -2756,7 +2790,7 @@
             "windows": true
         },
         {
-            "rank": 126,
+            "rank": 127,
             "name": "youtube_player_flutter",
             "likes": 700,
             "health": 120,
@@ -2773,9 +2807,9 @@
             "windows": false
         },
         {
-            "rank": 127,
+            "rank": 128,
             "name": "uni_links",
-            "likes": 698,
+            "likes": 700,
             "health": 130,
             "popularity": 99,
             "nullSafe": true,
@@ -2789,32 +2823,15 @@
             "windows": false
         },
         {
-            "rank": 128,
+            "rank": 129,
             "name": "page_transition",
-            "likes": 697,
+            "likes": 699,
             "health": 120,
             "popularity": 99,
             "nullSafe": true,
             "endorsed": false,
             "version": "2.0.4",
             "developer": "yasinilhan.com",
-            "android": true,
-            "ios": true,
-            "linux": true,
-            "macos": true,
-            "web": true,
-            "windows": true
-        },
-        {
-            "rank": 129,
-            "name": "connectivity_plus",
-            "likes": 696,
-            "health": 130,
-            "popularity": 99,
-            "nullSafe": true,
-            "endorsed": true,
-            "version": "2.1.0",
-            "developer": "fluttercommunity.dev",
             "android": true,
             "ios": true,
             "linux": true,
@@ -2842,7 +2859,7 @@
         {
             "rank": 131,
             "name": "rflutter_alert",
-            "likes": 692,
+            "likes": 693,
             "health": 130,
             "popularity": 98,
             "nullSafe": true,
@@ -2859,7 +2876,7 @@
         {
             "rank": 132,
             "name": "workmanager",
-            "likes": 690,
+            "likes": 691,
             "health": 120,
             "popularity": 97,
             "nullSafe": true,
@@ -2876,7 +2893,7 @@
         {
             "rank": 133,
             "name": "flutter_riverpod",
-            "likes": 689,
+            "likes": 690,
             "health": 130,
             "popularity": 98,
             "nullSafe": true,
@@ -2910,7 +2927,7 @@
         {
             "rank": 135,
             "name": "sizer",
-            "likes": 683,
+            "likes": 688,
             "health": 120,
             "popularity": 98,
             "nullSafe": true,
@@ -2994,7 +3011,7 @@
         {
             "rank": 140,
             "name": "share_plus",
-            "likes": 661,
+            "likes": 665,
             "health": 130,
             "popularity": 99,
             "nullSafe": true,
@@ -3011,7 +3028,7 @@
         {
             "rank": 141,
             "name": "flutter_map",
-            "likes": 661,
+            "likes": 663,
             "health": 110,
             "popularity": 98,
             "nullSafe": true,
@@ -3028,7 +3045,7 @@
         {
             "rank": 142,
             "name": "crypto",
-            "likes": 661,
+            "likes": 666,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -3062,7 +3079,7 @@
         {
             "rank": 144,
             "name": "sleek_circular_slider",
-            "likes": 659,
+            "likes": 660,
             "health": 110,
             "popularity": 96,
             "nullSafe": true,
@@ -3095,7 +3112,7 @@
         {
             "rank": 146,
             "name": "awesome_dialog",
-            "likes": 652,
+            "likes": 653,
             "health": 130,
             "popularity": 98,
             "nullSafe": true,
@@ -3112,7 +3129,7 @@
         {
             "rank": 147,
             "name": "google_nav_bar",
-            "likes": 652,
+            "likes": 653,
             "health": 120,
             "popularity": 97,
             "nullSafe": true,
@@ -3129,7 +3146,7 @@
         {
             "rank": 148,
             "name": "flutter_icons",
-            "likes": 641,
+            "likes": 642,
             "health": 85,
             "popularity": 98,
             "nullSafe": false,
@@ -3144,8 +3161,25 @@
         },
         {
             "rank": 149,
-            "name": "path",
+            "name": "retrofit",
             "likes": 638,
+            "health": 110,
+            "popularity": 98,
+            "nullSafe": true,
+            "endorsed": false,
+            "version": "3.0.1",
+            "developer": "mings.in",
+            "android": true,
+            "ios": true,
+            "linux": true,
+            "macos": true,
+            "web": true,
+            "windows": true
+        },
+        {
+            "rank": 150,
+            "name": "path",
+            "likes": 639,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -3160,31 +3194,14 @@
             "windows": true
         },
         {
-            "rank": 150,
+            "rank": 151,
             "name": "image",
-            "likes": 638,
+            "likes": 640,
             "health": 130,
             "popularity": 99,
             "nullSafe": true,
             "endorsed": false,
             "version": "3.1.0",
-            "android": true,
-            "ios": true,
-            "linux": true,
-            "macos": true,
-            "web": true,
-            "windows": true
-        },
-        {
-            "rank": 151,
-            "name": "retrofit",
-            "likes": 637,
-            "health": 110,
-            "popularity": 98,
-            "nullSafe": true,
-            "endorsed": false,
-            "version": "3.0.1",
-            "developer": "mings.in",
             "android": true,
             "ios": true,
             "linux": true,
@@ -3228,7 +3245,7 @@
         {
             "rank": 154,
             "name": "flash",
-            "likes": 620,
+            "likes": 623,
             "health": 130,
             "popularity": 97,
             "nullSafe": true,
@@ -3244,7 +3261,7 @@
         {
             "rank": 155,
             "name": "lint",
-            "likes": 617,
+            "likes": 620,
             "health": 130,
             "popularity": 97,
             "nullSafe": true,
@@ -3295,7 +3312,7 @@
         {
             "rank": 158,
             "name": "printing",
-            "likes": 603,
+            "likes": 604,
             "health": 130,
             "popularity": 98,
             "nullSafe": true,
@@ -3328,7 +3345,7 @@
         {
             "rank": 160,
             "name": "sembast",
-            "likes": 592,
+            "likes": 595,
             "health": 130,
             "popularity": 98,
             "nullSafe": true,
@@ -3345,7 +3362,7 @@
         {
             "rank": 161,
             "name": "flutter_signin_button",
-            "likes": 592,
+            "likes": 594,
             "health": 130,
             "popularity": 98,
             "nullSafe": true,
@@ -3361,7 +3378,7 @@
         {
             "rank": 162,
             "name": "flex_color_scheme",
-            "likes": 581,
+            "likes": 582,
             "health": 130,
             "popularity": 94,
             "nullSafe": true,
@@ -3378,7 +3395,7 @@
         {
             "rank": 163,
             "name": "tutorial_coach_mark",
-            "likes": 578,
+            "likes": 579,
             "health": 120,
             "popularity": 96,
             "nullSafe": true,
@@ -3393,14 +3410,13 @@
         },
         {
             "rank": 164,
-            "name": "keyboard_actions",
-            "likes": 575,
-            "health": 130,
-            "popularity": 98,
+            "name": "fluent_ui",
+            "likes": 573,
+            "health": 110,
+            "popularity": 88,
             "nullSafe": true,
             "endorsed": false,
-            "version": "3.4.5",
-            "developer": "diegoveloper.com",
+            "version": "3.6.0",
             "android": true,
             "ios": true,
             "linux": true,
@@ -3411,7 +3427,7 @@
         {
             "rank": 165,
             "name": "flutter_speed_dial",
-            "likes": 572,
+            "likes": 573,
             "health": 120,
             "popularity": 98,
             "nullSafe": true,
@@ -3427,7 +3443,7 @@
         {
             "rank": 166,
             "name": "flutter_datetime_picker",
-            "likes": 572,
+            "likes": 573,
             "health": 110,
             "popularity": 99,
             "nullSafe": true,
@@ -3443,7 +3459,7 @@
         {
             "rank": 167,
             "name": "syncfusion_flutter_datepicker",
-            "likes": 570,
+            "likes": 571,
             "health": 130,
             "popularity": 98,
             "nullSafe": true,
@@ -3460,7 +3476,7 @@
         {
             "rank": 168,
             "name": "flutter_facebook_auth",
-            "likes": 570,
+            "likes": 572,
             "health": 130,
             "popularity": 99,
             "nullSafe": true,
@@ -3477,7 +3493,7 @@
         {
             "rank": 169,
             "name": "rive",
-            "likes": 566,
+            "likes": 568,
             "health": 120,
             "popularity": 98,
             "nullSafe": true,
@@ -3494,7 +3510,7 @@
         {
             "rank": 170,
             "name": "mockito",
-            "likes": 565,
+            "likes": 566,
             "health": 130,
             "popularity": 98,
             "nullSafe": true,
@@ -3511,7 +3527,7 @@
         {
             "rank": 171,
             "name": "flutter_platform_widgets",
-            "likes": 565,
+            "likes": 567,
             "health": 110,
             "popularity": 96,
             "nullSafe": true,
@@ -3545,7 +3561,7 @@
         {
             "rank": 173,
             "name": "flutter_blue",
-            "likes": 564,
+            "likes": 565,
             "health": 90,
             "popularity": 97,
             "nullSafe": true,
@@ -3595,7 +3611,7 @@
         {
             "rank": 176,
             "name": "better_player",
-            "likes": 558,
+            "likes": 559,
             "health": 110,
             "popularity": 98,
             "nullSafe": true,
@@ -3611,7 +3627,7 @@
         {
             "rank": 177,
             "name": "sliding_sheet",
-            "likes": 554,
+            "likes": 555,
             "health": 130,
             "popularity": 96,
             "nullSafe": true,
@@ -3626,6 +3642,23 @@
         },
         {
             "rank": 178,
+            "name": "flutter_tts",
+            "likes": 553,
+            "health": 120,
+            "popularity": 97,
+            "nullSafe": true,
+            "endorsed": false,
+            "version": "3.3.3",
+            "developer": "tundralabs.com",
+            "android": true,
+            "ios": true,
+            "linux": false,
+            "macos": true,
+            "web": true,
+            "windows": false
+        },
+        {
+            "rank": 179,
             "name": "flare_flutter",
             "likes": 553,
             "health": 90,
@@ -3642,26 +3675,9 @@
             "windows": true
         },
         {
-            "rank": 179,
-            "name": "flutter_tts",
-            "likes": 552,
-            "health": 120,
-            "popularity": 97,
-            "nullSafe": true,
-            "endorsed": false,
-            "version": "3.3.3",
-            "developer": "tundralabs.com",
-            "android": true,
-            "ios": true,
-            "linux": false,
-            "macos": true,
-            "web": true,
-            "windows": false
-        },
-        {
             "rank": 180,
             "name": "pinput",
-            "likes": 549,
+            "likes": 551,
             "health": 130,
             "popularity": 98,
             "nullSafe": true,
@@ -3678,7 +3694,7 @@
         {
             "rank": 181,
             "name": "grouped_list",
-            "likes": 547,
+            "likes": 549,
             "health": 130,
             "popularity": 97,
             "nullSafe": true,
@@ -3728,7 +3744,7 @@
         {
             "rank": 184,
             "name": "upgrader",
-            "likes": 535,
+            "likes": 536,
             "health": 120,
             "popularity": 97,
             "nullSafe": true,
@@ -3745,7 +3761,7 @@
         {
             "rank": 185,
             "name": "injectable",
-            "likes": 529,
+            "likes": 530,
             "health": 130,
             "popularity": 98,
             "nullSafe": true,
@@ -3794,7 +3810,7 @@
         {
             "rank": 188,
             "name": "socket_io_client",
-            "likes": 521,
+            "likes": 523,
             "health": 130,
             "popularity": 98,
             "nullSafe": true,
@@ -3810,7 +3826,7 @@
         {
             "rank": 189,
             "name": "flutter_markdown",
-            "likes": 516,
+            "likes": 517,
             "health": 130,
             "popularity": 98,
             "nullSafe": true,
@@ -3844,7 +3860,7 @@
         {
             "rank": 191,
             "name": "flutter_webrtc",
-            "likes": 506,
+            "likes": 508,
             "health": 110,
             "popularity": 96,
             "nullSafe": true,
@@ -3860,7 +3876,7 @@
         {
             "rank": 192,
             "name": "beamer",
-            "likes": 498,
+            "likes": 499,
             "health": 130,
             "popularity": 94,
             "nullSafe": true,
@@ -3894,7 +3910,7 @@
         {
             "rank": 194,
             "name": "flutter_image_compress",
-            "likes": 492,
+            "likes": 494,
             "health": 120,
             "popularity": 99,
             "nullSafe": true,
@@ -3910,7 +3926,7 @@
         {
             "rank": 195,
             "name": "flip_card",
-            "likes": 483,
+            "likes": 484,
             "health": 125,
             "popularity": 97,
             "nullSafe": true,
@@ -3926,8 +3942,25 @@
         },
         {
             "rank": 196,
+            "name": "package_info_plus",
+            "likes": 479,
+            "health": 130,
+            "popularity": 99,
+            "nullSafe": true,
+            "endorsed": true,
+            "version": "1.3.0",
+            "developer": "fluttercommunity.dev",
+            "android": true,
+            "ios": true,
+            "linux": true,
+            "macos": true,
+            "web": true,
+            "windows": true
+        },
+        {
+            "rank": 197,
             "name": "adaptive_dialog",
-            "likes": 477,
+            "likes": 478,
             "health": 130,
             "popularity": 96,
             "nullSafe": true,
@@ -3942,7 +3975,7 @@
             "windows": true
         },
         {
-            "rank": 197,
+            "rank": 198,
             "name": "mask_text_input_formatter",
             "likes": 477,
             "health": 120,
@@ -3958,26 +3991,9 @@
             "windows": true
         },
         {
-            "rank": 198,
-            "name": "package_info_plus",
-            "likes": 475,
-            "health": 130,
-            "popularity": 99,
-            "nullSafe": true,
-            "endorsed": true,
-            "version": "1.3.0",
-            "developer": "fluttercommunity.dev",
-            "android": true,
-            "ios": true,
-            "linux": true,
-            "macos": true,
-            "web": true,
-            "windows": true
-        },
-        {
             "rank": 199,
             "name": "liquid_progress_indicator",
-            "likes": 474,
+            "likes": 475,
             "health": 120,
             "popularity": 95,
             "nullSafe": true,
@@ -3993,7 +4009,7 @@
         {
             "rank": 200,
             "name": "change_app_package_name",
-            "likes": 471,
+            "likes": 472,
             "health": 90,
             "popularity": 97,
             "nullSafe": true,
@@ -4010,7 +4026,7 @@
         {
             "rank": 201,
             "name": "speech_to_text",
-            "likes": 467,
+            "likes": 468,
             "health": 130,
             "popularity": 97,
             "nullSafe": true,
@@ -4044,7 +4060,7 @@
         {
             "rank": 203,
             "name": "reorderables",
-            "likes": 466,
+            "likes": 467,
             "health": 120,
             "popularity": 97,
             "nullSafe": true,
@@ -4060,7 +4076,7 @@
         {
             "rank": 204,
             "name": "slimy_card",
-            "likes": 460,
+            "likes": 461,
             "health": 100,
             "popularity": 90,
             "nullSafe": false,
@@ -4075,6 +4091,23 @@
         },
         {
             "rank": 205,
+            "name": "sliver_tools",
+            "likes": 457,
+            "health": 130,
+            "popularity": 97,
+            "nullSafe": true,
+            "endorsed": false,
+            "version": "0.2.5",
+            "developer": "pietervanloon.com",
+            "android": true,
+            "ios": true,
+            "linux": true,
+            "macos": true,
+            "web": true,
+            "windows": true
+        },
+        {
+            "rank": 206,
             "name": "email_validator",
             "likes": 457,
             "health": 130,
@@ -4090,9 +4123,9 @@
             "windows": true
         },
         {
-            "rank": 206,
+            "rank": 207,
             "name": "octo_image",
-            "likes": 456,
+            "likes": 458,
             "health": 130,
             "popularity": 99,
             "nullSafe": true,
@@ -4107,26 +4140,9 @@
             "windows": true
         },
         {
-            "rank": 207,
-            "name": "sliver_tools",
-            "likes": 456,
-            "health": 130,
-            "popularity": 97,
-            "nullSafe": true,
-            "endorsed": false,
-            "version": "0.2.5",
-            "developer": "pietervanloon.com",
-            "android": true,
-            "ios": true,
-            "linux": true,
-            "macos": true,
-            "web": true,
-            "windows": true
-        },
-        {
             "rank": 208,
             "name": "dotted_border",
-            "likes": 450,
+            "likes": 451,
             "health": 130,
             "popularity": 99,
             "nullSafe": true,
@@ -4142,7 +4158,7 @@
         {
             "rank": 209,
             "name": "styled_widget",
-            "likes": 449,
+            "likes": 451,
             "health": 110,
             "popularity": 94,
             "nullSafe": true,
@@ -4158,7 +4174,7 @@
         {
             "rank": 210,
             "name": "country_code_picker",
-            "likes": 447,
+            "likes": 449,
             "health": 130,
             "popularity": 99,
             "nullSafe": true,
@@ -4174,7 +4190,7 @@
         {
             "rank": 211,
             "name": "dartx",
-            "likes": 444,
+            "likes": 445,
             "health": 130,
             "popularity": 96,
             "nullSafe": true,
@@ -4191,7 +4207,7 @@
         {
             "rank": 212,
             "name": "flutter_dotenv",
-            "likes": 440,
+            "likes": 445,
             "health": 120,
             "popularity": 99,
             "nullSafe": true,
@@ -4224,7 +4240,7 @@
         {
             "rank": 214,
             "name": "flutter_zoom_drawer",
-            "likes": 438,
+            "likes": 439,
             "health": 130,
             "popularity": 96,
             "nullSafe": true,
@@ -4241,7 +4257,7 @@
         {
             "rank": 215,
             "name": "device_info_plus",
-            "likes": 433,
+            "likes": 437,
             "health": 130,
             "popularity": 99,
             "nullSafe": true,
@@ -4258,7 +4274,7 @@
         {
             "rank": 216,
             "name": "modal_progress_hud",
-            "likes": 432,
+            "likes": 433,
             "health": 100,
             "popularity": 98,
             "nullSafe": false,
@@ -4306,6 +4322,23 @@
         },
         {
             "rank": 219,
+            "name": "go_router",
+            "likes": 428,
+            "health": 130,
+            "popularity": 94,
+            "nullSafe": true,
+            "endorsed": true,
+            "version": "2.5.7",
+            "developer": "sellsbrothers.com",
+            "android": true,
+            "ios": true,
+            "linux": true,
+            "macos": true,
+            "web": true,
+            "windows": true
+        },
+        {
+            "rank": 220,
             "name": "giffy_dialog",
             "likes": 427,
             "health": 100,
@@ -4321,7 +4354,7 @@
             "windows": true
         },
         {
-            "rank": 220,
+            "rank": 221,
             "name": "graphql_flutter",
             "likes": 425,
             "health": 75,
@@ -4338,26 +4371,9 @@
             "windows": true
         },
         {
-            "rank": 221,
-            "name": "go_router",
-            "likes": 426,
-            "health": 130,
-            "popularity": 94,
-            "nullSafe": true,
-            "endorsed": true,
-            "version": "2.5.7",
-            "developer": "sellsbrothers.com",
-            "android": true,
-            "ios": true,
-            "linux": true,
-            "macos": true,
-            "web": true,
-            "windows": true
-        },
-        {
             "rank": 222,
             "name": "settings_ui",
-            "likes": 423,
+            "likes": 424,
             "health": 120,
             "popularity": 96,
             "nullSafe": true,
@@ -4373,14 +4389,13 @@
         },
         {
             "rank": 223,
-            "name": "screenshot",
-            "likes": 422,
-            "health": 120,
-            "popularity": 98,
+            "name": "animated_bottom_navigation_bar",
+            "likes": 424,
+            "health": 130,
+            "popularity": 96,
             "nullSafe": true,
             "endorsed": false,
-            "version": "1.2.3",
-            "developer": "dsi.dev",
+            "version": "0.3.2",
             "android": true,
             "ios": true,
             "linux": true,
@@ -4391,7 +4406,7 @@
         {
             "rank": 224,
             "name": "snapping_sheet",
-            "likes": 422,
+            "likes": 423,
             "health": 130,
             "popularity": 94,
             "nullSafe": true,
@@ -4407,8 +4422,25 @@
         },
         {
             "rank": 225,
+            "name": "screenshot",
+            "likes": 423,
+            "health": 120,
+            "popularity": 98,
+            "nullSafe": true,
+            "endorsed": false,
+            "version": "1.2.3",
+            "developer": "dsi.dev",
+            "android": true,
+            "ios": true,
+            "linux": true,
+            "macos": true,
+            "web": true,
+            "windows": true
+        },
+        {
+            "rank": 226,
             "name": "flutter_sticky_header",
-            "likes": 421,
+            "likes": 423,
             "health": 130,
             "popularity": 97,
             "nullSafe": true,
@@ -4423,25 +4455,9 @@
             "windows": true
         },
         {
-            "rank": 226,
-            "name": "animated_bottom_navigation_bar",
-            "likes": 421,
-            "health": 130,
-            "popularity": 96,
-            "nullSafe": true,
-            "endorsed": false,
-            "version": "0.3.2",
-            "android": true,
-            "ios": true,
-            "linux": true,
-            "macos": true,
-            "web": true,
-            "windows": true
-        },
-        {
             "rank": 227,
             "name": "fab_circular_menu",
-            "likes": 420,
+            "likes": 421,
             "health": 110,
             "popularity": 96,
             "nullSafe": true,
@@ -4457,7 +4473,7 @@
         {
             "rank": 228,
             "name": "built_value",
-            "likes": 418,
+            "likes": 421,
             "health": 130,
             "popularity": 99,
             "nullSafe": true,
@@ -4523,6 +4539,23 @@
         },
         {
             "rank": 232,
+            "name": "toggle_switch",
+            "likes": 409,
+            "health": 130,
+            "popularity": 97,
+            "nullSafe": true,
+            "endorsed": true,
+            "version": "1.3.0",
+            "developer": "pramod.dev",
+            "android": true,
+            "ios": true,
+            "linux": true,
+            "macos": true,
+            "web": true,
+            "windows": true
+        },
+        {
+            "rank": 233,
             "name": "flutter_unity_widget",
             "likes": 409,
             "health": 110,
@@ -4539,26 +4572,9 @@
             "windows": false
         },
         {
-            "rank": 233,
-            "name": "toggle_switch",
-            "likes": 408,
-            "health": 130,
-            "popularity": 97,
-            "nullSafe": true,
-            "endorsed": true,
-            "version": "1.3.0",
-            "developer": "pramod.dev",
-            "android": true,
-            "ios": true,
-            "linux": true,
-            "macos": true,
-            "web": true,
-            "windows": true
-        },
-        {
             "rank": 234,
             "name": "web_socket_channel",
-            "likes": 408,
+            "likes": 409,
             "health": 120,
             "popularity": 99,
             "nullSafe": true,
@@ -4575,7 +4591,7 @@
         {
             "rank": 235,
             "name": "flutter_linkify",
-            "likes": 404,
+            "likes": 405,
             "health": 120,
             "popularity": 98,
             "nullSafe": true,
@@ -4592,7 +4608,7 @@
         {
             "rank": 236,
             "name": "json_annotation",
-            "likes": 403,
+            "likes": 404,
             "health": 120,
             "popularity": 100,
             "nullSafe": true,
@@ -4625,25 +4641,8 @@
         },
         {
             "rank": 238,
-            "name": "flutter_custom_clippers",
-            "likes": 400,
-            "health": 130,
-            "popularity": 97,
-            "nullSafe": true,
-            "endorsed": false,
-            "version": "2.0.0",
-            "developer": "dlohani.com.np",
-            "android": true,
-            "ios": true,
-            "linux": true,
-            "macos": true,
-            "web": true,
-            "windows": true
-        },
-        {
-            "rank": 239,
             "name": "step_progress_indicator",
-            "likes": 399,
+            "likes": 400,
             "health": 130,
             "popularity": 96,
             "nullSafe": true,
@@ -4658,9 +4657,26 @@
             "windows": true
         },
         {
+            "rank": 239,
+            "name": "flutter_custom_clippers",
+            "likes": 401,
+            "health": 130,
+            "popularity": 97,
+            "nullSafe": true,
+            "endorsed": false,
+            "version": "2.0.0",
+            "developer": "dlohani.com.np",
+            "android": true,
+            "ios": true,
+            "linux": true,
+            "macos": true,
+            "web": true,
+            "windows": true
+        },
+        {
             "rank": 240,
             "name": "googleapis",
-            "likes": 398,
+            "likes": 399,
             "health": 125,
             "popularity": 97,
             "nullSafe": true,
@@ -4677,7 +4693,7 @@
         {
             "rank": 241,
             "name": "encrypt",
-            "likes": 395,
+            "likes": 397,
             "health": 130,
             "popularity": 99,
             "nullSafe": true,
@@ -4777,7 +4793,7 @@
         {
             "rank": 247,
             "name": "faker",
-            "likes": 387,
+            "likes": 388,
             "health": 130,
             "popularity": 96,
             "nullSafe": true,
@@ -4792,13 +4808,13 @@
         },
         {
             "rank": 248,
-            "name": "dash_chat",
-            "likes": 385,
-            "health": 130,
-            "popularity": 94,
+            "name": "bubble",
+            "likes": 386,
+            "health": 110,
+            "popularity": 97,
             "nullSafe": true,
             "endorsed": false,
-            "version": "1.1.16",
+            "version": "1.2.1",
             "android": true,
             "ios": true,
             "linux": true,
@@ -4808,29 +4824,30 @@
         },
         {
             "rank": 249,
-            "name": "open_file",
+            "name": "flutter_lints",
             "likes": 385,
-            "health": 110,
-            "popularity": 99,
+            "health": 130,
+            "popularity": 100,
             "nullSafe": true,
             "endorsed": false,
-            "version": "3.2.1",
+            "version": "1.0.4",
+            "developer": "flutter.dev",
             "android": true,
             "ios": true,
-            "linux": false,
-            "macos": false,
-            "web": false,
-            "windows": false
+            "linux": true,
+            "macos": true,
+            "web": true,
+            "windows": true
         },
         {
             "rank": 250,
-            "name": "bubble",
+            "name": "dash_chat",
             "likes": 385,
-            "health": 110,
-            "popularity": 97,
+            "health": 130,
+            "popularity": 94,
             "nullSafe": true,
             "endorsed": false,
-            "version": "1.2.1",
+            "version": "1.1.16",
             "android": true,
             "ios": true,
             "linux": true,
