@@ -1,0 +1,404 @@
+starts fetching pub dev stats...
+Fetching data for 10/250 packages ...
+Fetching data for 20/250 packages ...
+Fetching data for 30/250 packages ...
+Fetching data for 40/250 packages ...
+Fetching data for 50/250 packages ...
+Fetching data for 60/250 packages ...
+Fetching data for 70/250 packages ...
+Fetching data for 80/250 packages ...
+Fetching data for 90/250 packages ...
+Fetching data for 100/250 packages ...
+Fetching data for 110/250 packages ...
+Fetching data for 120/250 packages ...
+Fetching data for 130/250 packages ...
+Fetching data for 140/250 packages ...
+Fetching data for 150/250 packages ...
+Fetching data for 160/250 packages ...
+Fetching data for 170/250 packages ...
+Fetching data for 180/250 packages ...
+Fetching data for 190/250 packages ...
+Fetching data for 200/250 packages ...
+Fetching data for 210/250 packages ...
+Fetching data for 220/250 packages ...
+Fetching data for 230/250 packages ...
+Fetching data for 240/250 packages ...
+Fetching data for 250/250 packages ...
+
+
+Google own a total of 75/250 top packages
+┌─────────┬──────┬─────────────────┬───────┬────────┬────────────┬──────────┬──────────┬───────────┬───────────────┬─────────┬──────┬───────┬───────┬───────┬─────────┐
+│ (index) │ rank │      name       │ likes │ health │ popularity │ nullSafe │ endorsed │  version  │   developer   │ android │ ios  │ linux │ macos │  web  │ windows │
+├─────────┼──────┼─────────────────┼───────┼────────┼────────────┼──────────┼──────────┼───────────┼───────────────┼─────────┼──────┼───────┼───────┼───────┼─────────┤
+│    0    │  3   │ 'url_launcher'  │ 3839  │  130   │    100     │   true   │   true   │ '6.0.18'  │ 'flutter.dev' │  true   │ true │ true  │ true  │ true  │  true   │
+│    1    │  4   │ 'image_picker'  │ 3313  │  130   │    100     │   true   │  false   │ '0.8.4+5' │ 'flutter.dev' │  true   │ true │ false │ false │ true  │  false  │
+│    2    │  5   │ 'path_provider' │ 2395  │  130   │    100     │   true   │   true   │  '2.0.8'  │ 'flutter.dev' │  true   │ true │ true  │ true  │ false │  true   │
+│    3    │  13  │ 'url_launcher'  │ 3839  │  130   │    100     │   true   │   true   │ '6.0.18'  │ 'flutter.dev' │  true   │ true │ true  │ true  │ true  │  true   │
+│    4    │  14  │ 'image_picker'  │ 3313  │  130   │    100     │   true   │  false   │ '0.8.4+5' │ 'flutter.dev' │  true   │ true │ false │ false │ true  │  false  │
+│    5    │  15  │ 'path_provider' │ 2395  │  130   │    100     │   true   │   true   │  '2.0.8'  │ 'flutter.dev' │  true   │ true │ true  │ true  │ false │  true   │
+│    6    │  23  │ 'url_launcher'  │ 3839  │  130   │    100     │   true   │   true   │ '6.0.18'  │ 'flutter.dev' │  true   │ true │ true  │ true  │ true  │  true   │
+│    7    │  24  │ 'image_picker'  │ 3313  │  130   │    100     │   true   │  false   │ '0.8.4+5' │ 'flutter.dev' │  true   │ true │ false │ false │ true  │  false  │
+│    8    │  25  │ 'path_provider' │ 2395  │  130   │    100     │   true   │   true   │  '2.0.8'  │ 'flutter.dev' │  true   │ true │ true  │ true  │ false │  true   │
+│    9    │  33  │ 'url_launcher'  │ 3839  │  130   │    100     │   true   │   true   │ '6.0.18'  │ 'flutter.dev' │  true   │ true │ true  │ true  │ true  │  true   │
+│   10    │  34  │ 'image_picker'  │ 3313  │  130   │    100     │   true   │  false   │ '0.8.4+5' │ 'flutter.dev' │  true   │ true │ false │ false │ true  │  false  │
+│   11    │  35  │ 'path_provider' │ 2395  │  130   │    100     │   true   │   true   │  '2.0.8'  │ 'flutter.dev' │  true   │ true │ true  │ true  │ false │  true   │
+│   12    │  43  │ 'url_launcher'  │ 3839  │  130   │    100     │   true   │   true   │ '6.0.18'  │ 'flutter.dev' │  true   │ true │ true  │ true  │ true  │  true   │
+│   13    │  44  │ 'image_picker'  │ 3313  │  130   │    100     │   true   │  false   │ '0.8.4+5' │ 'flutter.dev' │  true   │ true │ false │ false │ true  │  false  │
+│   14    │  45  │ 'path_provider' │ 2395  │  130   │    100     │   true   │   true   │  '2.0.8'  │ 'flutter.dev' │  true   │ true │ true  │ true  │ false │  true   │
+│   15    │  53  │ 'url_launcher'  │ 3839  │  130   │    100     │   true   │   true   │ '6.0.18'  │ 'flutter.dev' │  true   │ true │ true  │ true  │ true  │  true   │
+│   16    │  54  │ 'image_picker'  │ 3313  │  130   │    100     │   true   │  false   │ '0.8.4+5' │ 'flutter.dev' │  true   │ true │ false │ false │ true  │  false  │
+│   17    │  55  │ 'path_provider' │ 2395  │  130   │    100     │   true   │   true   │  '2.0.8'  │ 'flutter.dev' │  true   │ true │ true  │ true  │ false │  true   │
+│   18    │  63  │ 'url_launcher'  │ 3839  │  130   │    100     │   true   │   true   │ '6.0.18'  │ 'flutter.dev' │  true   │ true │ true  │ true  │ true  │  true   │
+│   19    │  64  │ 'image_picker'  │ 3313  │  130   │    100     │   true   │  false   │ '0.8.4+5' │ 'flutter.dev' │  true   │ true │ false │ false │ true  │  false  │
+│   20    │  65  │ 'path_provider' │ 2395  │  130   │    100     │   true   │   true   │  '2.0.8'  │ 'flutter.dev' │  true   │ true │ true  │ true  │ false │  true   │
+│   21    │  73  │ 'url_launcher'  │ 3839  │  130   │    100     │   true   │   true   │ '6.0.18'  │ 'flutter.dev' │  true   │ true │ true  │ true  │ true  │  true   │
+│   22    │  74  │ 'image_picker'  │ 3313  │  130   │    100     │   true   │  false   │ '0.8.4+5' │ 'flutter.dev' │  true   │ true │ false │ false │ true  │  false  │
+│   23    │  75  │ 'path_provider' │ 2395  │  130   │    100     │   true   │   true   │  '2.0.8'  │ 'flutter.dev' │  true   │ true │ true  │ true  │ false │  true   │
+│   24    │  83  │ 'url_launcher'  │ 3839  │  130   │    100     │   true   │   true   │ '6.0.18'  │ 'flutter.dev' │  true   │ true │ true  │ true  │ true  │  true   │
+│   25    │  84  │ 'image_picker'  │ 3313  │  130   │    100     │   true   │  false   │ '0.8.4+5' │ 'flutter.dev' │  true   │ true │ false │ false │ true  │  false  │
+│   26    │  85  │ 'path_provider' │ 2395  │  130   │    100     │   true   │   true   │  '2.0.8'  │ 'flutter.dev' │  true   │ true │ true  │ true  │ false │  true   │
+│   27    │  93  │ 'url_launcher'  │ 3839  │  130   │    100     │   true   │   true   │ '6.0.18'  │ 'flutter.dev' │  true   │ true │ true  │ true  │ true  │  true   │
+│   28    │  94  │ 'image_picker'  │ 3313  │  130   │    100     │   true   │  false   │ '0.8.4+5' │ 'flutter.dev' │  true   │ true │ false │ false │ true  │  false  │
+│   29    │  95  │ 'path_provider' │ 2395  │  130   │    100     │   true   │   true   │  '2.0.8'  │ 'flutter.dev' │  true   │ true │ true  │ true  │ false │  true   │
+│   30    │ 103  │ 'url_launcher'  │ 3839  │  130   │    100     │   true   │   true   │ '6.0.18'  │ 'flutter.dev' │  true   │ true │ true  │ true  │ true  │  true   │
+│   31    │ 104  │ 'image_picker'  │ 3313  │  130   │    100     │   true   │  false   │ '0.8.4+5' │ 'flutter.dev' │  true   │ true │ false │ false │ true  │  false  │
+│   32    │ 105  │ 'path_provider' │ 2395  │  130   │    100     │   true   │   true   │  '2.0.8'  │ 'flutter.dev' │  true   │ true │ true  │ true  │ false │  true   │
+│   33    │ 113  │ 'url_launcher'  │ 3839  │  130   │    100     │   true   │   true   │ '6.0.18'  │ 'flutter.dev' │  true   │ true │ true  │ true  │ true  │  true   │
+│   34    │ 114  │ 'image_picker'  │ 3313  │  130   │    100     │   true   │  false   │ '0.8.4+5' │ 'flutter.dev' │  true   │ true │ false │ false │ true  │  false  │
+│   35    │ 115  │ 'path_provider' │ 2395  │  130   │    100     │   true   │   true   │  '2.0.8'  │ 'flutter.dev' │  true   │ true │ true  │ true  │ false │  true   │
+│   36    │ 123  │ 'url_launcher'  │ 3839  │  130   │    100     │   true   │   true   │ '6.0.18'  │ 'flutter.dev' │  true   │ true │ true  │ true  │ true  │  true   │
+│   37    │ 124  │ 'image_picker'  │ 3313  │  130   │    100     │   true   │  false   │ '0.8.4+5' │ 'flutter.dev' │  true   │ true │ false │ false │ true  │  false  │
+│   38    │ 125  │ 'path_provider' │ 2395  │  130   │    100     │   true   │   true   │  '2.0.8'  │ 'flutter.dev' │  true   │ true │ true  │ true  │ false │  true   │
+│   39    │ 133  │ 'url_launcher'  │ 3839  │  130   │    100     │   true   │   true   │ '6.0.18'  │ 'flutter.dev' │  true   │ true │ true  │ true  │ true  │  true   │
+│   40    │ 134  │ 'image_picker'  │ 3313  │  130   │    100     │   true   │  false   │ '0.8.4+5' │ 'flutter.dev' │  true   │ true │ false │ false │ true  │  false  │
+│   41    │ 135  │ 'path_provider' │ 2395  │  130   │    100     │   true   │   true   │  '2.0.8'  │ 'flutter.dev' │  true   │ true │ true  │ true  │ false │  true   │
+│   42    │ 143  │ 'url_launcher'  │ 3839  │  130   │    100     │   true   │   true   │ '6.0.18'  │ 'flutter.dev' │  true   │ true │ true  │ true  │ true  │  true   │
+│   43    │ 144  │ 'image_picker'  │ 3313  │  130   │    100     │   true   │  false   │ '0.8.4+5' │ 'flutter.dev' │  true   │ true │ false │ false │ true  │  false  │
+│   44    │ 145  │ 'path_provider' │ 2395  │  130   │    100     │   true   │   true   │  '2.0.8'  │ 'flutter.dev' │  true   │ true │ true  │ true  │ false │  true   │
+│   45    │ 153  │ 'url_launcher'  │ 3839  │  130   │    100     │   true   │   true   │ '6.0.18'  │ 'flutter.dev' │  true   │ true │ true  │ true  │ true  │  true   │
+│   46    │ 154  │ 'image_picker'  │ 3313  │  130   │    100     │   true   │  false   │ '0.8.4+5' │ 'flutter.dev' │  true   │ true │ false │ false │ true  │  false  │
+│   47    │ 155  │ 'path_provider' │ 2395  │  130   │    100     │   true   │   true   │  '2.0.8'  │ 'flutter.dev' │  true   │ true │ true  │ true  │ false │  true   │
+│   48    │ 163  │ 'url_launcher'  │ 3839  │  130   │    100     │   true   │   true   │ '6.0.18'  │ 'flutter.dev' │  true   │ true │ true  │ true  │ true  │  true   │
+│   49    │ 164  │ 'image_picker'  │ 3313  │  130   │    100     │   true   │  false   │ '0.8.4+5' │ 'flutter.dev' │  true   │ true │ false │ false │ true  │  false  │
+│   50    │ 165  │ 'path_provider' │ 2395  │  130   │    100     │   true   │   true   │  '2.0.8'  │ 'flutter.dev' │  true   │ true │ true  │ true  │ false │  true   │
+│   51    │ 173  │ 'url_launcher'  │ 3839  │  130   │    100     │   true   │   true   │ '6.0.18'  │ 'flutter.dev' │  true   │ true │ true  │ true  │ true  │  true   │
+│   52    │ 174  │ 'image_picker'  │ 3313  │  130   │    100     │   true   │  false   │ '0.8.4+5' │ 'flutter.dev' │  true   │ true │ false │ false │ true  │  false  │
+│   53    │ 175  │ 'path_provider' │ 2395  │  130   │    100     │   true   │   true   │  '2.0.8'  │ 'flutter.dev' │  true   │ true │ true  │ true  │ false │  true   │
+│   54    │ 183  │ 'url_launcher'  │ 3839  │  130   │    100     │   true   │   true   │ '6.0.18'  │ 'flutter.dev' │  true   │ true │ true  │ true  │ true  │  true   │
+│   55    │ 184  │ 'image_picker'  │ 3313  │  130   │    100     │   true   │  false   │ '0.8.4+5' │ 'flutter.dev' │  true   │ true │ false │ false │ true  │  false  │
+│   56    │ 185  │ 'path_provider' │ 2395  │  130   │    100     │   true   │   true   │  '2.0.8'  │ 'flutter.dev' │  true   │ true │ true  │ true  │ false │  true   │
+│   57    │ 193  │ 'url_launcher'  │ 3839  │  130   │    100     │   true   │   true   │ '6.0.18'  │ 'flutter.dev' │  true   │ true │ true  │ true  │ true  │  true   │
+│   58    │ 194  │ 'image_picker'  │ 3313  │  130   │    100     │   true   │  false   │ '0.8.4+5' │ 'flutter.dev' │  true   │ true │ false │ false │ true  │  false  │
+│   59    │ 195  │ 'path_provider' │ 2395  │  130   │    100     │   true   │   true   │  '2.0.8'  │ 'flutter.dev' │  true   │ true │ true  │ true  │ false │  true   │
+│   60    │ 203  │ 'url_launcher'  │ 3839  │  130   │    100     │   true   │   true   │ '6.0.18'  │ 'flutter.dev' │  true   │ true │ true  │ true  │ true  │  true   │
+│   61    │ 204  │ 'image_picker'  │ 3313  │  130   │    100     │   true   │  false   │ '0.8.4+5' │ 'flutter.dev' │  true   │ true │ false │ false │ true  │  false  │
+│   62    │ 205  │ 'path_provider' │ 2395  │  130   │    100     │   true   │   true   │  '2.0.8'  │ 'flutter.dev' │  true   │ true │ true  │ true  │ false │  true   │
+│   63    │ 213  │ 'url_launcher'  │ 3839  │  130   │    100     │   true   │   true   │ '6.0.18'  │ 'flutter.dev' │  true   │ true │ true  │ true  │ true  │  true   │
+│   64    │ 214  │ 'image_picker'  │ 3313  │  130   │    100     │   true   │  false   │ '0.8.4+5' │ 'flutter.dev' │  true   │ true │ false │ false │ true  │  false  │
+│   65    │ 215  │ 'path_provider' │ 2395  │  130   │    100     │   true   │   true   │  '2.0.8'  │ 'flutter.dev' │  true   │ true │ true  │ true  │ false │  true   │
+│   66    │ 223  │ 'url_launcher'  │ 3839  │  130   │    100     │   true   │   true   │ '6.0.18'  │ 'flutter.dev' │  true   │ true │ true  │ true  │ true  │  true   │
+│   67    │ 224  │ 'image_picker'  │ 3313  │  130   │    100     │   true   │  false   │ '0.8.4+5' │ 'flutter.dev' │  true   │ true │ false │ false │ true  │  false  │
+│   68    │ 225  │ 'path_provider' │ 2395  │  130   │    100     │   true   │   true   │  '2.0.8'  │ 'flutter.dev' │  true   │ true │ true  │ true  │ false │  true   │
+│   69    │ 233  │ 'url_launcher'  │ 3839  │  130   │    100     │   true   │   true   │ '6.0.18'  │ 'flutter.dev' │  true   │ true │ true  │ true  │ true  │  true   │
+│   70    │ 234  │ 'image_picker'  │ 3313  │  130   │    100     │   true   │  false   │ '0.8.4+5' │ 'flutter.dev' │  true   │ true │ false │ false │ true  │  false  │
+│   71    │ 235  │ 'path_provider' │ 2395  │  130   │    100     │   true   │   true   │  '2.0.8'  │ 'flutter.dev' │  true   │ true │ true  │ true  │ false │  true   │
+│   72    │ 243  │ 'url_launcher'  │ 3839  │  130   │    100     │   true   │   true   │ '6.0.18'  │ 'flutter.dev' │  true   │ true │ true  │ true  │ true  │  true   │
+│   73    │ 244  │ 'image_picker'  │ 3313  │  130   │    100     │   true   │  false   │ '0.8.4+5' │ 'flutter.dev' │  true   │ true │ false │ false │ true  │  false  │
+│   74    │ 245  │ 'path_provider' │ 2395  │  130   │    100     │   true   │   true   │  '2.0.8'  │ 'flutter.dev' │  true   │ true │ true  │ true  │ false │  true   │
+└─────────┴──────┴─────────────────┴───────┴────────┴────────────┴──────────┴──────────┴───────────┴───────────────┴─────────┴──────┴───────┴───────┴───────┴─────────┘
+
+
+Firebase Packages
+┌─────────┐
+│ (index) │
+├─────────┤
+└─────────┘
+
+
+State Management Packages
+┌─────────┬──────┬────────────┬───────┬────────┬────────────┬──────────┬──────────┬─────────┬─────────────────────┬─────────┬──────┬───────┬───────┬──────┬─────────┐
+│ (index) │ rank │    name    │ likes │ health │ popularity │ nullSafe │ endorsed │ version │      developer      │ android │ ios  │ linux │ macos │ web  │ windows │
+├─────────┼──────┼────────────┼───────┼────────┼────────────┼──────────┼──────────┼─────────┼─────────────────────┼─────────┼──────┼───────┼───────┼──────┼─────────┤
+│    0    │  2   │ 'provider' │ 5972  │  130   │    100     │   true   │   true   │ '6.0.2' │ 'dash-overflow.net' │  true   │ true │ true  │ true  │ true │  true   │
+│    1    │  12  │ 'provider' │ 5972  │  130   │    100     │   true   │   true   │ '6.0.2' │ 'dash-overflow.net' │  true   │ true │ true  │ true  │ true │  true   │
+│    2    │  22  │ 'provider' │ 5972  │  130   │    100     │   true   │   true   │ '6.0.2' │ 'dash-overflow.net' │  true   │ true │ true  │ true  │ true │  true   │
+│    3    │  32  │ 'provider' │ 5972  │  130   │    100     │   true   │   true   │ '6.0.2' │ 'dash-overflow.net' │  true   │ true │ true  │ true  │ true │  true   │
+│    4    │  42  │ 'provider' │ 5972  │  130   │    100     │   true   │   true   │ '6.0.2' │ 'dash-overflow.net' │  true   │ true │ true  │ true  │ true │  true   │
+│    5    │  52  │ 'provider' │ 5972  │  130   │    100     │   true   │   true   │ '6.0.2' │ 'dash-overflow.net' │  true   │ true │ true  │ true  │ true │  true   │
+│    6    │  62  │ 'provider' │ 5972  │  130   │    100     │   true   │   true   │ '6.0.2' │ 'dash-overflow.net' │  true   │ true │ true  │ true  │ true │  true   │
+│    7    │  72  │ 'provider' │ 5972  │  130   │    100     │   true   │   true   │ '6.0.2' │ 'dash-overflow.net' │  true   │ true │ true  │ true  │ true │  true   │
+│    8    │  82  │ 'provider' │ 5972  │  130   │    100     │   true   │   true   │ '6.0.2' │ 'dash-overflow.net' │  true   │ true │ true  │ true  │ true │  true   │
+│    9    │  92  │ 'provider' │ 5972  │  130   │    100     │   true   │   true   │ '6.0.2' │ 'dash-overflow.net' │  true   │ true │ true  │ true  │ true │  true   │
+│   10    │ 102  │ 'provider' │ 5972  │  130   │    100     │   true   │   true   │ '6.0.2' │ 'dash-overflow.net' │  true   │ true │ true  │ true  │ true │  true   │
+│   11    │ 112  │ 'provider' │ 5972  │  130   │    100     │   true   │   true   │ '6.0.2' │ 'dash-overflow.net' │  true   │ true │ true  │ true  │ true │  true   │
+│   12    │ 122  │ 'provider' │ 5972  │  130   │    100     │   true   │   true   │ '6.0.2' │ 'dash-overflow.net' │  true   │ true │ true  │ true  │ true │  true   │
+│   13    │ 132  │ 'provider' │ 5972  │  130   │    100     │   true   │   true   │ '6.0.2' │ 'dash-overflow.net' │  true   │ true │ true  │ true  │ true │  true   │
+│   14    │ 142  │ 'provider' │ 5972  │  130   │    100     │   true   │   true   │ '6.0.2' │ 'dash-overflow.net' │  true   │ true │ true  │ true  │ true │  true   │
+│   15    │ 152  │ 'provider' │ 5972  │  130   │    100     │   true   │   true   │ '6.0.2' │ 'dash-overflow.net' │  true   │ true │ true  │ true  │ true │  true   │
+│   16    │ 162  │ 'provider' │ 5972  │  130   │    100     │   true   │   true   │ '6.0.2' │ 'dash-overflow.net' │  true   │ true │ true  │ true  │ true │  true   │
+│   17    │ 172  │ 'provider' │ 5972  │  130   │    100     │   true   │   true   │ '6.0.2' │ 'dash-overflow.net' │  true   │ true │ true  │ true  │ true │  true   │
+│   18    │ 182  │ 'provider' │ 5972  │  130   │    100     │   true   │   true   │ '6.0.2' │ 'dash-overflow.net' │  true   │ true │ true  │ true  │ true │  true   │
+│   19    │ 192  │ 'provider' │ 5972  │  130   │    100     │   true   │   true   │ '6.0.2' │ 'dash-overflow.net' │  true   │ true │ true  │ true  │ true │  true   │
+│   20    │ 202  │ 'provider' │ 5972  │  130   │    100     │   true   │   true   │ '6.0.2' │ 'dash-overflow.net' │  true   │ true │ true  │ true  │ true │  true   │
+│   21    │ 212  │ 'provider' │ 5972  │  130   │    100     │   true   │   true   │ '6.0.2' │ 'dash-overflow.net' │  true   │ true │ true  │ true  │ true │  true   │
+│   22    │ 222  │ 'provider' │ 5972  │  130   │    100     │   true   │   true   │ '6.0.2' │ 'dash-overflow.net' │  true   │ true │ true  │ true  │ true │  true   │
+│   23    │ 232  │ 'provider' │ 5972  │  130   │    100     │   true   │   true   │ '6.0.2' │ 'dash-overflow.net' │  true   │ true │ true  │ true  │ true │  true   │
+│   24    │ 242  │ 'provider' │ 5972  │  130   │    100     │   true   │   true   │ '6.0.2' │ 'dash-overflow.net' │  true   │ true │ true  │ true  │ true │  true   │
+└─────────┴──────┴────────────┴───────┴────────┴────────────┴──────────┴──────────┴─────────┴─────────────────────┴─────────┴──────┴───────┴───────┴──────┴─────────┘
+
+
+Top 250 Flutter Packages
+┌─────────┬──────┬───────────────────────────────┬───────┬────────┬────────────┬──────────┬──────────┬─────────────────────┬─────────────────────┬─────────┬──────┬───────┬───────┬───────┬─────────┐
+│ (index) │ rank │             name              │ likes │ health │ popularity │ nullSafe │ endorsed │       version       │      developer      │ android │ ios  │ linux │ macos │  web  │ windows │
+├─────────┼──────┼───────────────────────────────┼───────┼────────┼────────────┼──────────┼──────────┼─────────────────────┼─────────────────────┼─────────┼──────┼───────┼───────┼───────┼─────────┤
+│    0    │  1   │            'http'             │ 4067  │  130   │    100     │   true   │  false   │      '0.13.4'       │     'dart.dev'      │  true   │ true │ true  │ true  │ true  │  true   │
+│    1    │  2   │          'provider'           │ 5972  │  130   │    100     │   true   │   true   │       '6.0.2'       │ 'dash-overflow.net' │  true   │ true │ true  │ true  │ true  │  true   │
+│    2    │  3   │        'url_launcher'         │ 3839  │  130   │    100     │   true   │   true   │      '6.0.18'       │    'flutter.dev'    │  true   │ true │ true  │ true  │ true  │  true   │
+│    3    │  4   │        'image_picker'         │ 3313  │  130   │    100     │   true   │  false   │      '0.8.4+5'      │    'flutter.dev'    │  true   │ true │ false │ false │ true  │  false  │
+│    4    │  5   │        'path_provider'        │ 2395  │  130   │    100     │   true   │   true   │       '2.0.8'       │    'flutter.dev'    │  true   │ true │ true  │ true  │ false │  true   │
+│    5    │  6   │        'flutter_bloc'         │ 3468  │  130   │    100     │   true   │   true   │       '8.0.1'       │  'bloclibrary.dev'  │  true   │ true │ true  │ true  │ true  │  true   │
+│    6    │  7   │ 'flutter_local_notifications' │ 2948  │  130   │    100     │   true   │   true   │ '9.2.010.0.0-dev.5' │    'dexterx.dev'    │  true   │ true │ true  │ true  │ false │  false  │
+│    7    │  8   │     'permission_handler'      │ 2136  │  130   │    100     │   true   │  false   │       '8.3.0'       │   'baseflow.com'    │  true   │ true │ false │ false │ false │  false  │
+│    8    │  9   │         'geolocator'          │ 2753  │  130   │    100     │   true   │   true   │       '8.1.0'       │   'baseflow.com'    │  true   │ true │ false │ true  │ true  │  true   │
+│    9    │  10  │           'sqflite'           │ 2538  │  130   │    100     │   true   │   true   │       '2.0.2'       │   'tekartik.com'    │  true   │ true │ false │ true  │ false │  false  │
+│   10    │  11  │            'http'             │ 4067  │  130   │    100     │   true   │  false   │      '0.13.4'       │     'dart.dev'      │  true   │ true │ true  │ true  │ true  │  true   │
+│   11    │  12  │          'provider'           │ 5972  │  130   │    100     │   true   │   true   │       '6.0.2'       │ 'dash-overflow.net' │  true   │ true │ true  │ true  │ true  │  true   │
+│   12    │  13  │        'url_launcher'         │ 3839  │  130   │    100     │   true   │   true   │      '6.0.18'       │    'flutter.dev'    │  true   │ true │ true  │ true  │ true  │  true   │
+│   13    │  14  │        'image_picker'         │ 3313  │  130   │    100     │   true   │  false   │      '0.8.4+5'      │    'flutter.dev'    │  true   │ true │ false │ false │ true  │  false  │
+│   14    │  15  │        'path_provider'        │ 2395  │  130   │    100     │   true   │   true   │       '2.0.8'       │    'flutter.dev'    │  true   │ true │ true  │ true  │ false │  true   │
+│   15    │  16  │        'flutter_bloc'         │ 3468  │  130   │    100     │   true   │   true   │       '8.0.1'       │  'bloclibrary.dev'  │  true   │ true │ true  │ true  │ true  │  true   │
+│   16    │  17  │ 'flutter_local_notifications' │ 2948  │  130   │    100     │   true   │   true   │ '9.2.010.0.0-dev.5' │    'dexterx.dev'    │  true   │ true │ true  │ true  │ false │  false  │
+│   17    │  18  │     'permission_handler'      │ 2136  │  130   │    100     │   true   │  false   │       '8.3.0'       │   'baseflow.com'    │  true   │ true │ false │ false │ false │  false  │
+│   18    │  19  │         'geolocator'          │ 2753  │  130   │    100     │   true   │   true   │       '8.1.0'       │   'baseflow.com'    │  true   │ true │ false │ true  │ true  │  true   │
+│   19    │  20  │           'sqflite'           │ 2538  │  130   │    100     │   true   │   true   │       '2.0.2'       │   'tekartik.com'    │  true   │ true │ false │ true  │ false │  false  │
+│   20    │  21  │            'http'             │ 4067  │  130   │    100     │   true   │  false   │      '0.13.4'       │     'dart.dev'      │  true   │ true │ true  │ true  │ true  │  true   │
+│   21    │  22  │          'provider'           │ 5972  │  130   │    100     │   true   │   true   │       '6.0.2'       │ 'dash-overflow.net' │  true   │ true │ true  │ true  │ true  │  true   │
+│   22    │  23  │        'url_launcher'         │ 3839  │  130   │    100     │   true   │   true   │      '6.0.18'       │    'flutter.dev'    │  true   │ true │ true  │ true  │ true  │  true   │
+│   23    │  24  │        'image_picker'         │ 3313  │  130   │    100     │   true   │  false   │      '0.8.4+5'      │    'flutter.dev'    │  true   │ true │ false │ false │ true  │  false  │
+│   24    │  25  │        'path_provider'        │ 2395  │  130   │    100     │   true   │   true   │       '2.0.8'       │    'flutter.dev'    │  true   │ true │ true  │ true  │ false │  true   │
+│   25    │  26  │        'flutter_bloc'         │ 3468  │  130   │    100     │   true   │   true   │       '8.0.1'       │  'bloclibrary.dev'  │  true   │ true │ true  │ true  │ true  │  true   │
+│   26    │  27  │ 'flutter_local_notifications' │ 2948  │  130   │    100     │   true   │   true   │ '9.2.010.0.0-dev.5' │    'dexterx.dev'    │  true   │ true │ true  │ true  │ false │  false  │
+│   27    │  28  │     'permission_handler'      │ 2136  │  130   │    100     │   true   │  false   │       '8.3.0'       │   'baseflow.com'    │  true   │ true │ false │ false │ false │  false  │
+│   28    │  29  │         'geolocator'          │ 2753  │  130   │    100     │   true   │   true   │       '8.1.0'       │   'baseflow.com'    │  true   │ true │ false │ true  │ true  │  true   │
+│   29    │  30  │           'sqflite'           │ 2538  │  130   │    100     │   true   │   true   │       '2.0.2'       │   'tekartik.com'    │  true   │ true │ false │ true  │ false │  false  │
+│   30    │  31  │            'http'             │ 4067  │  130   │    100     │   true   │  false   │      '0.13.4'       │     'dart.dev'      │  true   │ true │ true  │ true  │ true  │  true   │
+│   31    │  32  │          'provider'           │ 5972  │  130   │    100     │   true   │   true   │       '6.0.2'       │ 'dash-overflow.net' │  true   │ true │ true  │ true  │ true  │  true   │
+│   32    │  33  │        'url_launcher'         │ 3839  │  130   │    100     │   true   │   true   │      '6.0.18'       │    'flutter.dev'    │  true   │ true │ true  │ true  │ true  │  true   │
+│   33    │  34  │        'image_picker'         │ 3313  │  130   │    100     │   true   │  false   │      '0.8.4+5'      │    'flutter.dev'    │  true   │ true │ false │ false │ true  │  false  │
+│   34    │  35  │        'path_provider'        │ 2395  │  130   │    100     │   true   │   true   │       '2.0.8'       │    'flutter.dev'    │  true   │ true │ true  │ true  │ false │  true   │
+│   35    │  36  │        'flutter_bloc'         │ 3468  │  130   │    100     │   true   │   true   │       '8.0.1'       │  'bloclibrary.dev'  │  true   │ true │ true  │ true  │ true  │  true   │
+│   36    │  37  │ 'flutter_local_notifications' │ 2948  │  130   │    100     │   true   │   true   │ '9.2.010.0.0-dev.5' │    'dexterx.dev'    │  true   │ true │ true  │ true  │ false │  false  │
+│   37    │  38  │     'permission_handler'      │ 2136  │  130   │    100     │   true   │  false   │       '8.3.0'       │   'baseflow.com'    │  true   │ true │ false │ false │ false │  false  │
+│   38    │  39  │         'geolocator'          │ 2753  │  130   │    100     │   true   │   true   │       '8.1.0'       │   'baseflow.com'    │  true   │ true │ false │ true  │ true  │  true   │
+│   39    │  40  │           'sqflite'           │ 2538  │  130   │    100     │   true   │   true   │       '2.0.2'       │   'tekartik.com'    │  true   │ true │ false │ true  │ false │  false  │
+│   40    │  41  │            'http'             │ 4067  │  130   │    100     │   true   │  false   │      '0.13.4'       │     'dart.dev'      │  true   │ true │ true  │ true  │ true  │  true   │
+│   41    │  42  │          'provider'           │ 5972  │  130   │    100     │   true   │   true   │       '6.0.2'       │ 'dash-overflow.net' │  true   │ true │ true  │ true  │ true  │  true   │
+│   42    │  43  │        'url_launcher'         │ 3839  │  130   │    100     │   true   │   true   │      '6.0.18'       │    'flutter.dev'    │  true   │ true │ true  │ true  │ true  │  true   │
+│   43    │  44  │        'image_picker'         │ 3313  │  130   │    100     │   true   │  false   │      '0.8.4+5'      │    'flutter.dev'    │  true   │ true │ false │ false │ true  │  false  │
+│   44    │  45  │        'path_provider'        │ 2395  │  130   │    100     │   true   │   true   │       '2.0.8'       │    'flutter.dev'    │  true   │ true │ true  │ true  │ false │  true   │
+│   45    │  46  │        'flutter_bloc'         │ 3468  │  130   │    100     │   true   │   true   │       '8.0.1'       │  'bloclibrary.dev'  │  true   │ true │ true  │ true  │ true  │  true   │
+│   46    │  47  │ 'flutter_local_notifications' │ 2948  │  130   │    100     │   true   │   true   │ '9.2.010.0.0-dev.5' │    'dexterx.dev'    │  true   │ true │ true  │ true  │ false │  false  │
+│   47    │  48  │     'permission_handler'      │ 2136  │  130   │    100     │   true   │  false   │       '8.3.0'       │   'baseflow.com'    │  true   │ true │ false │ false │ false │  false  │
+│   48    │  49  │         'geolocator'          │ 2753  │  130   │    100     │   true   │   true   │       '8.1.0'       │   'baseflow.com'    │  true   │ true │ false │ true  │ true  │  true   │
+│   49    │  50  │           'sqflite'           │ 2538  │  130   │    100     │   true   │   true   │       '2.0.2'       │   'tekartik.com'    │  true   │ true │ false │ true  │ false │  false  │
+│   50    │  51  │            'http'             │ 4067  │  130   │    100     │   true   │  false   │      '0.13.4'       │     'dart.dev'      │  true   │ true │ true  │ true  │ true  │  true   │
+│   51    │  52  │          'provider'           │ 5972  │  130   │    100     │   true   │   true   │       '6.0.2'       │ 'dash-overflow.net' │  true   │ true │ true  │ true  │ true  │  true   │
+│   52    │  53  │        'url_launcher'         │ 3839  │  130   │    100     │   true   │   true   │      '6.0.18'       │    'flutter.dev'    │  true   │ true │ true  │ true  │ true  │  true   │
+│   53    │  54  │        'image_picker'         │ 3313  │  130   │    100     │   true   │  false   │      '0.8.4+5'      │    'flutter.dev'    │  true   │ true │ false │ false │ true  │  false  │
+│   54    │  55  │        'path_provider'        │ 2395  │  130   │    100     │   true   │   true   │       '2.0.8'       │    'flutter.dev'    │  true   │ true │ true  │ true  │ false │  true   │
+│   55    │  56  │        'flutter_bloc'         │ 3468  │  130   │    100     │   true   │   true   │       '8.0.1'       │  'bloclibrary.dev'  │  true   │ true │ true  │ true  │ true  │  true   │
+│   56    │  57  │ 'flutter_local_notifications' │ 2948  │  130   │    100     │   true   │   true   │ '9.2.010.0.0-dev.5' │    'dexterx.dev'    │  true   │ true │ true  │ true  │ false │  false  │
+│   57    │  58  │     'permission_handler'      │ 2136  │  130   │    100     │   true   │  false   │       '8.3.0'       │   'baseflow.com'    │  true   │ true │ false │ false │ false │  false  │
+│   58    │  59  │         'geolocator'          │ 2753  │  130   │    100     │   true   │   true   │       '8.1.0'       │   'baseflow.com'    │  true   │ true │ false │ true  │ true  │  true   │
+│   59    │  60  │           'sqflite'           │ 2538  │  130   │    100     │   true   │   true   │       '2.0.2'       │   'tekartik.com'    │  true   │ true │ false │ true  │ false │  false  │
+│   60    │  61  │            'http'             │ 4067  │  130   │    100     │   true   │  false   │      '0.13.4'       │     'dart.dev'      │  true   │ true │ true  │ true  │ true  │  true   │
+│   61    │  62  │          'provider'           │ 5972  │  130   │    100     │   true   │   true   │       '6.0.2'       │ 'dash-overflow.net' │  true   │ true │ true  │ true  │ true  │  true   │
+│   62    │  63  │        'url_launcher'         │ 3839  │  130   │    100     │   true   │   true   │      '6.0.18'       │    'flutter.dev'    │  true   │ true │ true  │ true  │ true  │  true   │
+│   63    │  64  │        'image_picker'         │ 3313  │  130   │    100     │   true   │  false   │      '0.8.4+5'      │    'flutter.dev'    │  true   │ true │ false │ false │ true  │  false  │
+│   64    │  65  │        'path_provider'        │ 2395  │  130   │    100     │   true   │   true   │       '2.0.8'       │    'flutter.dev'    │  true   │ true │ true  │ true  │ false │  true   │
+│   65    │  66  │        'flutter_bloc'         │ 3468  │  130   │    100     │   true   │   true   │       '8.0.1'       │  'bloclibrary.dev'  │  true   │ true │ true  │ true  │ true  │  true   │
+│   66    │  67  │ 'flutter_local_notifications' │ 2948  │  130   │    100     │   true   │   true   │ '9.2.010.0.0-dev.5' │    'dexterx.dev'    │  true   │ true │ true  │ true  │ false │  false  │
+│   67    │  68  │     'permission_handler'      │ 2136  │  130   │    100     │   true   │  false   │       '8.3.0'       │   'baseflow.com'    │  true   │ true │ false │ false │ false │  false  │
+│   68    │  69  │         'geolocator'          │ 2753  │  130   │    100     │   true   │   true   │       '8.1.0'       │   'baseflow.com'    │  true   │ true │ false │ true  │ true  │  true   │
+│   69    │  70  │           'sqflite'           │ 2538  │  130   │    100     │   true   │   true   │       '2.0.2'       │   'tekartik.com'    │  true   │ true │ false │ true  │ false │  false  │
+│   70    │  71  │            'http'             │ 4067  │  130   │    100     │   true   │  false   │      '0.13.4'       │     'dart.dev'      │  true   │ true │ true  │ true  │ true  │  true   │
+│   71    │  72  │          'provider'           │ 5972  │  130   │    100     │   true   │   true   │       '6.0.2'       │ 'dash-overflow.net' │  true   │ true │ true  │ true  │ true  │  true   │
+│   72    │  73  │        'url_launcher'         │ 3839  │  130   │    100     │   true   │   true   │      '6.0.18'       │    'flutter.dev'    │  true   │ true │ true  │ true  │ true  │  true   │
+│   73    │  74  │        'image_picker'         │ 3313  │  130   │    100     │   true   │  false   │      '0.8.4+5'      │    'flutter.dev'    │  true   │ true │ false │ false │ true  │  false  │
+│   74    │  75  │        'path_provider'        │ 2395  │  130   │    100     │   true   │   true   │       '2.0.8'       │    'flutter.dev'    │  true   │ true │ true  │ true  │ false │  true   │
+│   75    │  76  │        'flutter_bloc'         │ 3468  │  130   │    100     │   true   │   true   │       '8.0.1'       │  'bloclibrary.dev'  │  true   │ true │ true  │ true  │ true  │  true   │
+│   76    │  77  │ 'flutter_local_notifications' │ 2948  │  130   │    100     │   true   │   true   │ '9.2.010.0.0-dev.5' │    'dexterx.dev'    │  true   │ true │ true  │ true  │ false │  false  │
+│   77    │  78  │     'permission_handler'      │ 2136  │  130   │    100     │   true   │  false   │       '8.3.0'       │   'baseflow.com'    │  true   │ true │ false │ false │ false │  false  │
+│   78    │  79  │         'geolocator'          │ 2753  │  130   │    100     │   true   │   true   │       '8.1.0'       │   'baseflow.com'    │  true   │ true │ false │ true  │ true  │  true   │
+│   79    │  80  │           'sqflite'           │ 2538  │  130   │    100     │   true   │   true   │       '2.0.2'       │   'tekartik.com'    │  true   │ true │ false │ true  │ false │  false  │
+│   80    │  81  │            'http'             │ 4067  │  130   │    100     │   true   │  false   │      '0.13.4'       │     'dart.dev'      │  true   │ true │ true  │ true  │ true  │  true   │
+│   81    │  82  │          'provider'           │ 5972  │  130   │    100     │   true   │   true   │       '6.0.2'       │ 'dash-overflow.net' │  true   │ true │ true  │ true  │ true  │  true   │
+│   82    │  83  │        'url_launcher'         │ 3839  │  130   │    100     │   true   │   true   │      '6.0.18'       │    'flutter.dev'    │  true   │ true │ true  │ true  │ true  │  true   │
+│   83    │  84  │        'image_picker'         │ 3313  │  130   │    100     │   true   │  false   │      '0.8.4+5'      │    'flutter.dev'    │  true   │ true │ false │ false │ true  │  false  │
+│   84    │  85  │        'path_provider'        │ 2395  │  130   │    100     │   true   │   true   │       '2.0.8'       │    'flutter.dev'    │  true   │ true │ true  │ true  │ false │  true   │
+│   85    │  86  │        'flutter_bloc'         │ 3468  │  130   │    100     │   true   │   true   │       '8.0.1'       │  'bloclibrary.dev'  │  true   │ true │ true  │ true  │ true  │  true   │
+│   86    │  87  │ 'flutter_local_notifications' │ 2948  │  130   │    100     │   true   │   true   │ '9.2.010.0.0-dev.5' │    'dexterx.dev'    │  true   │ true │ true  │ true  │ false │  false  │
+│   87    │  88  │     'permission_handler'      │ 2136  │  130   │    100     │   true   │  false   │       '8.3.0'       │   'baseflow.com'    │  true   │ true │ false │ false │ false │  false  │
+│   88    │  89  │         'geolocator'          │ 2753  │  130   │    100     │   true   │   true   │       '8.1.0'       │   'baseflow.com'    │  true   │ true │ false │ true  │ true  │  true   │
+│   89    │  90  │           'sqflite'           │ 2538  │  130   │    100     │   true   │   true   │       '2.0.2'       │   'tekartik.com'    │  true   │ true │ false │ true  │ false │  false  │
+│   90    │  91  │            'http'             │ 4067  │  130   │    100     │   true   │  false   │      '0.13.4'       │     'dart.dev'      │  true   │ true │ true  │ true  │ true  │  true   │
+│   91    │  92  │          'provider'           │ 5972  │  130   │    100     │   true   │   true   │       '6.0.2'       │ 'dash-overflow.net' │  true   │ true │ true  │ true  │ true  │  true   │
+│   92    │  93  │        'url_launcher'         │ 3839  │  130   │    100     │   true   │   true   │      '6.0.18'       │    'flutter.dev'    │  true   │ true │ true  │ true  │ true  │  true   │
+│   93    │  94  │        'image_picker'         │ 3313  │  130   │    100     │   true   │  false   │      '0.8.4+5'      │    'flutter.dev'    │  true   │ true │ false │ false │ true  │  false  │
+│   94    │  95  │        'path_provider'        │ 2395  │  130   │    100     │   true   │   true   │       '2.0.8'       │    'flutter.dev'    │  true   │ true │ true  │ true  │ false │  true   │
+│   95    │  96  │        'flutter_bloc'         │ 3468  │  130   │    100     │   true   │   true   │       '8.0.1'       │  'bloclibrary.dev'  │  true   │ true │ true  │ true  │ true  │  true   │
+│   96    │  97  │ 'flutter_local_notifications' │ 2948  │  130   │    100     │   true   │   true   │ '9.2.010.0.0-dev.5' │    'dexterx.dev'    │  true   │ true │ true  │ true  │ false │  false  │
+│   97    │  98  │     'permission_handler'      │ 2136  │  130   │    100     │   true   │  false   │       '8.3.0'       │   'baseflow.com'    │  true   │ true │ false │ false │ false │  false  │
+│   98    │  99  │         'geolocator'          │ 2753  │  130   │    100     │   true   │   true   │       '8.1.0'       │   'baseflow.com'    │  true   │ true │ false │ true  │ true  │  true   │
+│   99    │ 100  │           'sqflite'           │ 2538  │  130   │    100     │   true   │   true   │       '2.0.2'       │   'tekartik.com'    │  true   │ true │ false │ true  │ false │  false  │
+│   100   │ 101  │            'http'             │ 4067  │  130   │    100     │   true   │  false   │      '0.13.4'       │     'dart.dev'      │  true   │ true │ true  │ true  │ true  │  true   │
+│   101   │ 102  │          'provider'           │ 5972  │  130   │    100     │   true   │   true   │       '6.0.2'       │ 'dash-overflow.net' │  true   │ true │ true  │ true  │ true  │  true   │
+│   102   │ 103  │        'url_launcher'         │ 3839  │  130   │    100     │   true   │   true   │      '6.0.18'       │    'flutter.dev'    │  true   │ true │ true  │ true  │ true  │  true   │
+│   103   │ 104  │        'image_picker'         │ 3313  │  130   │    100     │   true   │  false   │      '0.8.4+5'      │    'flutter.dev'    │  true   │ true │ false │ false │ true  │  false  │
+│   104   │ 105  │        'path_provider'        │ 2395  │  130   │    100     │   true   │   true   │       '2.0.8'       │    'flutter.dev'    │  true   │ true │ true  │ true  │ false │  true   │
+│   105   │ 106  │        'flutter_bloc'         │ 3468  │  130   │    100     │   true   │   true   │       '8.0.1'       │  'bloclibrary.dev'  │  true   │ true │ true  │ true  │ true  │  true   │
+│   106   │ 107  │ 'flutter_local_notifications' │ 2948  │  130   │    100     │   true   │   true   │ '9.2.010.0.0-dev.5' │    'dexterx.dev'    │  true   │ true │ true  │ true  │ false │  false  │
+│   107   │ 108  │     'permission_handler'      │ 2136  │  130   │    100     │   true   │  false   │       '8.3.0'       │   'baseflow.com'    │  true   │ true │ false │ false │ false │  false  │
+│   108   │ 109  │         'geolocator'          │ 2753  │  130   │    100     │   true   │   true   │       '8.1.0'       │   'baseflow.com'    │  true   │ true │ false │ true  │ true  │  true   │
+│   109   │ 110  │           'sqflite'           │ 2538  │  130   │    100     │   true   │   true   │       '2.0.2'       │   'tekartik.com'    │  true   │ true │ false │ true  │ false │  false  │
+│   110   │ 111  │            'http'             │ 4067  │  130   │    100     │   true   │  false   │      '0.13.4'       │     'dart.dev'      │  true   │ true │ true  │ true  │ true  │  true   │
+│   111   │ 112  │          'provider'           │ 5972  │  130   │    100     │   true   │   true   │       '6.0.2'       │ 'dash-overflow.net' │  true   │ true │ true  │ true  │ true  │  true   │
+│   112   │ 113  │        'url_launcher'         │ 3839  │  130   │    100     │   true   │   true   │      '6.0.18'       │    'flutter.dev'    │  true   │ true │ true  │ true  │ true  │  true   │
+│   113   │ 114  │        'image_picker'         │ 3313  │  130   │    100     │   true   │  false   │      '0.8.4+5'      │    'flutter.dev'    │  true   │ true │ false │ false │ true  │  false  │
+│   114   │ 115  │        'path_provider'        │ 2395  │  130   │    100     │   true   │   true   │       '2.0.8'       │    'flutter.dev'    │  true   │ true │ true  │ true  │ false │  true   │
+│   115   │ 116  │        'flutter_bloc'         │ 3468  │  130   │    100     │   true   │   true   │       '8.0.1'       │  'bloclibrary.dev'  │  true   │ true │ true  │ true  │ true  │  true   │
+│   116   │ 117  │ 'flutter_local_notifications' │ 2948  │  130   │    100     │   true   │   true   │ '9.2.010.0.0-dev.5' │    'dexterx.dev'    │  true   │ true │ true  │ true  │ false │  false  │
+│   117   │ 118  │     'permission_handler'      │ 2136  │  130   │    100     │   true   │  false   │       '8.3.0'       │   'baseflow.com'    │  true   │ true │ false │ false │ false │  false  │
+│   118   │ 119  │         'geolocator'          │ 2753  │  130   │    100     │   true   │   true   │       '8.1.0'       │   'baseflow.com'    │  true   │ true │ false │ true  │ true  │  true   │
+│   119   │ 120  │           'sqflite'           │ 2538  │  130   │    100     │   true   │   true   │       '2.0.2'       │   'tekartik.com'    │  true   │ true │ false │ true  │ false │  false  │
+│   120   │ 121  │            'http'             │ 4067  │  130   │    100     │   true   │  false   │      '0.13.4'       │     'dart.dev'      │  true   │ true │ true  │ true  │ true  │  true   │
+│   121   │ 122  │          'provider'           │ 5972  │  130   │    100     │   true   │   true   │       '6.0.2'       │ 'dash-overflow.net' │  true   │ true │ true  │ true  │ true  │  true   │
+│   122   │ 123  │        'url_launcher'         │ 3839  │  130   │    100     │   true   │   true   │      '6.0.18'       │    'flutter.dev'    │  true   │ true │ true  │ true  │ true  │  true   │
+│   123   │ 124  │        'image_picker'         │ 3313  │  130   │    100     │   true   │  false   │      '0.8.4+5'      │    'flutter.dev'    │  true   │ true │ false │ false │ true  │  false  │
+│   124   │ 125  │        'path_provider'        │ 2395  │  130   │    100     │   true   │   true   │       '2.0.8'       │    'flutter.dev'    │  true   │ true │ true  │ true  │ false │  true   │
+│   125   │ 126  │        'flutter_bloc'         │ 3468  │  130   │    100     │   true   │   true   │       '8.0.1'       │  'bloclibrary.dev'  │  true   │ true │ true  │ true  │ true  │  true   │
+│   126   │ 127  │ 'flutter_local_notifications' │ 2948  │  130   │    100     │   true   │   true   │ '9.2.010.0.0-dev.5' │    'dexterx.dev'    │  true   │ true │ true  │ true  │ false │  false  │
+│   127   │ 128  │     'permission_handler'      │ 2136  │  130   │    100     │   true   │  false   │       '8.3.0'       │   'baseflow.com'    │  true   │ true │ false │ false │ false │  false  │
+│   128   │ 129  │         'geolocator'          │ 2753  │  130   │    100     │   true   │   true   │       '8.1.0'       │   'baseflow.com'    │  true   │ true │ false │ true  │ true  │  true   │
+│   129   │ 130  │           'sqflite'           │ 2538  │  130   │    100     │   true   │   true   │       '2.0.2'       │   'tekartik.com'    │  true   │ true │ false │ true  │ false │  false  │
+│   130   │ 131  │            'http'             │ 4067  │  130   │    100     │   true   │  false   │      '0.13.4'       │     'dart.dev'      │  true   │ true │ true  │ true  │ true  │  true   │
+│   131   │ 132  │          'provider'           │ 5972  │  130   │    100     │   true   │   true   │       '6.0.2'       │ 'dash-overflow.net' │  true   │ true │ true  │ true  │ true  │  true   │
+│   132   │ 133  │        'url_launcher'         │ 3839  │  130   │    100     │   true   │   true   │      '6.0.18'       │    'flutter.dev'    │  true   │ true │ true  │ true  │ true  │  true   │
+│   133   │ 134  │        'image_picker'         │ 3313  │  130   │    100     │   true   │  false   │      '0.8.4+5'      │    'flutter.dev'    │  true   │ true │ false │ false │ true  │  false  │
+│   134   │ 135  │        'path_provider'        │ 2395  │  130   │    100     │   true   │   true   │       '2.0.8'       │    'flutter.dev'    │  true   │ true │ true  │ true  │ false │  true   │
+│   135   │ 136  │        'flutter_bloc'         │ 3468  │  130   │    100     │   true   │   true   │       '8.0.1'       │  'bloclibrary.dev'  │  true   │ true │ true  │ true  │ true  │  true   │
+│   136   │ 137  │ 'flutter_local_notifications' │ 2948  │  130   │    100     │   true   │   true   │ '9.2.010.0.0-dev.5' │    'dexterx.dev'    │  true   │ true │ true  │ true  │ false │  false  │
+│   137   │ 138  │     'permission_handler'      │ 2136  │  130   │    100     │   true   │  false   │       '8.3.0'       │   'baseflow.com'    │  true   │ true │ false │ false │ false │  false  │
+│   138   │ 139  │         'geolocator'          │ 2753  │  130   │    100     │   true   │   true   │       '8.1.0'       │   'baseflow.com'    │  true   │ true │ false │ true  │ true  │  true   │
+│   139   │ 140  │           'sqflite'           │ 2538  │  130   │    100     │   true   │   true   │       '2.0.2'       │   'tekartik.com'    │  true   │ true │ false │ true  │ false │  false  │
+│   140   │ 141  │            'http'             │ 4067  │  130   │    100     │   true   │  false   │      '0.13.4'       │     'dart.dev'      │  true   │ true │ true  │ true  │ true  │  true   │
+│   141   │ 142  │          'provider'           │ 5972  │  130   │    100     │   true   │   true   │       '6.0.2'       │ 'dash-overflow.net' │  true   │ true │ true  │ true  │ true  │  true   │
+│   142   │ 143  │        'url_launcher'         │ 3839  │  130   │    100     │   true   │   true   │      '6.0.18'       │    'flutter.dev'    │  true   │ true │ true  │ true  │ true  │  true   │
+│   143   │ 144  │        'image_picker'         │ 3313  │  130   │    100     │   true   │  false   │      '0.8.4+5'      │    'flutter.dev'    │  true   │ true │ false │ false │ true  │  false  │
+│   144   │ 145  │        'path_provider'        │ 2395  │  130   │    100     │   true   │   true   │       '2.0.8'       │    'flutter.dev'    │  true   │ true │ true  │ true  │ false │  true   │
+│   145   │ 146  │        'flutter_bloc'         │ 3468  │  130   │    100     │   true   │   true   │       '8.0.1'       │  'bloclibrary.dev'  │  true   │ true │ true  │ true  │ true  │  true   │
+│   146   │ 147  │ 'flutter_local_notifications' │ 2948  │  130   │    100     │   true   │   true   │ '9.2.010.0.0-dev.5' │    'dexterx.dev'    │  true   │ true │ true  │ true  │ false │  false  │
+│   147   │ 148  │     'permission_handler'      │ 2136  │  130   │    100     │   true   │  false   │       '8.3.0'       │   'baseflow.com'    │  true   │ true │ false │ false │ false │  false  │
+│   148   │ 149  │         'geolocator'          │ 2753  │  130   │    100     │   true   │   true   │       '8.1.0'       │   'baseflow.com'    │  true   │ true │ false │ true  │ true  │  true   │
+│   149   │ 150  │           'sqflite'           │ 2538  │  130   │    100     │   true   │   true   │       '2.0.2'       │   'tekartik.com'    │  true   │ true │ false │ true  │ false │  false  │
+│   150   │ 151  │            'http'             │ 4067  │  130   │    100     │   true   │  false   │      '0.13.4'       │     'dart.dev'      │  true   │ true │ true  │ true  │ true  │  true   │
+│   151   │ 152  │          'provider'           │ 5972  │  130   │    100     │   true   │   true   │       '6.0.2'       │ 'dash-overflow.net' │  true   │ true │ true  │ true  │ true  │  true   │
+│   152   │ 153  │        'url_launcher'         │ 3839  │  130   │    100     │   true   │   true   │      '6.0.18'       │    'flutter.dev'    │  true   │ true │ true  │ true  │ true  │  true   │
+│   153   │ 154  │        'image_picker'         │ 3313  │  130   │    100     │   true   │  false   │      '0.8.4+5'      │    'flutter.dev'    │  true   │ true │ false │ false │ true  │  false  │
+│   154   │ 155  │        'path_provider'        │ 2395  │  130   │    100     │   true   │   true   │       '2.0.8'       │    'flutter.dev'    │  true   │ true │ true  │ true  │ false │  true   │
+│   155   │ 156  │        'flutter_bloc'         │ 3468  │  130   │    100     │   true   │   true   │       '8.0.1'       │  'bloclibrary.dev'  │  true   │ true │ true  │ true  │ true  │  true   │
+│   156   │ 157  │ 'flutter_local_notifications' │ 2948  │  130   │    100     │   true   │   true   │ '9.2.010.0.0-dev.5' │    'dexterx.dev'    │  true   │ true │ true  │ true  │ false │  false  │
+│   157   │ 158  │     'permission_handler'      │ 2136  │  130   │    100     │   true   │  false   │       '8.3.0'       │   'baseflow.com'    │  true   │ true │ false │ false │ false │  false  │
+│   158   │ 159  │         'geolocator'          │ 2753  │  130   │    100     │   true   │   true   │       '8.1.0'       │   'baseflow.com'    │  true   │ true │ false │ true  │ true  │  true   │
+│   159   │ 160  │           'sqflite'           │ 2538  │  130   │    100     │   true   │   true   │       '2.0.2'       │   'tekartik.com'    │  true   │ true │ false │ true  │ false │  false  │
+│   160   │ 161  │            'http'             │ 4067  │  130   │    100     │   true   │  false   │      '0.13.4'       │     'dart.dev'      │  true   │ true │ true  │ true  │ true  │  true   │
+│   161   │ 162  │          'provider'           │ 5972  │  130   │    100     │   true   │   true   │       '6.0.2'       │ 'dash-overflow.net' │  true   │ true │ true  │ true  │ true  │  true   │
+│   162   │ 163  │        'url_launcher'         │ 3839  │  130   │    100     │   true   │   true   │      '6.0.18'       │    'flutter.dev'    │  true   │ true │ true  │ true  │ true  │  true   │
+│   163   │ 164  │        'image_picker'         │ 3313  │  130   │    100     │   true   │  false   │      '0.8.4+5'      │    'flutter.dev'    │  true   │ true │ false │ false │ true  │  false  │
+│   164   │ 165  │        'path_provider'        │ 2395  │  130   │    100     │   true   │   true   │       '2.0.8'       │    'flutter.dev'    │  true   │ true │ true  │ true  │ false │  true   │
+│   165   │ 166  │        'flutter_bloc'         │ 3468  │  130   │    100     │   true   │   true   │       '8.0.1'       │  'bloclibrary.dev'  │  true   │ true │ true  │ true  │ true  │  true   │
+│   166   │ 167  │ 'flutter_local_notifications' │ 2948  │  130   │    100     │   true   │   true   │ '9.2.010.0.0-dev.5' │    'dexterx.dev'    │  true   │ true │ true  │ true  │ false │  false  │
+│   167   │ 168  │     'permission_handler'      │ 2136  │  130   │    100     │   true   │  false   │       '8.3.0'       │   'baseflow.com'    │  true   │ true │ false │ false │ false │  false  │
+│   168   │ 169  │         'geolocator'          │ 2753  │  130   │    100     │   true   │   true   │       '8.1.0'       │   'baseflow.com'    │  true   │ true │ false │ true  │ true  │  true   │
+│   169   │ 170  │           'sqflite'           │ 2538  │  130   │    100     │   true   │   true   │       '2.0.2'       │   'tekartik.com'    │  true   │ true │ false │ true  │ false │  false  │
+│   170   │ 171  │            'http'             │ 4067  │  130   │    100     │   true   │  false   │      '0.13.4'       │     'dart.dev'      │  true   │ true │ true  │ true  │ true  │  true   │
+│   171   │ 172  │          'provider'           │ 5972  │  130   │    100     │   true   │   true   │       '6.0.2'       │ 'dash-overflow.net' │  true   │ true │ true  │ true  │ true  │  true   │
+│   172   │ 173  │        'url_launcher'         │ 3839  │  130   │    100     │   true   │   true   │      '6.0.18'       │    'flutter.dev'    │  true   │ true │ true  │ true  │ true  │  true   │
+│   173   │ 174  │        'image_picker'         │ 3313  │  130   │    100     │   true   │  false   │      '0.8.4+5'      │    'flutter.dev'    │  true   │ true │ false │ false │ true  │  false  │
+│   174   │ 175  │        'path_provider'        │ 2395  │  130   │    100     │   true   │   true   │       '2.0.8'       │    'flutter.dev'    │  true   │ true │ true  │ true  │ false │  true   │
+│   175   │ 176  │        'flutter_bloc'         │ 3468  │  130   │    100     │   true   │   true   │       '8.0.1'       │  'bloclibrary.dev'  │  true   │ true │ true  │ true  │ true  │  true   │
+│   176   │ 177  │ 'flutter_local_notifications' │ 2948  │  130   │    100     │   true   │   true   │ '9.2.010.0.0-dev.5' │    'dexterx.dev'    │  true   │ true │ true  │ true  │ false │  false  │
+│   177   │ 178  │     'permission_handler'      │ 2136  │  130   │    100     │   true   │  false   │       '8.3.0'       │   'baseflow.com'    │  true   │ true │ false │ false │ false │  false  │
+│   178   │ 179  │         'geolocator'          │ 2753  │  130   │    100     │   true   │   true   │       '8.1.0'       │   'baseflow.com'    │  true   │ true │ false │ true  │ true  │  true   │
+│   179   │ 180  │           'sqflite'           │ 2538  │  130   │    100     │   true   │   true   │       '2.0.2'       │   'tekartik.com'    │  true   │ true │ false │ true  │ false │  false  │
+│   180   │ 181  │            'http'             │ 4067  │  130   │    100     │   true   │  false   │      '0.13.4'       │     'dart.dev'      │  true   │ true │ true  │ true  │ true  │  true   │
+│   181   │ 182  │          'provider'           │ 5972  │  130   │    100     │   true   │   true   │       '6.0.2'       │ 'dash-overflow.net' │  true   │ true │ true  │ true  │ true  │  true   │
+│   182   │ 183  │        'url_launcher'         │ 3839  │  130   │    100     │   true   │   true   │      '6.0.18'       │    'flutter.dev'    │  true   │ true │ true  │ true  │ true  │  true   │
+│   183   │ 184  │        'image_picker'         │ 3313  │  130   │    100     │   true   │  false   │      '0.8.4+5'      │    'flutter.dev'    │  true   │ true │ false │ false │ true  │  false  │
+│   184   │ 185  │        'path_provider'        │ 2395  │  130   │    100     │   true   │   true   │       '2.0.8'       │    'flutter.dev'    │  true   │ true │ true  │ true  │ false │  true   │
+│   185   │ 186  │        'flutter_bloc'         │ 3468  │  130   │    100     │   true   │   true   │       '8.0.1'       │  'bloclibrary.dev'  │  true   │ true │ true  │ true  │ true  │  true   │
+│   186   │ 187  │ 'flutter_local_notifications' │ 2948  │  130   │    100     │   true   │   true   │ '9.2.010.0.0-dev.5' │    'dexterx.dev'    │  true   │ true │ true  │ true  │ false │  false  │
+│   187   │ 188  │     'permission_handler'      │ 2136  │  130   │    100     │   true   │  false   │       '8.3.0'       │   'baseflow.com'    │  true   │ true │ false │ false │ false │  false  │
+│   188   │ 189  │         'geolocator'          │ 2753  │  130   │    100     │   true   │   true   │       '8.1.0'       │   'baseflow.com'    │  true   │ true │ false │ true  │ true  │  true   │
+│   189   │ 190  │           'sqflite'           │ 2538  │  130   │    100     │   true   │   true   │       '2.0.2'       │   'tekartik.com'    │  true   │ true │ false │ true  │ false │  false  │
+│   190   │ 191  │            'http'             │ 4067  │  130   │    100     │   true   │  false   │      '0.13.4'       │     'dart.dev'      │  true   │ true │ true  │ true  │ true  │  true   │
+│   191   │ 192  │          'provider'           │ 5972  │  130   │    100     │   true   │   true   │       '6.0.2'       │ 'dash-overflow.net' │  true   │ true │ true  │ true  │ true  │  true   │
+│   192   │ 193  │        'url_launcher'         │ 3839  │  130   │    100     │   true   │   true   │      '6.0.18'       │    'flutter.dev'    │  true   │ true │ true  │ true  │ true  │  true   │
+│   193   │ 194  │        'image_picker'         │ 3313  │  130   │    100     │   true   │  false   │      '0.8.4+5'      │    'flutter.dev'    │  true   │ true │ false │ false │ true  │  false  │
+│   194   │ 195  │        'path_provider'        │ 2395  │  130   │    100     │   true   │   true   │       '2.0.8'       │    'flutter.dev'    │  true   │ true │ true  │ true  │ false │  true   │
+│   195   │ 196  │        'flutter_bloc'         │ 3468  │  130   │    100     │   true   │   true   │       '8.0.1'       │  'bloclibrary.dev'  │  true   │ true │ true  │ true  │ true  │  true   │
+│   196   │ 197  │ 'flutter_local_notifications' │ 2948  │  130   │    100     │   true   │   true   │ '9.2.010.0.0-dev.5' │    'dexterx.dev'    │  true   │ true │ true  │ true  │ false │  false  │
+│   197   │ 198  │     'permission_handler'      │ 2136  │  130   │    100     │   true   │  false   │       '8.3.0'       │   'baseflow.com'    │  true   │ true │ false │ false │ false │  false  │
+│   198   │ 199  │         'geolocator'          │ 2753  │  130   │    100     │   true   │   true   │       '8.1.0'       │   'baseflow.com'    │  true   │ true │ false │ true  │ true  │  true   │
+│   199   │ 200  │           'sqflite'           │ 2538  │  130   │    100     │   true   │   true   │       '2.0.2'       │   'tekartik.com'    │  true   │ true │ false │ true  │ false │  false  │
+│   200   │ 201  │            'http'             │ 4067  │  130   │    100     │   true   │  false   │      '0.13.4'       │     'dart.dev'      │  true   │ true │ true  │ true  │ true  │  true   │
+│   201   │ 202  │          'provider'           │ 5972  │  130   │    100     │   true   │   true   │       '6.0.2'       │ 'dash-overflow.net' │  true   │ true │ true  │ true  │ true  │  true   │
+│   202   │ 203  │        'url_launcher'         │ 3839  │  130   │    100     │   true   │   true   │      '6.0.18'       │    'flutter.dev'    │  true   │ true │ true  │ true  │ true  │  true   │
+│   203   │ 204  │        'image_picker'         │ 3313  │  130   │    100     │   true   │  false   │      '0.8.4+5'      │    'flutter.dev'    │  true   │ true │ false │ false │ true  │  false  │
+│   204   │ 205  │        'path_provider'        │ 2395  │  130   │    100     │   true   │   true   │       '2.0.8'       │    'flutter.dev'    │  true   │ true │ true  │ true  │ false │  true   │
+│   205   │ 206  │        'flutter_bloc'         │ 3468  │  130   │    100     │   true   │   true   │       '8.0.1'       │  'bloclibrary.dev'  │  true   │ true │ true  │ true  │ true  │  true   │
+│   206   │ 207  │ 'flutter_local_notifications' │ 2948  │  130   │    100     │   true   │   true   │ '9.2.010.0.0-dev.5' │    'dexterx.dev'    │  true   │ true │ true  │ true  │ false │  false  │
+│   207   │ 208  │     'permission_handler'      │ 2136  │  130   │    100     │   true   │  false   │       '8.3.0'       │   'baseflow.com'    │  true   │ true │ false │ false │ false │  false  │
+│   208   │ 209  │         'geolocator'          │ 2753  │  130   │    100     │   true   │   true   │       '8.1.0'       │   'baseflow.com'    │  true   │ true │ false │ true  │ true  │  true   │
+│   209   │ 210  │           'sqflite'           │ 2538  │  130   │    100     │   true   │   true   │       '2.0.2'       │   'tekartik.com'    │  true   │ true │ false │ true  │ false │  false  │
+│   210   │ 211  │            'http'             │ 4067  │  130   │    100     │   true   │  false   │      '0.13.4'       │     'dart.dev'      │  true   │ true │ true  │ true  │ true  │  true   │
+│   211   │ 212  │          'provider'           │ 5972  │  130   │    100     │   true   │   true   │       '6.0.2'       │ 'dash-overflow.net' │  true   │ true │ true  │ true  │ true  │  true   │
+│   212   │ 213  │        'url_launcher'         │ 3839  │  130   │    100     │   true   │   true   │      '6.0.18'       │    'flutter.dev'    │  true   │ true │ true  │ true  │ true  │  true   │
+│   213   │ 214  │        'image_picker'         │ 3313  │  130   │    100     │   true   │  false   │      '0.8.4+5'      │    'flutter.dev'    │  true   │ true │ false │ false │ true  │  false  │
+│   214   │ 215  │        'path_provider'        │ 2395  │  130   │    100     │   true   │   true   │       '2.0.8'       │    'flutter.dev'    │  true   │ true │ true  │ true  │ false │  true   │
+│   215   │ 216  │        'flutter_bloc'         │ 3468  │  130   │    100     │   true   │   true   │       '8.0.1'       │  'bloclibrary.dev'  │  true   │ true │ true  │ true  │ true  │  true   │
+│   216   │ 217  │ 'flutter_local_notifications' │ 2948  │  130   │    100     │   true   │   true   │ '9.2.010.0.0-dev.5' │    'dexterx.dev'    │  true   │ true │ true  │ true  │ false │  false  │
+│   217   │ 218  │     'permission_handler'      │ 2136  │  130   │    100     │   true   │  false   │       '8.3.0'       │   'baseflow.com'    │  true   │ true │ false │ false │ false │  false  │
+│   218   │ 219  │         'geolocator'          │ 2753  │  130   │    100     │   true   │   true   │       '8.1.0'       │   'baseflow.com'    │  true   │ true │ false │ true  │ true  │  true   │
+│   219   │ 220  │           'sqflite'           │ 2538  │  130   │    100     │   true   │   true   │       '2.0.2'       │   'tekartik.com'    │  true   │ true │ false │ true  │ false │  false  │
+│   220   │ 221  │            'http'             │ 4067  │  130   │    100     │   true   │  false   │      '0.13.4'       │     'dart.dev'      │  true   │ true │ true  │ true  │ true  │  true   │
+│   221   │ 222  │          'provider'           │ 5972  │  130   │    100     │   true   │   true   │       '6.0.2'       │ 'dash-overflow.net' │  true   │ true │ true  │ true  │ true  │  true   │
+│   222   │ 223  │        'url_launcher'         │ 3839  │  130   │    100     │   true   │   true   │      '6.0.18'       │    'flutter.dev'    │  true   │ true │ true  │ true  │ true  │  true   │
+│   223   │ 224  │        'image_picker'         │ 3313  │  130   │    100     │   true   │  false   │      '0.8.4+5'      │    'flutter.dev'    │  true   │ true │ false │ false │ true  │  false  │
+│   224   │ 225  │        'path_provider'        │ 2395  │  130   │    100     │   true   │   true   │       '2.0.8'       │    'flutter.dev'    │  true   │ true │ true  │ true  │ false │  true   │
+│   225   │ 226  │        'flutter_bloc'         │ 3468  │  130   │    100     │   true   │   true   │       '8.0.1'       │  'bloclibrary.dev'  │  true   │ true │ true  │ true  │ true  │  true   │
+│   226   │ 227  │ 'flutter_local_notifications' │ 2948  │  130   │    100     │   true   │   true   │ '9.2.010.0.0-dev.5' │    'dexterx.dev'    │  true   │ true │ true  │ true  │ false │  false  │
+│   227   │ 228  │     'permission_handler'      │ 2136  │  130   │    100     │   true   │  false   │       '8.3.0'       │   'baseflow.com'    │  true   │ true │ false │ false │ false │  false  │
+│   228   │ 229  │         'geolocator'          │ 2753  │  130   │    100     │   true   │   true   │       '8.1.0'       │   'baseflow.com'    │  true   │ true │ false │ true  │ true  │  true   │
+│   229   │ 230  │           'sqflite'           │ 2538  │  130   │    100     │   true   │   true   │       '2.0.2'       │   'tekartik.com'    │  true   │ true │ false │ true  │ false │  false  │
+│   230   │ 231  │            'http'             │ 4067  │  130   │    100     │   true   │  false   │      '0.13.4'       │     'dart.dev'      │  true   │ true │ true  │ true  │ true  │  true   │
+│   231   │ 232  │          'provider'           │ 5972  │  130   │    100     │   true   │   true   │       '6.0.2'       │ 'dash-overflow.net' │  true   │ true │ true  │ true  │ true  │  true   │
+│   232   │ 233  │        'url_launcher'         │ 3839  │  130   │    100     │   true   │   true   │      '6.0.18'       │    'flutter.dev'    │  true   │ true │ true  │ true  │ true  │  true   │
+│   233   │ 234  │        'image_picker'         │ 3313  │  130   │    100     │   true   │  false   │      '0.8.4+5'      │    'flutter.dev'    │  true   │ true │ false │ false │ true  │  false  │
+│   234   │ 235  │        'path_provider'        │ 2395  │  130   │    100     │   true   │   true   │       '2.0.8'       │    'flutter.dev'    │  true   │ true │ true  │ true  │ false │  true   │
+│   235   │ 236  │        'flutter_bloc'         │ 3468  │  130   │    100     │   true   │   true   │       '8.0.1'       │  'bloclibrary.dev'  │  true   │ true │ true  │ true  │ true  │  true   │
+│   236   │ 237  │ 'flutter_local_notifications' │ 2948  │  130   │    100     │   true   │   true   │ '9.2.010.0.0-dev.5' │    'dexterx.dev'    │  true   │ true │ true  │ true  │ false │  false  │
+│   237   │ 238  │     'permission_handler'      │ 2136  │  130   │    100     │   true   │  false   │       '8.3.0'       │   'baseflow.com'    │  true   │ true │ false │ false │ false │  false  │
+│   238   │ 239  │         'geolocator'          │ 2753  │  130   │    100     │   true   │   true   │       '8.1.0'       │   'baseflow.com'    │  true   │ true │ false │ true  │ true  │  true   │
+│   239   │ 240  │           'sqflite'           │ 2538  │  130   │    100     │   true   │   true   │       '2.0.2'       │   'tekartik.com'    │  true   │ true │ false │ true  │ false │  false  │
+│   240   │ 241  │            'http'             │ 4067  │  130   │    100     │   true   │  false   │      '0.13.4'       │     'dart.dev'      │  true   │ true │ true  │ true  │ true  │  true   │
+│   241   │ 242  │          'provider'           │ 5972  │  130   │    100     │   true   │   true   │       '6.0.2'       │ 'dash-overflow.net' │  true   │ true │ true  │ true  │ true  │  true   │
+│   242   │ 243  │        'url_launcher'         │ 3839  │  130   │    100     │   true   │   true   │      '6.0.18'       │    'flutter.dev'    │  true   │ true │ true  │ true  │ true  │  true   │
+│   243   │ 244  │        'image_picker'         │ 3313  │  130   │    100     │   true   │  false   │      '0.8.4+5'      │    'flutter.dev'    │  true   │ true │ false │ false │ true  │  false  │
+│   244   │ 245  │        'path_provider'        │ 2395  │  130   │    100     │   true   │   true   │       '2.0.8'       │    'flutter.dev'    │  true   │ true │ true  │ true  │ false │  true   │
+│   245   │ 246  │        'flutter_bloc'         │ 3468  │  130   │    100     │   true   │   true   │       '8.0.1'       │  'bloclibrary.dev'  │  true   │ true │ true  │ true  │ true  │  true   │
+│   246   │ 247  │ 'flutter_local_notifications' │ 2948  │  130   │    100     │   true   │   true   │ '9.2.010.0.0-dev.5' │    'dexterx.dev'    │  true   │ true │ true  │ true  │ false │  false  │
+│   247   │ 248  │     'permission_handler'      │ 2136  │  130   │    100     │   true   │  false   │       '8.3.0'       │   'baseflow.com'    │  true   │ true │ false │ false │ false │  false  │
+│   248   │ 249  │         'geolocator'          │ 2753  │  130   │    100     │   true   │   true   │       '8.1.0'       │   'baseflow.com'    │  true   │ true │ false │ true  │ true  │  true   │
+│   249   │ 250  │           'sqflite'           │ 2538  │  130   │    100     │   true   │   true   │       '2.0.2'       │   'tekartik.com'    │  true   │ true │ false │ true  │ false │  false  │
+└─────────┴──────┴───────────────────────────────┴───────┴────────┴────────────┴──────────┴──────────┴─────────────────────┴─────────────────────┴─────────┴──────┴───────┴───────┴───────┴─────────┘
