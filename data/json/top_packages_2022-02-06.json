@@ -3,7 +3,7 @@
         {
             "rank": 3,
             "name": "url_launcher",
-            "likes": 3847,
+            "likes": 3852,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -20,7 +20,7 @@
         {
             "rank": 4,
             "name": "image_picker",
-            "likes": 3324,
+            "likes": 3327,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -37,7 +37,7 @@
         {
             "rank": 5,
             "name": "path_provider",
-            "likes": 2403,
+            "likes": 2412,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -54,7 +54,7 @@
         {
             "rank": 13,
             "name": "url_launcher",
-            "likes": 3847,
+            "likes": 3852,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -71,7 +71,7 @@
         {
             "rank": 14,
             "name": "image_picker",
-            "likes": 3324,
+            "likes": 3327,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -88,7 +88,7 @@
         {
             "rank": 15,
             "name": "path_provider",
-            "likes": 2403,
+            "likes": 2412,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -105,7 +105,7 @@
         {
             "rank": 23,
             "name": "url_launcher",
-            "likes": 3847,
+            "likes": 3852,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -122,7 +122,7 @@
         {
             "rank": 24,
             "name": "image_picker",
-            "likes": 3324,
+            "likes": 3327,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -139,7 +139,7 @@
         {
             "rank": 25,
             "name": "path_provider",
-            "likes": 2403,
+            "likes": 2412,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -156,7 +156,7 @@
         {
             "rank": 33,
             "name": "url_launcher",
-            "likes": 3847,
+            "likes": 3852,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -173,7 +173,7 @@
         {
             "rank": 34,
             "name": "image_picker",
-            "likes": 3324,
+            "likes": 3327,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -190,7 +190,7 @@
         {
             "rank": 35,
             "name": "path_provider",
-            "likes": 2403,
+            "likes": 2412,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -207,7 +207,7 @@
         {
             "rank": 43,
             "name": "url_launcher",
-            "likes": 3847,
+            "likes": 3852,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -224,7 +224,7 @@
         {
             "rank": 44,
             "name": "image_picker",
-            "likes": 3324,
+            "likes": 3327,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -241,7 +241,7 @@
         {
             "rank": 45,
             "name": "path_provider",
-            "likes": 2403,
+            "likes": 2412,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -258,7 +258,7 @@
         {
             "rank": 53,
             "name": "url_launcher",
-            "likes": 3847,
+            "likes": 3852,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -275,7 +275,7 @@
         {
             "rank": 54,
             "name": "image_picker",
-            "likes": 3324,
+            "likes": 3327,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -292,7 +292,7 @@
         {
             "rank": 55,
             "name": "path_provider",
-            "likes": 2403,
+            "likes": 2412,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -309,7 +309,7 @@
         {
             "rank": 63,
             "name": "url_launcher",
-            "likes": 3847,
+            "likes": 3852,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -326,7 +326,7 @@
         {
             "rank": 64,
             "name": "image_picker",
-            "likes": 3324,
+            "likes": 3327,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -343,7 +343,7 @@
         {
             "rank": 65,
             "name": "path_provider",
-            "likes": 2403,
+            "likes": 2412,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -360,7 +360,7 @@
         {
             "rank": 73,
             "name": "url_launcher",
-            "likes": 3847,
+            "likes": 3852,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -377,7 +377,7 @@
         {
             "rank": 74,
             "name": "image_picker",
-            "likes": 3324,
+            "likes": 3327,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -394,7 +394,7 @@
         {
             "rank": 75,
             "name": "path_provider",
-            "likes": 2403,
+            "likes": 2412,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -411,7 +411,7 @@
         {
             "rank": 83,
             "name": "url_launcher",
-            "likes": 3847,
+            "likes": 3852,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -428,7 +428,7 @@
         {
             "rank": 84,
             "name": "image_picker",
-            "likes": 3324,
+            "likes": 3327,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -445,7 +445,7 @@
         {
             "rank": 85,
             "name": "path_provider",
-            "likes": 2403,
+            "likes": 2412,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -462,7 +462,7 @@
         {
             "rank": 93,
             "name": "url_launcher",
-            "likes": 3847,
+            "likes": 3852,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -479,7 +479,7 @@
         {
             "rank": 94,
             "name": "image_picker",
-            "likes": 3324,
+            "likes": 3327,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -496,7 +496,7 @@
         {
             "rank": 95,
             "name": "path_provider",
-            "likes": 2403,
+            "likes": 2412,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -513,7 +513,7 @@
         {
             "rank": 103,
             "name": "url_launcher",
-            "likes": 3847,
+            "likes": 3852,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -530,7 +530,7 @@
         {
             "rank": 104,
             "name": "image_picker",
-            "likes": 3324,
+            "likes": 3327,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -547,7 +547,7 @@
         {
             "rank": 105,
             "name": "path_provider",
-            "likes": 2403,
+            "likes": 2412,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -564,7 +564,7 @@
         {
             "rank": 113,
             "name": "url_launcher",
-            "likes": 3847,
+            "likes": 3852,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -581,7 +581,7 @@
         {
             "rank": 114,
             "name": "image_picker",
-            "likes": 3324,
+            "likes": 3327,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -598,7 +598,7 @@
         {
             "rank": 115,
             "name": "path_provider",
-            "likes": 2403,
+            "likes": 2412,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -615,7 +615,7 @@
         {
             "rank": 123,
             "name": "url_launcher",
-            "likes": 3847,
+            "likes": 3852,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -632,7 +632,7 @@
         {
             "rank": 124,
             "name": "image_picker",
-            "likes": 3324,
+            "likes": 3327,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -649,7 +649,7 @@
         {
             "rank": 125,
             "name": "path_provider",
-            "likes": 2403,
+            "likes": 2412,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -666,7 +666,7 @@
         {
             "rank": 133,
             "name": "url_launcher",
-            "likes": 3847,
+            "likes": 3852,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -683,7 +683,7 @@
         {
             "rank": 134,
             "name": "image_picker",
-            "likes": 3324,
+            "likes": 3327,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -700,7 +700,7 @@
         {
             "rank": 135,
             "name": "path_provider",
-            "likes": 2403,
+            "likes": 2412,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -717,7 +717,7 @@
         {
             "rank": 143,
             "name": "url_launcher",
-            "likes": 3847,
+            "likes": 3852,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -734,7 +734,7 @@
         {
             "rank": 144,
             "name": "image_picker",
-            "likes": 3324,
+            "likes": 3327,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -751,7 +751,7 @@
         {
             "rank": 145,
             "name": "path_provider",
-            "likes": 2403,
+            "likes": 2412,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -768,7 +768,7 @@
         {
             "rank": 153,
             "name": "url_launcher",
-            "likes": 3847,
+            "likes": 3852,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -785,7 +785,7 @@
         {
             "rank": 154,
             "name": "image_picker",
-            "likes": 3324,
+            "likes": 3327,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -802,7 +802,7 @@
         {
             "rank": 155,
             "name": "path_provider",
-            "likes": 2403,
+            "likes": 2412,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -819,7 +819,7 @@
         {
             "rank": 163,
             "name": "url_launcher",
-            "likes": 3847,
+            "likes": 3852,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -836,7 +836,7 @@
         {
             "rank": 164,
             "name": "image_picker",
-            "likes": 3324,
+            "likes": 3327,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -853,7 +853,7 @@
         {
             "rank": 165,
             "name": "path_provider",
-            "likes": 2403,
+            "likes": 2412,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -870,7 +870,7 @@
         {
             "rank": 173,
             "name": "url_launcher",
-            "likes": 3847,
+            "likes": 3852,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -887,7 +887,7 @@
         {
             "rank": 174,
             "name": "image_picker",
-            "likes": 3324,
+            "likes": 3327,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -904,7 +904,7 @@
         {
             "rank": 175,
             "name": "path_provider",
-            "likes": 2403,
+            "likes": 2412,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -921,7 +921,7 @@
         {
             "rank": 183,
             "name": "url_launcher",
-            "likes": 3847,
+            "likes": 3852,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -938,7 +938,7 @@
         {
             "rank": 184,
             "name": "image_picker",
-            "likes": 3324,
+            "likes": 3327,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -955,7 +955,7 @@
         {
             "rank": 185,
             "name": "path_provider",
-            "likes": 2403,
+            "likes": 2412,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -972,7 +972,7 @@
         {
             "rank": 193,
             "name": "url_launcher",
-            "likes": 3847,
+            "likes": 3852,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -989,7 +989,7 @@
         {
             "rank": 194,
             "name": "image_picker",
-            "likes": 3324,
+            "likes": 3327,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -1006,7 +1006,7 @@
         {
             "rank": 195,
             "name": "path_provider",
-            "likes": 2403,
+            "likes": 2412,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -1023,7 +1023,7 @@
         {
             "rank": 203,
             "name": "url_launcher",
-            "likes": 3847,
+            "likes": 3852,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -1040,7 +1040,7 @@
         {
             "rank": 204,
             "name": "image_picker",
-            "likes": 3324,
+            "likes": 3327,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -1057,7 +1057,7 @@
         {
             "rank": 205,
             "name": "path_provider",
-            "likes": 2403,
+            "likes": 2412,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -1074,7 +1074,7 @@
         {
             "rank": 213,
             "name": "url_launcher",
-            "likes": 3847,
+            "likes": 3852,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -1091,7 +1091,7 @@
         {
             "rank": 214,
             "name": "image_picker",
-            "likes": 3324,
+            "likes": 3327,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -1108,7 +1108,7 @@
         {
             "rank": 215,
             "name": "path_provider",
-            "likes": 2403,
+            "likes": 2412,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -1125,7 +1125,7 @@
         {
             "rank": 223,
             "name": "url_launcher",
-            "likes": 3847,
+            "likes": 3852,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -1142,7 +1142,7 @@
         {
             "rank": 224,
             "name": "image_picker",
-            "likes": 3324,
+            "likes": 3327,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -1159,7 +1159,7 @@
         {
             "rank": 225,
             "name": "path_provider",
-            "likes": 2403,
+            "likes": 2412,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -1176,7 +1176,7 @@
         {
             "rank": 233,
             "name": "url_launcher",
-            "likes": 3847,
+            "likes": 3852,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -1193,7 +1193,7 @@
         {
             "rank": 234,
             "name": "image_picker",
-            "likes": 3324,
+            "likes": 3327,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -1210,7 +1210,7 @@
         {
             "rank": 235,
             "name": "path_provider",
-            "likes": 2403,
+            "likes": 2412,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -1227,7 +1227,7 @@
         {
             "rank": 243,
             "name": "url_launcher",
-            "likes": 3847,
+            "likes": 3852,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -1244,7 +1244,7 @@
         {
             "rank": 244,
             "name": "image_picker",
-            "likes": 3324,
+            "likes": 3327,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -1261,7 +1261,7 @@
         {
             "rank": 245,
             "name": "path_provider",
-            "likes": 2403,
+            "likes": 2412,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -1281,7 +1281,7 @@
         {
             "rank": 2,
             "name": "provider",
-            "likes": 5981,
+            "likes": 5991,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -1298,7 +1298,7 @@
         {
             "rank": 12,
             "name": "provider",
-            "likes": 5981,
+            "likes": 5991,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -1315,7 +1315,7 @@
         {
             "rank": 22,
             "name": "provider",
-            "likes": 5981,
+            "likes": 5991,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -1332,7 +1332,7 @@
         {
             "rank": 32,
             "name": "provider",
-            "likes": 5981,
+            "likes": 5991,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -1349,7 +1349,7 @@
         {
             "rank": 42,
             "name": "provider",
-            "likes": 5981,
+            "likes": 5991,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -1366,7 +1366,7 @@
         {
             "rank": 52,
             "name": "provider",
-            "likes": 5981,
+            "likes": 5991,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -1383,7 +1383,7 @@
         {
             "rank": 62,
             "name": "provider",
-            "likes": 5981,
+            "likes": 5991,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -1400,7 +1400,7 @@
         {
             "rank": 72,
             "name": "provider",
-            "likes": 5981,
+            "likes": 5991,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -1417,7 +1417,7 @@
         {
             "rank": 82,
             "name": "provider",
-            "likes": 5981,
+            "likes": 5991,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -1434,7 +1434,7 @@
         {
             "rank": 92,
             "name": "provider",
-            "likes": 5981,
+            "likes": 5991,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -1451,7 +1451,7 @@
         {
             "rank": 102,
             "name": "provider",
-            "likes": 5981,
+            "likes": 5991,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -1468,7 +1468,7 @@
         {
             "rank": 112,
             "name": "provider",
-            "likes": 5981,
+            "likes": 5991,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -1485,7 +1485,7 @@
         {
             "rank": 122,
             "name": "provider",
-            "likes": 5981,
+            "likes": 5991,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -1502,7 +1502,7 @@
         {
             "rank": 132,
             "name": "provider",
-            "likes": 5981,
+            "likes": 5991,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -1519,7 +1519,7 @@
         {
             "rank": 142,
             "name": "provider",
-            "likes": 5981,
+            "likes": 5991,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -1536,7 +1536,7 @@
         {
             "rank": 152,
             "name": "provider",
-            "likes": 5981,
+            "likes": 5991,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -1553,7 +1553,7 @@
         {
             "rank": 162,
             "name": "provider",
-            "likes": 5981,
+            "likes": 5991,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -1570,7 +1570,7 @@
         {
             "rank": 172,
             "name": "provider",
-            "likes": 5981,
+            "likes": 5991,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -1587,7 +1587,7 @@
         {
             "rank": 182,
             "name": "provider",
-            "likes": 5981,
+            "likes": 5991,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -1604,7 +1604,7 @@
         {
             "rank": 192,
             "name": "provider",
-            "likes": 5981,
+            "likes": 5991,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -1621,7 +1621,7 @@
         {
             "rank": 202,
             "name": "provider",
-            "likes": 5981,
+            "likes": 5991,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -1638,7 +1638,7 @@
         {
             "rank": 212,
             "name": "provider",
-            "likes": 5981,
+            "likes": 5991,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -1655,7 +1655,7 @@
         {
             "rank": 222,
             "name": "provider",
-            "likes": 5981,
+            "likes": 5991,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -1672,7 +1672,7 @@
         {
             "rank": 232,
             "name": "provider",
-            "likes": 5981,
+            "likes": 5991,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -1689,7 +1689,7 @@
         {
             "rank": 242,
             "name": "provider",
-            "likes": 5981,
+            "likes": 5991,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -1708,7 +1708,7 @@
         {
             "rank": 1,
             "name": "http",
-            "likes": 4076,
+            "likes": 4097,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -1725,7 +1725,7 @@
         {
             "rank": 2,
             "name": "provider",
-            "likes": 5981,
+            "likes": 5991,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -1742,7 +1742,7 @@
         {
             "rank": 3,
             "name": "url_launcher",
-            "likes": 3847,
+            "likes": 3852,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -1759,7 +1759,7 @@
         {
             "rank": 4,
             "name": "image_picker",
-            "likes": 3324,
+            "likes": 3327,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -1776,7 +1776,7 @@
         {
             "rank": 5,
             "name": "path_provider",
-            "likes": 2403,
+            "likes": 2412,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -1793,7 +1793,7 @@
         {
             "rank": 6,
             "name": "google_fonts",
-            "likes": 3169,
+            "likes": 3174,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -1810,7 +1810,7 @@
         {
             "rank": 7,
             "name": "flutter_bloc",
-            "likes": 3473,
+            "likes": 3480,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -1827,7 +1827,7 @@
         {
             "rank": 8,
             "name": "flutter_local_notifications",
-            "likes": 2954,
+            "likes": 2957,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -1844,7 +1844,7 @@
         {
             "rank": 9,
             "name": "permission_handler",
-            "likes": 2142,
+            "likes": 2146,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -1861,7 +1861,7 @@
         {
             "rank": 10,
             "name": "geolocator",
-            "likes": 2764,
+            "likes": 2768,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -1878,7 +1878,7 @@
         {
             "rank": 11,
             "name": "http",
-            "likes": 4076,
+            "likes": 4097,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -1895,7 +1895,7 @@
         {
             "rank": 12,
             "name": "provider",
-            "likes": 5981,
+            "likes": 5991,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -1912,7 +1912,7 @@
         {
             "rank": 13,
             "name": "url_launcher",
-            "likes": 3847,
+            "likes": 3852,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -1929,7 +1929,7 @@
         {
             "rank": 14,
             "name": "image_picker",
-            "likes": 3324,
+            "likes": 3327,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -1946,7 +1946,7 @@
         {
             "rank": 15,
             "name": "path_provider",
-            "likes": 2403,
+            "likes": 2412,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -1963,7 +1963,7 @@
         {
             "rank": 16,
             "name": "google_fonts",
-            "likes": 3169,
+            "likes": 3174,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -1980,7 +1980,7 @@
         {
             "rank": 17,
             "name": "flutter_bloc",
-            "likes": 3473,
+            "likes": 3480,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -1997,7 +1997,7 @@
         {
             "rank": 18,
             "name": "flutter_local_notifications",
-            "likes": 2954,
+            "likes": 2957,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -2014,7 +2014,7 @@
         {
             "rank": 19,
             "name": "permission_handler",
-            "likes": 2142,
+            "likes": 2146,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -2031,7 +2031,7 @@
         {
             "rank": 20,
             "name": "geolocator",
-            "likes": 2764,
+            "likes": 2768,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -2048,7 +2048,7 @@
         {
             "rank": 21,
             "name": "http",
-            "likes": 4076,
+            "likes": 4097,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -2065,7 +2065,7 @@
         {
             "rank": 22,
             "name": "provider",
-            "likes": 5981,
+            "likes": 5991,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -2082,7 +2082,7 @@
         {
             "rank": 23,
             "name": "url_launcher",
-            "likes": 3847,
+            "likes": 3852,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -2099,7 +2099,7 @@
         {
             "rank": 24,
             "name": "image_picker",
-            "likes": 3324,
+            "likes": 3327,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -2116,7 +2116,7 @@
         {
             "rank": 25,
             "name": "path_provider",
-            "likes": 2403,
+            "likes": 2412,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -2133,7 +2133,7 @@
         {
             "rank": 26,
             "name": "google_fonts",
-            "likes": 3169,
+            "likes": 3174,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -2150,7 +2150,7 @@
         {
             "rank": 27,
             "name": "flutter_bloc",
-            "likes": 3473,
+            "likes": 3480,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -2167,7 +2167,7 @@
         {
             "rank": 28,
             "name": "flutter_local_notifications",
-            "likes": 2954,
+            "likes": 2957,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -2184,7 +2184,7 @@
         {
             "rank": 29,
             "name": "permission_handler",
-            "likes": 2142,
+            "likes": 2146,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -2201,7 +2201,7 @@
         {
             "rank": 30,
             "name": "geolocator",
-            "likes": 2764,
+            "likes": 2768,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -2218,7 +2218,7 @@
         {
             "rank": 31,
             "name": "http",
-            "likes": 4076,
+            "likes": 4097,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -2235,7 +2235,7 @@
         {
             "rank": 32,
             "name": "provider",
-            "likes": 5981,
+            "likes": 5991,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -2252,7 +2252,7 @@
         {
             "rank": 33,
             "name": "url_launcher",
-            "likes": 3847,
+            "likes": 3852,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -2269,7 +2269,7 @@
         {
             "rank": 34,
             "name": "image_picker",
-            "likes": 3324,
+            "likes": 3327,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -2286,7 +2286,7 @@
         {
             "rank": 35,
             "name": "path_provider",
-            "likes": 2403,
+            "likes": 2412,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -2303,7 +2303,7 @@
         {
             "rank": 36,
             "name": "google_fonts",
-            "likes": 3169,
+            "likes": 3174,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -2320,7 +2320,7 @@
         {
             "rank": 37,
             "name": "flutter_bloc",
-            "likes": 3473,
+            "likes": 3480,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -2337,7 +2337,7 @@
         {
             "rank": 38,
             "name": "flutter_local_notifications",
-            "likes": 2954,
+            "likes": 2957,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -2354,7 +2354,7 @@
         {
             "rank": 39,
             "name": "permission_handler",
-            "likes": 2142,
+            "likes": 2146,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -2371,7 +2371,7 @@
         {
             "rank": 40,
             "name": "geolocator",
-            "likes": 2764,
+            "likes": 2768,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -2388,7 +2388,7 @@
         {
             "rank": 41,
             "name": "http",
-            "likes": 4076,
+            "likes": 4097,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -2405,7 +2405,7 @@
         {
             "rank": 42,
             "name": "provider",
-            "likes": 5981,
+            "likes": 5991,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -2422,7 +2422,7 @@
         {
             "rank": 43,
             "name": "url_launcher",
-            "likes": 3847,
+            "likes": 3852,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -2439,7 +2439,7 @@
         {
             "rank": 44,
             "name": "image_picker",
-            "likes": 3324,
+            "likes": 3327,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -2456,7 +2456,7 @@
         {
             "rank": 45,
             "name": "path_provider",
-            "likes": 2403,
+            "likes": 2412,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -2473,7 +2473,7 @@
         {
             "rank": 46,
             "name": "google_fonts",
-            "likes": 3169,
+            "likes": 3174,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -2490,7 +2490,7 @@
         {
             "rank": 47,
             "name": "flutter_bloc",
-            "likes": 3473,
+            "likes": 3480,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -2507,7 +2507,7 @@
         {
             "rank": 48,
             "name": "flutter_local_notifications",
-            "likes": 2954,
+            "likes": 2957,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -2524,7 +2524,7 @@
         {
             "rank": 49,
             "name": "permission_handler",
-            "likes": 2142,
+            "likes": 2146,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -2541,7 +2541,7 @@
         {
             "rank": 50,
             "name": "geolocator",
-            "likes": 2764,
+            "likes": 2768,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -2558,7 +2558,7 @@
         {
             "rank": 51,
             "name": "http",
-            "likes": 4076,
+            "likes": 4097,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -2575,7 +2575,7 @@
         {
             "rank": 52,
             "name": "provider",
-            "likes": 5981,
+            "likes": 5991,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -2592,7 +2592,7 @@
         {
             "rank": 53,
             "name": "url_launcher",
-            "likes": 3847,
+            "likes": 3852,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -2609,7 +2609,7 @@
         {
             "rank": 54,
             "name": "image_picker",
-            "likes": 3324,
+            "likes": 3327,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -2626,7 +2626,7 @@
         {
             "rank": 55,
             "name": "path_provider",
-            "likes": 2403,
+            "likes": 2412,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -2643,7 +2643,7 @@
         {
             "rank": 56,
             "name": "google_fonts",
-            "likes": 3169,
+            "likes": 3174,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -2660,7 +2660,7 @@
         {
             "rank": 57,
             "name": "flutter_bloc",
-            "likes": 3473,
+            "likes": 3480,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -2677,7 +2677,7 @@
         {
             "rank": 58,
             "name": "flutter_local_notifications",
-            "likes": 2954,
+            "likes": 2957,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -2694,7 +2694,7 @@
         {
             "rank": 59,
             "name": "permission_handler",
-            "likes": 2142,
+            "likes": 2146,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -2711,7 +2711,7 @@
         {
             "rank": 60,
             "name": "geolocator",
-            "likes": 2764,
+            "likes": 2768,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -2728,7 +2728,7 @@
         {
             "rank": 61,
             "name": "http",
-            "likes": 4076,
+            "likes": 4097,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -2745,7 +2745,7 @@
         {
             "rank": 62,
             "name": "provider",
-            "likes": 5981,
+            "likes": 5991,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -2762,7 +2762,7 @@
         {
             "rank": 63,
             "name": "url_launcher",
-            "likes": 3847,
+            "likes": 3852,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -2779,7 +2779,7 @@
         {
             "rank": 64,
             "name": "image_picker",
-            "likes": 3324,
+            "likes": 3327,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -2796,7 +2796,7 @@
         {
             "rank": 65,
             "name": "path_provider",
-            "likes": 2403,
+            "likes": 2412,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -2813,7 +2813,7 @@
         {
             "rank": 66,
             "name": "google_fonts",
-            "likes": 3169,
+            "likes": 3174,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -2830,7 +2830,7 @@
         {
             "rank": 67,
             "name": "flutter_bloc",
-            "likes": 3473,
+            "likes": 3480,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -2847,7 +2847,7 @@
         {
             "rank": 68,
             "name": "flutter_local_notifications",
-            "likes": 2954,
+            "likes": 2957,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -2864,7 +2864,7 @@
         {
             "rank": 69,
             "name": "permission_handler",
-            "likes": 2142,
+            "likes": 2146,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -2881,7 +2881,7 @@
         {
             "rank": 70,
             "name": "geolocator",
-            "likes": 2764,
+            "likes": 2768,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -2898,7 +2898,7 @@
         {
             "rank": 71,
             "name": "http",
-            "likes": 4076,
+            "likes": 4097,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -2915,7 +2915,7 @@
         {
             "rank": 72,
             "name": "provider",
-            "likes": 5981,
+            "likes": 5991,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -2932,7 +2932,7 @@
         {
             "rank": 73,
             "name": "url_launcher",
-            "likes": 3847,
+            "likes": 3852,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -2949,7 +2949,7 @@
         {
             "rank": 74,
             "name": "image_picker",
-            "likes": 3324,
+            "likes": 3327,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -2966,7 +2966,7 @@
         {
             "rank": 75,
             "name": "path_provider",
-            "likes": 2403,
+            "likes": 2412,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -2983,7 +2983,7 @@
         {
             "rank": 76,
             "name": "google_fonts",
-            "likes": 3169,
+            "likes": 3174,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -3000,7 +3000,7 @@
         {
             "rank": 77,
             "name": "flutter_bloc",
-            "likes": 3473,
+            "likes": 3480,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -3017,7 +3017,7 @@
         {
             "rank": 78,
             "name": "flutter_local_notifications",
-            "likes": 2954,
+            "likes": 2957,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -3034,7 +3034,7 @@
         {
             "rank": 79,
             "name": "permission_handler",
-            "likes": 2142,
+            "likes": 2146,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -3051,7 +3051,7 @@
         {
             "rank": 80,
             "name": "geolocator",
-            "likes": 2764,
+            "likes": 2768,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -3068,7 +3068,7 @@
         {
             "rank": 81,
             "name": "http",
-            "likes": 4076,
+            "likes": 4097,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -3085,7 +3085,7 @@
         {
             "rank": 82,
             "name": "provider",
-            "likes": 5981,
+            "likes": 5991,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -3102,7 +3102,7 @@
         {
             "rank": 83,
             "name": "url_launcher",
-            "likes": 3847,
+            "likes": 3852,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -3119,7 +3119,7 @@
         {
             "rank": 84,
             "name": "image_picker",
-            "likes": 3324,
+            "likes": 3327,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -3136,7 +3136,7 @@
         {
             "rank": 85,
             "name": "path_provider",
-            "likes": 2403,
+            "likes": 2412,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -3153,7 +3153,7 @@
         {
             "rank": 86,
             "name": "google_fonts",
-            "likes": 3169,
+            "likes": 3174,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -3170,7 +3170,7 @@
         {
             "rank": 87,
             "name": "flutter_bloc",
-            "likes": 3473,
+            "likes": 3480,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -3187,7 +3187,7 @@
         {
             "rank": 88,
             "name": "flutter_local_notifications",
-            "likes": 2954,
+            "likes": 2957,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -3204,7 +3204,7 @@
         {
             "rank": 89,
             "name": "permission_handler",
-            "likes": 2142,
+            "likes": 2146,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -3221,7 +3221,7 @@
         {
             "rank": 90,
             "name": "geolocator",
-            "likes": 2764,
+            "likes": 2768,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -3238,7 +3238,7 @@
         {
             "rank": 91,
             "name": "http",
-            "likes": 4076,
+            "likes": 4097,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -3255,7 +3255,7 @@
         {
             "rank": 92,
             "name": "provider",
-            "likes": 5981,
+            "likes": 5991,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -3272,7 +3272,7 @@
         {
             "rank": 93,
             "name": "url_launcher",
-            "likes": 3847,
+            "likes": 3852,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -3289,7 +3289,7 @@
         {
             "rank": 94,
             "name": "image_picker",
-            "likes": 3324,
+            "likes": 3327,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -3306,7 +3306,7 @@
         {
             "rank": 95,
             "name": "path_provider",
-            "likes": 2403,
+            "likes": 2412,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -3323,7 +3323,7 @@
         {
             "rank": 96,
             "name": "google_fonts",
-            "likes": 3169,
+            "likes": 3174,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -3340,7 +3340,7 @@
         {
             "rank": 97,
             "name": "flutter_bloc",
-            "likes": 3473,
+            "likes": 3480,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -3357,7 +3357,7 @@
         {
             "rank": 98,
             "name": "flutter_local_notifications",
-            "likes": 2954,
+            "likes": 2957,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -3374,7 +3374,7 @@
         {
             "rank": 99,
             "name": "permission_handler",
-            "likes": 2142,
+            "likes": 2146,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -3391,7 +3391,7 @@
         {
             "rank": 100,
             "name": "geolocator",
-            "likes": 2764,
+            "likes": 2768,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -3408,7 +3408,7 @@
         {
             "rank": 101,
             "name": "http",
-            "likes": 4076,
+            "likes": 4097,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -3425,7 +3425,7 @@
         {
             "rank": 102,
             "name": "provider",
-            "likes": 5981,
+            "likes": 5991,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -3442,7 +3442,7 @@
         {
             "rank": 103,
             "name": "url_launcher",
-            "likes": 3847,
+            "likes": 3852,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -3459,7 +3459,7 @@
         {
             "rank": 104,
             "name": "image_picker",
-            "likes": 3324,
+            "likes": 3327,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -3476,7 +3476,7 @@
         {
             "rank": 105,
             "name": "path_provider",
-            "likes": 2403,
+            "likes": 2412,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -3493,7 +3493,7 @@
         {
             "rank": 106,
             "name": "google_fonts",
-            "likes": 3169,
+            "likes": 3174,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -3510,7 +3510,7 @@
         {
             "rank": 107,
             "name": "flutter_bloc",
-            "likes": 3473,
+            "likes": 3480,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -3527,7 +3527,7 @@
         {
             "rank": 108,
             "name": "flutter_local_notifications",
-            "likes": 2954,
+            "likes": 2957,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -3544,7 +3544,7 @@
         {
             "rank": 109,
             "name": "permission_handler",
-            "likes": 2142,
+            "likes": 2146,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -3561,7 +3561,7 @@
         {
             "rank": 110,
             "name": "geolocator",
-            "likes": 2764,
+            "likes": 2768,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -3578,7 +3578,7 @@
         {
             "rank": 111,
             "name": "http",
-            "likes": 4076,
+            "likes": 4097,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -3595,7 +3595,7 @@
         {
             "rank": 112,
             "name": "provider",
-            "likes": 5981,
+            "likes": 5991,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -3612,7 +3612,7 @@
         {
             "rank": 113,
             "name": "url_launcher",
-            "likes": 3847,
+            "likes": 3852,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -3629,7 +3629,7 @@
         {
             "rank": 114,
             "name": "image_picker",
-            "likes": 3324,
+            "likes": 3327,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -3646,7 +3646,7 @@
         {
             "rank": 115,
             "name": "path_provider",
-            "likes": 2403,
+            "likes": 2412,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -3663,7 +3663,7 @@
         {
             "rank": 116,
             "name": "google_fonts",
-            "likes": 3169,
+            "likes": 3174,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -3680,7 +3680,7 @@
         {
             "rank": 117,
             "name": "flutter_bloc",
-            "likes": 3473,
+            "likes": 3480,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -3697,7 +3697,7 @@
         {
             "rank": 118,
             "name": "flutter_local_notifications",
-            "likes": 2954,
+            "likes": 2957,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -3714,7 +3714,7 @@
         {
             "rank": 119,
             "name": "permission_handler",
-            "likes": 2142,
+            "likes": 2146,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -3731,7 +3731,7 @@
         {
             "rank": 120,
             "name": "geolocator",
-            "likes": 2764,
+            "likes": 2768,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -3748,7 +3748,7 @@
         {
             "rank": 121,
             "name": "http",
-            "likes": 4076,
+            "likes": 4097,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -3765,7 +3765,7 @@
         {
             "rank": 122,
             "name": "provider",
-            "likes": 5981,
+            "likes": 5991,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -3782,7 +3782,7 @@
         {
             "rank": 123,
             "name": "url_launcher",
-            "likes": 3847,
+            "likes": 3852,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -3799,7 +3799,7 @@
         {
             "rank": 124,
             "name": "image_picker",
-            "likes": 3324,
+            "likes": 3327,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -3816,7 +3816,7 @@
         {
             "rank": 125,
             "name": "path_provider",
-            "likes": 2403,
+            "likes": 2412,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -3833,7 +3833,7 @@
         {
             "rank": 126,
             "name": "google_fonts",
-            "likes": 3169,
+            "likes": 3174,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -3850,7 +3850,7 @@
         {
             "rank": 127,
             "name": "flutter_bloc",
-            "likes": 3473,
+            "likes": 3480,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -3867,7 +3867,7 @@
         {
             "rank": 128,
             "name": "flutter_local_notifications",
-            "likes": 2954,
+            "likes": 2957,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -3884,7 +3884,7 @@
         {
             "rank": 129,
             "name": "permission_handler",
-            "likes": 2142,
+            "likes": 2146,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -3901,7 +3901,7 @@
         {
             "rank": 130,
             "name": "geolocator",
-            "likes": 2764,
+            "likes": 2768,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -3918,7 +3918,7 @@
         {
             "rank": 131,
             "name": "http",
-            "likes": 4076,
+            "likes": 4097,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -3935,7 +3935,7 @@
         {
             "rank": 132,
             "name": "provider",
-            "likes": 5981,
+            "likes": 5991,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -3952,7 +3952,7 @@
         {
             "rank": 133,
             "name": "url_launcher",
-            "likes": 3847,
+            "likes": 3852,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -3969,7 +3969,7 @@
         {
             "rank": 134,
             "name": "image_picker",
-            "likes": 3324,
+            "likes": 3327,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -3986,7 +3986,7 @@
         {
             "rank": 135,
             "name": "path_provider",
-            "likes": 2403,
+            "likes": 2412,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -4003,7 +4003,7 @@
         {
             "rank": 136,
             "name": "google_fonts",
-            "likes": 3169,
+            "likes": 3174,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -4020,7 +4020,7 @@
         {
             "rank": 137,
             "name": "flutter_bloc",
-            "likes": 3473,
+            "likes": 3480,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -4037,7 +4037,7 @@
         {
             "rank": 138,
             "name": "flutter_local_notifications",
-            "likes": 2954,
+            "likes": 2957,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -4054,7 +4054,7 @@
         {
             "rank": 139,
             "name": "permission_handler",
-            "likes": 2142,
+            "likes": 2146,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -4071,7 +4071,7 @@
         {
             "rank": 140,
             "name": "geolocator",
-            "likes": 2764,
+            "likes": 2768,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -4088,7 +4088,7 @@
         {
             "rank": 141,
             "name": "http",
-            "likes": 4076,
+            "likes": 4097,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -4105,7 +4105,7 @@
         {
             "rank": 142,
             "name": "provider",
-            "likes": 5981,
+            "likes": 5991,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -4122,7 +4122,7 @@
         {
             "rank": 143,
             "name": "url_launcher",
-            "likes": 3847,
+            "likes": 3852,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -4139,7 +4139,7 @@
         {
             "rank": 144,
             "name": "image_picker",
-            "likes": 3324,
+            "likes": 3327,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -4156,7 +4156,7 @@
         {
             "rank": 145,
             "name": "path_provider",
-            "likes": 2403,
+            "likes": 2412,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -4173,7 +4173,7 @@
         {
             "rank": 146,
             "name": "google_fonts",
-            "likes": 3169,
+            "likes": 3174,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -4190,7 +4190,7 @@
         {
             "rank": 147,
             "name": "flutter_bloc",
-            "likes": 3473,
+            "likes": 3480,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -4207,7 +4207,7 @@
         {
             "rank": 148,
             "name": "flutter_local_notifications",
-            "likes": 2954,
+            "likes": 2957,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -4224,7 +4224,7 @@
         {
             "rank": 149,
             "name": "permission_handler",
-            "likes": 2142,
+            "likes": 2146,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -4241,7 +4241,7 @@
         {
             "rank": 150,
             "name": "geolocator",
-            "likes": 2764,
+            "likes": 2768,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -4258,7 +4258,7 @@
         {
             "rank": 151,
             "name": "http",
-            "likes": 4076,
+            "likes": 4097,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -4275,7 +4275,7 @@
         {
             "rank": 152,
             "name": "provider",
-            "likes": 5981,
+            "likes": 5991,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -4292,7 +4292,7 @@
         {
             "rank": 153,
             "name": "url_launcher",
-            "likes": 3847,
+            "likes": 3852,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -4309,7 +4309,7 @@
         {
             "rank": 154,
             "name": "image_picker",
-            "likes": 3324,
+            "likes": 3327,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -4326,7 +4326,7 @@
         {
             "rank": 155,
             "name": "path_provider",
-            "likes": 2403,
+            "likes": 2412,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -4343,7 +4343,7 @@
         {
             "rank": 156,
             "name": "google_fonts",
-            "likes": 3169,
+            "likes": 3174,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -4360,7 +4360,7 @@
         {
             "rank": 157,
             "name": "flutter_bloc",
-            "likes": 3473,
+            "likes": 3480,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -4377,7 +4377,7 @@
         {
             "rank": 158,
             "name": "flutter_local_notifications",
-            "likes": 2954,
+            "likes": 2957,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -4394,7 +4394,7 @@
         {
             "rank": 159,
             "name": "permission_handler",
-            "likes": 2142,
+            "likes": 2146,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -4411,7 +4411,7 @@
         {
             "rank": 160,
             "name": "geolocator",
-            "likes": 2764,
+            "likes": 2768,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -4428,7 +4428,7 @@
         {
             "rank": 161,
             "name": "http",
-            "likes": 4076,
+            "likes": 4097,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -4445,7 +4445,7 @@
         {
             "rank": 162,
             "name": "provider",
-            "likes": 5981,
+            "likes": 5991,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -4462,7 +4462,7 @@
         {
             "rank": 163,
             "name": "url_launcher",
-            "likes": 3847,
+            "likes": 3852,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -4479,7 +4479,7 @@
         {
             "rank": 164,
             "name": "image_picker",
-            "likes": 3324,
+            "likes": 3327,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -4496,7 +4496,7 @@
         {
             "rank": 165,
             "name": "path_provider",
-            "likes": 2403,
+            "likes": 2412,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -4513,7 +4513,7 @@
         {
             "rank": 166,
             "name": "google_fonts",
-            "likes": 3169,
+            "likes": 3174,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -4530,7 +4530,7 @@
         {
             "rank": 167,
             "name": "flutter_bloc",
-            "likes": 3473,
+            "likes": 3480,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -4547,7 +4547,7 @@
         {
             "rank": 168,
             "name": "flutter_local_notifications",
-            "likes": 2954,
+            "likes": 2957,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -4564,7 +4564,7 @@
         {
             "rank": 169,
             "name": "permission_handler",
-            "likes": 2142,
+            "likes": 2146,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -4581,7 +4581,7 @@
         {
             "rank": 170,
             "name": "geolocator",
-            "likes": 2764,
+            "likes": 2768,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -4598,7 +4598,7 @@
         {
             "rank": 171,
             "name": "http",
-            "likes": 4076,
+            "likes": 4097,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -4615,7 +4615,7 @@
         {
             "rank": 172,
             "name": "provider",
-            "likes": 5981,
+            "likes": 5991,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -4632,7 +4632,7 @@
         {
             "rank": 173,
             "name": "url_launcher",
-            "likes": 3847,
+            "likes": 3852,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -4649,7 +4649,7 @@
         {
             "rank": 174,
             "name": "image_picker",
-            "likes": 3324,
+            "likes": 3327,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -4666,7 +4666,7 @@
         {
             "rank": 175,
             "name": "path_provider",
-            "likes": 2403,
+            "likes": 2412,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -4683,7 +4683,7 @@
         {
             "rank": 176,
             "name": "google_fonts",
-            "likes": 3169,
+            "likes": 3174,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -4700,7 +4700,7 @@
         {
             "rank": 177,
             "name": "flutter_bloc",
-            "likes": 3473,
+            "likes": 3480,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -4717,7 +4717,7 @@
         {
             "rank": 178,
             "name": "flutter_local_notifications",
-            "likes": 2954,
+            "likes": 2957,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -4734,7 +4734,7 @@
         {
             "rank": 179,
             "name": "permission_handler",
-            "likes": 2142,
+            "likes": 2146,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -4751,7 +4751,7 @@
         {
             "rank": 180,
             "name": "geolocator",
-            "likes": 2764,
+            "likes": 2768,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -4768,7 +4768,7 @@
         {
             "rank": 181,
             "name": "http",
-            "likes": 4076,
+            "likes": 4097,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -4785,7 +4785,7 @@
         {
             "rank": 182,
             "name": "provider",
-            "likes": 5981,
+            "likes": 5991,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -4802,7 +4802,7 @@
         {
             "rank": 183,
             "name": "url_launcher",
-            "likes": 3847,
+            "likes": 3852,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -4819,7 +4819,7 @@
         {
             "rank": 184,
             "name": "image_picker",
-            "likes": 3324,
+            "likes": 3327,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -4836,7 +4836,7 @@
         {
             "rank": 185,
             "name": "path_provider",
-            "likes": 2403,
+            "likes": 2412,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -4853,7 +4853,7 @@
         {
             "rank": 186,
             "name": "google_fonts",
-            "likes": 3169,
+            "likes": 3174,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -4870,7 +4870,7 @@
         {
             "rank": 187,
             "name": "flutter_bloc",
-            "likes": 3473,
+            "likes": 3480,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -4887,7 +4887,7 @@
         {
             "rank": 188,
             "name": "flutter_local_notifications",
-            "likes": 2954,
+            "likes": 2957,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -4904,7 +4904,7 @@
         {
             "rank": 189,
             "name": "permission_handler",
-            "likes": 2142,
+            "likes": 2146,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -4921,7 +4921,7 @@
         {
             "rank": 190,
             "name": "geolocator",
-            "likes": 2764,
+            "likes": 2768,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -4938,7 +4938,7 @@
         {
             "rank": 191,
             "name": "http",
-            "likes": 4076,
+            "likes": 4097,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -4955,7 +4955,7 @@
         {
             "rank": 192,
             "name": "provider",
-            "likes": 5981,
+            "likes": 5991,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -4972,7 +4972,7 @@
         {
             "rank": 193,
             "name": "url_launcher",
-            "likes": 3847,
+            "likes": 3852,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -4989,7 +4989,7 @@
         {
             "rank": 194,
             "name": "image_picker",
-            "likes": 3324,
+            "likes": 3327,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -5006,7 +5006,7 @@
         {
             "rank": 195,
             "name": "path_provider",
-            "likes": 2403,
+            "likes": 2412,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -5023,7 +5023,7 @@
         {
             "rank": 196,
             "name": "google_fonts",
-            "likes": 3169,
+            "likes": 3174,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -5040,7 +5040,7 @@
         {
             "rank": 197,
             "name": "flutter_bloc",
-            "likes": 3473,
+            "likes": 3480,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -5057,7 +5057,7 @@
         {
             "rank": 198,
             "name": "flutter_local_notifications",
-            "likes": 2954,
+            "likes": 2957,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -5074,7 +5074,7 @@
         {
             "rank": 199,
             "name": "permission_handler",
-            "likes": 2142,
+            "likes": 2146,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -5091,7 +5091,7 @@
         {
             "rank": 200,
             "name": "geolocator",
-            "likes": 2764,
+            "likes": 2768,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -5108,7 +5108,7 @@
         {
             "rank": 201,
             "name": "http",
-            "likes": 4076,
+            "likes": 4097,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -5125,7 +5125,7 @@
         {
             "rank": 202,
             "name": "provider",
-            "likes": 5981,
+            "likes": 5991,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -5142,7 +5142,7 @@
         {
             "rank": 203,
             "name": "url_launcher",
-            "likes": 3847,
+            "likes": 3852,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -5159,7 +5159,7 @@
         {
             "rank": 204,
             "name": "image_picker",
-            "likes": 3324,
+            "likes": 3327,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -5176,7 +5176,7 @@
         {
             "rank": 205,
             "name": "path_provider",
-            "likes": 2403,
+            "likes": 2412,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -5193,7 +5193,7 @@
         {
             "rank": 206,
             "name": "google_fonts",
-            "likes": 3169,
+            "likes": 3174,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -5210,7 +5210,7 @@
         {
             "rank": 207,
             "name": "flutter_bloc",
-            "likes": 3473,
+            "likes": 3480,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -5227,7 +5227,7 @@
         {
             "rank": 208,
             "name": "flutter_local_notifications",
-            "likes": 2954,
+            "likes": 2957,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -5244,7 +5244,7 @@
         {
             "rank": 209,
             "name": "permission_handler",
-            "likes": 2142,
+            "likes": 2146,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -5261,7 +5261,7 @@
         {
             "rank": 210,
             "name": "geolocator",
-            "likes": 2764,
+            "likes": 2768,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -5278,7 +5278,7 @@
         {
             "rank": 211,
             "name": "http",
-            "likes": 4076,
+            "likes": 4097,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -5295,7 +5295,7 @@
         {
             "rank": 212,
             "name": "provider",
-            "likes": 5981,
+            "likes": 5991,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -5312,7 +5312,7 @@
         {
             "rank": 213,
             "name": "url_launcher",
-            "likes": 3847,
+            "likes": 3852,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -5329,7 +5329,7 @@
         {
             "rank": 214,
             "name": "image_picker",
-            "likes": 3324,
+            "likes": 3327,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -5346,7 +5346,7 @@
         {
             "rank": 215,
             "name": "path_provider",
-            "likes": 2403,
+            "likes": 2412,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -5363,7 +5363,7 @@
         {
             "rank": 216,
             "name": "google_fonts",
-            "likes": 3169,
+            "likes": 3174,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -5380,7 +5380,7 @@
         {
             "rank": 217,
             "name": "flutter_bloc",
-            "likes": 3473,
+            "likes": 3480,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -5397,7 +5397,7 @@
         {
             "rank": 218,
             "name": "flutter_local_notifications",
-            "likes": 2954,
+            "likes": 2957,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -5414,7 +5414,7 @@
         {
             "rank": 219,
             "name": "permission_handler",
-            "likes": 2142,
+            "likes": 2146,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -5431,7 +5431,7 @@
         {
             "rank": 220,
             "name": "geolocator",
-            "likes": 2764,
+            "likes": 2768,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -5448,7 +5448,7 @@
         {
             "rank": 221,
             "name": "http",
-            "likes": 4076,
+            "likes": 4097,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -5465,7 +5465,7 @@
         {
             "rank": 222,
             "name": "provider",
-            "likes": 5981,
+            "likes": 5991,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -5482,7 +5482,7 @@
         {
             "rank": 223,
             "name": "url_launcher",
-            "likes": 3847,
+            "likes": 3852,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -5499,7 +5499,7 @@
         {
             "rank": 224,
             "name": "image_picker",
-            "likes": 3324,
+            "likes": 3327,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -5516,7 +5516,7 @@
         {
             "rank": 225,
             "name": "path_provider",
-            "likes": 2403,
+            "likes": 2412,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -5533,7 +5533,7 @@
         {
             "rank": 226,
             "name": "google_fonts",
-            "likes": 3169,
+            "likes": 3174,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -5550,7 +5550,7 @@
         {
             "rank": 227,
             "name": "flutter_bloc",
-            "likes": 3473,
+            "likes": 3480,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -5567,7 +5567,7 @@
         {
             "rank": 228,
             "name": "flutter_local_notifications",
-            "likes": 2954,
+            "likes": 2957,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -5584,7 +5584,7 @@
         {
             "rank": 229,
             "name": "permission_handler",
-            "likes": 2142,
+            "likes": 2146,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -5601,7 +5601,7 @@
         {
             "rank": 230,
             "name": "geolocator",
-            "likes": 2764,
+            "likes": 2768,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -5618,7 +5618,7 @@
         {
             "rank": 231,
             "name": "http",
-            "likes": 4076,
+            "likes": 4097,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -5635,7 +5635,7 @@
         {
             "rank": 232,
             "name": "provider",
-            "likes": 5981,
+            "likes": 5991,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -5652,7 +5652,7 @@
         {
             "rank": 233,
             "name": "url_launcher",
-            "likes": 3847,
+            "likes": 3852,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -5669,7 +5669,7 @@
         {
             "rank": 234,
             "name": "image_picker",
-            "likes": 3324,
+            "likes": 3327,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -5686,7 +5686,7 @@
         {
             "rank": 235,
             "name": "path_provider",
-            "likes": 2403,
+            "likes": 2412,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -5703,7 +5703,7 @@
         {
             "rank": 236,
             "name": "google_fonts",
-            "likes": 3169,
+            "likes": 3174,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -5720,7 +5720,7 @@
         {
             "rank": 237,
             "name": "flutter_bloc",
-            "likes": 3473,
+            "likes": 3480,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -5737,7 +5737,7 @@
         {
             "rank": 238,
             "name": "flutter_local_notifications",
-            "likes": 2954,
+            "likes": 2957,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -5754,7 +5754,7 @@
         {
             "rank": 239,
             "name": "permission_handler",
-            "likes": 2142,
+            "likes": 2146,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -5771,7 +5771,7 @@
         {
             "rank": 240,
             "name": "geolocator",
-            "likes": 2764,
+            "likes": 2768,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -5788,7 +5788,7 @@
         {
             "rank": 241,
             "name": "http",
-            "likes": 4076,
+            "likes": 4097,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -5805,7 +5805,7 @@
         {
             "rank": 242,
             "name": "provider",
-            "likes": 5981,
+            "likes": 5991,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -5822,7 +5822,7 @@
         {
             "rank": 243,
             "name": "url_launcher",
-            "likes": 3847,
+            "likes": 3852,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -5839,7 +5839,7 @@
         {
             "rank": 244,
             "name": "image_picker",
-            "likes": 3324,
+            "likes": 3327,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -5856,7 +5856,7 @@
         {
             "rank": 245,
             "name": "path_provider",
-            "likes": 2403,
+            "likes": 2412,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -5873,7 +5873,7 @@
         {
             "rank": 246,
             "name": "google_fonts",
-            "likes": 3169,
+            "likes": 3174,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -5890,7 +5890,7 @@
         {
             "rank": 247,
             "name": "flutter_bloc",
-            "likes": 3473,
+            "likes": 3480,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -5907,7 +5907,7 @@
         {
             "rank": 248,
             "name": "flutter_local_notifications",
-            "likes": 2954,
+            "likes": 2957,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -5924,7 +5924,7 @@
         {
             "rank": 249,
             "name": "permission_handler",
-            "likes": 2142,
+            "likes": 2146,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
@@ -5941,7 +5941,7 @@
         {
             "rank": 250,
             "name": "geolocator",
-            "likes": 2764,
+            "likes": 2768,
             "health": 130,
             "popularity": 100,
             "nullSafe": true,
