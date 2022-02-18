@@ -1,0 +1,339 @@
+starts fetching pub dev stats...
+Fetching data for 10/250 packages ...
+Fetching data for 20/250 packages ...
+Fetching data for 30/250 packages ...
+Fetching data for 40/250 packages ...
+Fetching data for 50/250 packages ...
+Fetching data for 60/250 packages ...
+Fetching data for 70/250 packages ...
+Fetching data for 80/250 packages ...
+Fetching data for 90/250 packages ...
+Fetching data for 100/250 packages ...
+Fetching data for 110/250 packages ...
+Fetching data for 120/250 packages ...
+Fetching data for 130/250 packages ...
+Fetching data for 140/250 packages ...
+Fetching data for 150/250 packages ...
+Fetching data for 160/250 packages ...
+Fetching data for 170/250 packages ...
+Fetching data for 180/250 packages ...
+Fetching data for 190/250 packages ...
+Fetching data for 200/250 packages ...
+Fetching data for 210/250 packages ...
+Fetching data for 220/250 packages ...
+Fetching data for 230/250 packages ...
+Fetching data for 240/250 packages ...
+Fetching data for 250/250 packages ...
+
+
+Google own a total of 21/250 top packages
+┌─────────┬──────┬──────────────────────────────┬───────┬────────┬────────────┬──────────┬──────────┬────────────┬───────────────┬─────────┬──────┬───────┬───────┬───────┬─────────┐
+│ (index) │ rank │             name             │ likes │ health │ popularity │ nullSafe │ endorsed │  version   │   developer   │ android │ ios  │ linux │ macos │  web  │ windows │
+├─────────┼──────┼──────────────────────────────┼───────┼────────┼────────────┼──────────┼──────────┼────────────┼───────────────┼─────────┼──────┼───────┼───────┼───────┼─────────┤
+│    0    │  3   │     'shared_preferences'     │ 5002  │  120   │    100     │   true   │   true   │  '2.0.13'  │ 'flutter.dev' │  true   │ true │ true  │ true  │ true  │  true   │
+│    1    │  5   │        'url_launcher'        │ 3916  │  130   │    100     │   true   │   true   │  '6.0.20'  │ 'flutter.dev' │  true   │ true │ true  │ true  │ true  │  true   │
+│    2    │  7   │         'animations'         │ 3485  │  130   │     99     │   true   │  false   │  '2.0.2'   │ 'flutter.dev' │  true   │ true │ true  │ true  │ true  │  true   │
+│    3    │  10  │        'image_picker'        │ 3398  │  130   │    100     │   true   │  false   │ '0.8.4+9'  │ 'flutter.dev' │  true   │ true │ false │ false │ true  │  false  │
+│    4    │  23  │       'path_provider'        │ 2462  │  130   │    100     │   true   │   true   │  '2.0.9'   │ 'flutter.dev' │  true   │ true │ true  │ true  │ false │  true   │
+│    5    │  30  │    'google_maps_flutter'     │ 2211  │  120   │    100     │   true   │  false   │  '2.1.1'   │ 'flutter.dev' │  true   │ true │ false │ false │ false │  false  │
+│    6    │  36  │      'webview_flutter'       │ 1949  │  120   │    100     │   true   │  false   │  '3.0.0'   │ 'flutter.dev' │  true   │ true │ false │ false │ false │  false  │
+│    7    │  50  │       'google_sign_in'       │ 1542  │  120   │    100     │   true   │  false   │  '5.2.3'   │ 'flutter.dev' │  true   │ true │ false │ false │ true  │  false  │
+│    8    │  59  │        'video_player'        │ 1425  │  130   │    100     │   true   │  false   │  '2.2.18'  │ 'flutter.dev' │  true   │ true │ false │ false │ true  │  false  │
+│    9    │  80  │         'local_auth'         │ 1087  │  130   │     99     │   true   │  false   │  '1.1.11'  │ 'flutter.dev' │  true   │ true │ false │ false │ false │  false  │
+│   10    │  82  │     'google_mobile_ads'      │ 1078  │  115   │     99     │   true   │  false   │  '1.1.0'   │ 'google.dev'  │  true   │ true │ false │ false │ false │  false  │
+│   11    │  91  │           'camera'           │  983  │  120   │    100     │   true   │  false   │ '0.9.4+14' │ 'flutter.dev' │  true   │ true │ false │ false │ true  │  false  │
+│   12    │  99  │      'in_app_purchase'       │  935  │  110   │     98     │   true   │  false   │  '2.0.1'   │ 'flutter.dev' │  true   │ true │ false │ false │ false │  false  │
+│   13    │ 117  │ 'scrollable_positioned_list' │  800  │  120   │     99     │   true   │  false   │  '0.2.3'   │ 'google.dev'  │  true   │ true │ true  │ true  │ true  │  true   │
+│   14    │ 179  │         'go_router'          │  585  │  130   │     96     │   true   │   true   │  '3.0.1'   │ 'flutter.dev' │  true   │ true │ true  │ true  │ true  │  true   │
+│   15    │ 186  │      'flutter_markdown'      │  573  │  130   │     99     │   true   │  false   │  '0.6.9'   │ 'flutter.dev' │  true   │ true │ true  │ true  │ true  │  true   │
+│   16    │ 224  │      'json_annotation'       │  452  │  120   │    100     │   true   │  false   │  '4.4.0'   │ 'google.dev'  │  true   │ true │ true  │ true  │ true  │  true   │
+│   17    │ 228  │       'flutter_lints'        │  446  │  130   │    100     │   true   │  false   │  '1.0.4'   │ 'flutter.dev' │  true   │ true │ true  │ true  │ true  │  true   │
+│   18    │ 230  │        'built_value'         │  442  │  130   │     99     │   true   │   true   │  '8.1.4'   │ 'google.dev'  │  true   │ true │ true  │ true  │ true  │  true   │
+│   19    │ 235  │         'googleapis'         │  434  │  125   │     98     │   true   │   true   │  '8.0.0'   │ 'google.dev'  │  true   │ true │ true  │ true  │ true  │  true   │
+│   20    │ 247  │      'cupertino_icons'       │  413  │  110   │    100     │   true   │  false   │  '1.0.4'   │ 'flutter.dev' │  true   │ true │ true  │ true  │ true  │  true   │
+└─────────┴──────┴──────────────────────────────┴───────┴────────┴────────────┴──────────┴──────────┴────────────┴───────────────┴─────────┴──────┴───────┴───────┴───────┴─────────┘
+
+
+Firebase Packages
+┌─────────┬──────┬──────────────────────────┬───────┬────────┬────────────┬──────────┬──────────┬──────────┬───────────────────────┬─────────┬──────┬───────┬───────┬───────┬─────────┐
+│ (index) │ rank │           name           │ likes │ health │ popularity │ nullSafe │ endorsed │ version  │       developer       │ android │ ios  │ linux │ macos │  web  │ windows │
+├─────────┼──────┼──────────────────────────┼───────┼────────┼────────────┼──────────┼──────────┼──────────┼───────────────────────┼─────────┼──────┼───────┼───────┼───────┼─────────┤
+│    0    │  32  │     'firebase_auth'      │ 2188  │  120   │    100     │   true   │   true   │ '3.3.7'  │ 'firebase.google.com' │  true   │ true │ false │ true  │ true  │  false  │
+│    1    │  33  │    'cloud_firestore'     │ 2004  │  120   │    100     │   true   │   true   │ '3.1.8'  │ 'firebase.google.com' │  true   │ true │ false │ true  │ true  │  false  │
+│    2    │  34  │   'firebase_messaging'   │ 1998  │  120   │    100     │   true   │   true   │ '11.2.6' │ 'firebase.google.com' │  true   │ true │ false │ true  │ true  │  false  │
+│    3    │  48  │     'firebase_core'      │ 1613  │  120   │    100     │   true   │   true   │ '1.12.0' │ 'firebase.google.com' │  true   │ true │ false │ true  │ true  │  false  │
+│    4    │ 110  │    'firebase_storage'    │  820  │  120   │    100     │   true   │   true   │ '10.2.7' │ 'firebase.google.com' │  true   │ true │ false │ true  │ true  │  false  │
+│    5    │ 158  │   'firebase_analytics'   │  646  │  120   │    100     │   true   │  false   │ '9.1.0'  │ 'firebase.google.com' │  true   │ true │ false │ true  │ true  │  false  │
+│    6    │ 175  │  'firebase_crashlytics'  │  597  │  120   │    100     │   true   │   true   │ '2.5.1'  │ 'firebase.google.com' │  true   │ true │ false │ true  │ false │  false  │
+│    7    │ 217  │ 'firebase_dynamic_links' │  462  │  130   │     99     │   true   │  false   │ '4.0.6'  │ 'firebase.google.com' │  true   │ true │ false │ false │ false │  false  │
+└─────────┴──────┴──────────────────────────┴───────┴────────┴────────────┴──────────┴──────────┴──────────┴───────────────────────┴─────────┴──────┴───────┴───────┴───────┴─────────┘
+
+
+State Management Packages
+┌─────────┬──────┬────────────┬───────┬────────┬────────────┬──────────┬──────────┬──────────────────────┬────────────────────────┬─────────┬──────┬───────┬───────┬──────┬─────────┐
+│ (index) │ rank │    name    │ likes │ health │ popularity │ nullSafe │ endorsed │       version        │       developer        │ android │ ios  │ linux │ macos │ web  │ windows │
+├─────────┼──────┼────────────┼───────┼────────┼────────────┼──────────┼──────────┼──────────────────────┼────────────────────────┼─────────┼──────┼───────┼───────┼──────┼─────────┤
+│    0    │  1   │   'get'    │ 8055  │  120   │    100     │   true   │  false   │ '4.6.15.0.0-beta.30' │      'getx.site'       │  true   │ true │ true  │ true  │ true │  true   │
+│    1    │  2   │ 'provider' │ 6083  │  130   │    100     │   true   │   true   │       '6.0.2'        │  'dash-overflow.net'   │  true   │ true │ true  │ true  │ true │  true   │
+│    2    │  53  │  'rxdart'  │ 1529  │  115   │    100     │   true   │   true   │       '0.27.3'       │ 'fluttercommunity.dev' │  true   │ true │ true  │ true  │ true │  true   │
+│    3    │  56  │   'bloc'   │ 1502  │  120   │     99     │   true   │   true   │       '8.0.2'        │   'bloclibrary.dev'    │  true   │ true │ true  │ true  │ true │  true   │
+│    4    │  61  │ 'riverpod' │ 1406  │  120   │     97     │   true   │  false   │  '1.0.32.0.0-dev.3'  │  'dash-overflow.net'   │  true   │ true │ true  │ true  │ true │  true   │
+│    5    │ 116  │   'mobx'   │  802  │  130   │     99     │   true   │   true   │      '2.0.6+1'       │ 'dart.pixelingene.com' │  true   │ true │ true  │ true  │ true │  true   │
+└─────────┴──────┴────────────┴───────┴────────┴────────────┴──────────┴──────────┴──────────────────────┴────────────────────────┴─────────┴──────┴───────┴───────┴──────┴─────────┘
+
+
+Top 250 Flutter Packages
+┌─────────┬──────┬──────────────────────────────────┬───────┬────────┬────────────┬──────────┬──────────┬──────────────────────────────────┬────────────────────────┬─────────┬───────┬───────┬───────┬───────┬─────────┐
+│ (index) │ rank │               name               │ likes │ health │ popularity │ nullSafe │ endorsed │             version              │       developer        │ android │  ios  │ linux │ macos │  web  │ windows │
+├─────────┼──────┼──────────────────────────────────┼───────┼────────┼────────────┼──────────┼──────────┼──────────────────────────────────┼────────────────────────┼─────────┼───────┼───────┼───────┼───────┼─────────┤
+│    0    │  1   │              'get'               │ 8055  │  120   │    100     │   true   │  false   │       '4.6.15.0.0-beta.30'       │      'getx.site'       │  true   │ true  │ true  │ true  │ true  │  true   │
+│    1    │  2   │            'provider'            │ 6083  │  130   │    100     │   true   │   true   │             '6.0.2'              │  'dash-overflow.net'   │  true   │ true  │ true  │ true  │ true  │  true   │
+│    2    │  3   │       'shared_preferences'       │ 5002  │  120   │    100     │   true   │   true   │             '2.0.13'             │     'flutter.dev'      │  true   │ true  │ true  │ true  │ true  │  true   │
+│    3    │  4   │              'http'              │ 4172  │  130   │    100     │   true   │  false   │             '0.13.4'             │       'dart.dev'       │  true   │ true  │ true  │ true  │ true  │  true   │
+│    4    │  5   │          'url_launcher'          │ 3916  │  130   │    100     │   true   │   true   │             '6.0.20'             │     'flutter.dev'      │  true   │ true  │ true  │ true  │ true  │  true   │
+│    5    │  6   │          'flutter_bloc'          │ 3561  │  130   │    100     │   true   │   true   │             '8.0.1'              │   'bloclibrary.dev'    │  true   │ true  │ true  │ true  │ true  │  true   │
+│    6    │  7   │           'animations'           │ 3485  │  130   │     99     │   true   │  false   │             '2.0.2'              │     'flutter.dev'      │  true   │ true  │ true  │ true  │ true  │  true   │
+│    7    │  8   │              'dio'               │ 3478  │  120   │    100     │   true   │  false   │        '4.0.44.0.5-beta1'        │  'flutterchina.club'   │  true   │ true  │ true  │ true  │ true  │  true   │
+│    8    │  9   │     'flutter_launcher_icons'     │ 3426  │  100   │    100     │   true   │  false   │             '0.9.2'              │ 'fluttercommunity.dev' │  true   │ true  │ true  │ true  │ false │  true   │
+│    9    │  10  │          'image_picker'          │ 3398  │  130   │    100     │   true   │  false   │            '0.8.4+9'             │     'flutter.dev'      │  true   │ true  │ false │ false │ true  │  false  │
+│   10    │  11  │          'google_fonts'          │ 3234  │  130   │    100     │   true   │   true   │             '2.3.1'              │     'material.io'      │  true   │ true  │ true  │ true  │ true  │  true   │
+│   11    │  12  │  'flutter_local_notifications'   │ 3041  │  130   │    100     │   true   │   true   │       '9.3.210.0.0-dev.8'        │     'dexterx.dev'      │  true   │ true  │ true  │ true  │ false │  false  │
+│   12    │  13  │              'hive'              │ 2986  │  120   │     99     │   true   │  false   │             '2.0.5'              │      'hivedb.dev'      │  true   │ true  │ true  │ true  │ true  │  true   │
+│   13    │  14  │     'flutter_native_splash'      │ 2955  │  130   │     99     │   true   │   true   │             '2.0.4'              │    'jonhanson.net'     │  true   │ true  │ true  │ true  │ true  │  true   │
+│   14    │  15  │      'cached_network_image'      │ 2899  │  120   │    100     │   true   │  false   │             '3.2.0'              │     'baseflow.com'     │  true   │ true  │ false │ true  │ false │  false  │
+│   15    │  16  │        'flutter_slidable'        │ 2844  │  120   │    100     │   true   │   true   │             '1.2.0'              │   'romainrastel.com'   │  true   │ true  │ true  │ true  │ true  │  true   │
+│   16    │  17  │           'geolocator'           │ 2815  │  130   │    100     │   true   │   true   │             '8.2.0'              │     'baseflow.com'     │  true   │ true  │ false │ true  │ true  │  true   │
+│   17    │  18  │       'animated_text_kit'        │ 2703  │  120   │     99     │   true   │   true   │             '4.2.1'              │   'ayushagarwal.ml'    │  true   │ true  │ true  │ true  │ true  │  true   │
+│   18    │  19  │        'carousel_slider'         │ 2644  │  120   │    100     │   true   │  false   │             '4.0.0'              │     'serenader.me'     │  true   │ true  │ true  │ true  │ true  │  true   │
+│   19    │  20  │            'sqflite'             │ 2592  │  130   │    100     │   true   │   true   │             '2.0.2'              │     'tekartik.com'     │  true   │ true  │ false │ true  │ false │  false  │
+│   20    │  21  │              'intl'              │ 2543  │  110   │    100     │   true   │   true   │             '0.17.0'             │       'dart.dev'       │  true   │ true  │ true  │ true  │ true  │  true   │
+│   21    │  22  │            'fl_chart'            │ 2495  │  120   │     99     │   true   │  false   │             '0.45.0'             │   'flutter4fun.com'    │  true   │ true  │ true  │ true  │ true  │  true   │
+│   22    │  23  │         'path_provider'          │ 2462  │  130   │    100     │   true   │   true   │             '2.0.9'              │     'flutter.dev'      │  true   │ true  │ true  │ true  │ false │  true   │
+│   23    │  24  │          'flutter_svg'           │ 2378  │  120   │    100     │   true   │   true   │             '1.0.3'              │     'dnfield.dev'      │  true   │ true  │ true  │ true  │ true  │  true   │
+│   24    │  25  │      'font_awesome_flutter'      │ 2288  │  120   │    100     │   true   │   true   │        '9.2.010.0.0-beta'        │ 'fluttercommunity.dev' │  true   │ true  │ true  │ true  │ true  │  true   │
+│   25    │  26  │            'shimmer'             │ 2276  │  130   │    100     │   true   │  false   │             '2.0.0'              │      'hunghd.dev'      │  true   │ true  │ true  │ true  │ true  │  true   │
+│   26    │  27  │         'auto_size_text'         │ 2270  │  130   │    100     │   true   │   true   │             '3.0.0'              │      'honey.dev'       │  true   │ true  │ true  │ true  │ true  │  true   │
+│   27    │  28  │        'flutter_spinkit'         │ 2239  │  105   │    100     │   true   │  false   │             '5.1.0'              │      'ogbomo.com'      │  true   │ true  │ true  │ true  │ true  │  true   │
+│   28    │  29  │       'permission_handler'       │ 2214  │  130   │    100     │   true   │  false   │             '9.1.0'              │     'baseflow.com'     │  true   │ true  │ false │ false │ false │  false  │
+│   29    │  30  │      'google_maps_flutter'       │ 2211  │  120   │    100     │   true   │  false   │             '2.1.1'              │     'flutter.dev'      │  true   │ true  │ false │ false │ false │  false  │
+│   30    │  31  │           'animate_do'           │ 2211  │  120   │     98     │   true   │  false   │             '2.1.0'              │ 'fernando-herrera.com' │  true   │ true  │ true  │ true  │ true  │  true   │
+│   31    │  32  │         'firebase_auth'          │ 2188  │  120   │    100     │   true   │   true   │             '3.3.7'              │ 'firebase.google.com'  │  true   │ true  │ false │ true  │ true  │  false  │
+│   32    │  33  │        'cloud_firestore'         │ 2004  │  120   │    100     │   true   │   true   │             '3.1.8'              │ 'firebase.google.com'  │  true   │ true  │ false │ true  │ true  │  false  │
+│   33    │  34  │       'firebase_messaging'       │ 1998  │  120   │    100     │   true   │   true   │             '11.2.6'             │ 'firebase.google.com'  │  true   │ true  │ false │ true  │ true  │  false  │
+│   34    │  35  │          'file_picker'           │ 1975  │  120   │    100     │   true   │  false   │             '4.4.0'              │   'miguelruivo.com'    │  true   │ true  │ true  │ true  │ true  │  true   │
+│   35    │  36  │        'webview_flutter'         │ 1949  │  120   │    100     │   true   │  false   │             '3.0.0'              │     'flutter.dev'      │  true   │ true  │ false │ false │ false │  false  │
+│   36    │  37  │             'get_it'             │ 1916  │  130   │    100     │   true   │  false   │             '7.2.0'              │ 'fluttercommunity.dev' │  true   │ true  │ true  │ true  │ true  │  true   │
+│   37    │  38  │  'flutter_staggered_grid_view'   │ 1902  │  130   │    100     │   true   │  false   │             '0.6.1'              │   'romainrastel.com'   │  true   │ true  │ true  │ true  │ true  │  true   │
+│   38    │  39  │         'device_preview'         │ 1854  │  120   │     98     │   true   │  false   │             '1.0.0'              │   'aloisdeniel.com'    │  true   │ true  │ true  │ true  │ true  │  true   │
+│   39    │  40  │          'fluttertoast'          │ 1769  │  120   │    100     │   true   │  false   │             '8.0.8'              │  'karthikponnam.dev'   │  true   │ true  │ false │ false │ true  │  false  │
+│   40    │  41  │       'flutter_screenutil'       │ 1738  │  120   │     99     │   true   │  false   │             '5.3.1'              │       undefined        │  true   │ true  │ true  │ true  │ true  │  true   │
+│   41    │  42  │       'modal_bottom_sheet'       │ 1711  │  120   │     99     │   true   │  false   │             '2.0.0'              │   'jaimeblasco.com'    │  true   │ true  │ true  │ true  │ true  │  true   │
+│   42    │  43  │        'sliding_up_panel'        │ 1692  │  130   │     99     │   true   │  false   │            '2.0.0+1'             │   'akshathjain.com'    │  true   │ true  │ true  │ true  │ true  │  true   │
+│   43    │  44  │        'pull_to_refresh'         │ 1687  │  120   │     99     │   true   │  false   │             '2.0.0'              │       undefined        │  true   │ true  │ true  │ true  │ true  │  true   │
+│   44    │  45  │           'just_audio'           │ 1673  │  120   │     99     │   true   │   true   │             '0.9.20'             │    'ryanheise.com'     │  true   │ true  │ false │ true  │ true  │  false  │
+│   45    │  46  │            'location'            │ 1660  │  115   │    100     │   true   │   true   │             '4.3.0'              │      'bernos.dev'      │  true   │ true  │ false │ true  │ true  │  false  │
+│   46    │  47  │       'convex_bottom_bar'        │ 1649  │  120   │     97     │   true   │   true   │             '3.0.0'              │     'hacktons.cn'      │  true   │ true  │ true  │ true  │ true  │  true   │
+│   47    │  48  │         'firebase_core'          │ 1613  │  120   │    100     │   true   │   true   │             '1.12.0'             │ 'firebase.google.com'  │  true   │ true  │ false │ true  │ true  │  false  │
+│   48    │  49  │     'flutter_secure_storage'     │ 1550  │  120   │    100     │   true   │  false   │             '5.0.2'              │       undefined        │  true   │ true  │ true  │ true  │ true  │  true   │
+│   49    │  50  │         'google_sign_in'         │ 1542  │  120   │    100     │   true   │  false   │             '5.2.3'              │     'flutter.dev'      │  true   │ true  │ false │ false │ true  │  false  │
+│   50    │  51  │             'badges'             │ 1540  │  130   │     99     │   true   │  false   │             '2.0.2'              │       'yako.io'        │  true   │ true  │ true  │ true  │ true  │  true   │
+│   51    │  52  │   'syncfusion_flutter_charts'    │ 1537  │  130   │     99     │   true   │  false   │            '19.4.52'             │    'syncfusion.com'    │  true   │ true  │ true  │ true  │ true  │  true   │
+│   52    │  53  │             'rxdart'             │ 1529  │  115   │    100     │   true   │   true   │             '0.27.3'             │ 'fluttercommunity.dev' │  true   │ true  │ true  │ true  │ true  │  true   │
+│   53    │  54  │         'flutter_swiper'         │ 1520  │  100   │     99     │  false   │  false   │             '1.1.6'              │       undefined        │  true   │ true  │ true  │ true  │ true  │  true   │
+│   54    │  55  │      'introduction_screen'       │ 1505  │  130   │     98     │   true   │  false   │             '3.0.0'              │       undefined        │  true   │ true  │ true  │ true  │ true  │  true   │
+│   55    │  56  │              'bloc'              │ 1502  │  120   │     99     │   true   │   true   │             '8.0.2'              │   'bloclibrary.dev'    │  true   │ true  │ true  │ true  │ true  │  true   │
+│   56    │  57  │           'photo_view'           │ 1497  │  120   │    100     │   true   │  false   │             '0.13.0'             │    'blue-fire.xyz'     │  true   │ true  │ true  │ true  │ true  │  true   │
+│   57    │  58  │             'lottie'             │ 1485  │  130   │    100     │   true   │  false   │             '1.2.2'              │       'xaha.dev'       │  true   │ true  │ true  │ true  │ true  │  true   │
+│   58    │  59  │          'video_player'          │ 1425  │  130   │    100     │   true   │  false   │             '2.2.18'             │     'flutter.dev'      │  true   │ true  │ false │ false │ true  │  false  │
+│   59    │  60  │      'responsive_framework'      │ 1413  │  130   │     98     │   true   │  false   │             '0.1.7'              │    'codelessly.com'    │  true   │ true  │ true  │ true  │ true  │  true   │
+│   60    │  61  │            'riverpod'            │ 1406  │  120   │     97     │   true   │  false   │        '1.0.32.0.0-dev.3'        │  'dash-overflow.net'   │  true   │ true  │ true  │ true  │ true  │  true   │
+│   61    │  62  │   'infinite_scroll_pagination'   │ 1395  │  120   │     98     │   true   │   true   │             '3.1.0'              │    'edsonbueno.com'    │  true   │ true  │ true  │ true  │ true  │  true   │
+│   62    │  63  │           'auto_route'           │ 1382  │  110   │     99     │   true   │  false   │            '3.2.3+1'             │       undefined        │  true   │ true  │ true  │ true  │ true  │  true   │
+│   63    │  64  │         'table_calendar'         │ 1374  │  120   │     99     │   true   │  false   │             '3.0.3'              │       undefined        │  true   │ true  │ true  │ true  │ true  │  true   │
+│   64    │  65  │       'easy_localization'        │ 1373  │  110   │     99     │   true   │  false   │         '3.0.03.0.1-dev'         │       undefined        │  true   │ true  │ true  │ true  │ true  │  true   │
+│   65    │  66  │           'equatable'            │ 1349  │  130   │    100     │   true   │  false   │             '2.0.3'              │ 'fluttercommunity.dev' │  true   │ true  │ true  │ true  │ true  │  true   │
+│   66    │  67  │          'audioplayers'          │ 1328  │  120   │     99     │   true   │  false   │             '0.20.1'             │    'blue-fire.xyz'     │  true   │ true  │ false │ true  │ true  │  false  │
+│   67    │  68  │             'logger'             │ 1312  │  120   │     99     │   true   │  false   │             '1.1.0'              │       undefined        │  true   │ true  │ true  │ true  │ true  │  true   │
+│   68    │  69  │       'simple_animations'        │ 1305  │  130   │     99     │   true   │  false   │             '4.0.1'              │  'felix-blaschke.de'   │  true   │ true  │ true  │ true  │ true  │  true   │
+│   69    │  70  │      'flutter_form_builder'      │ 1275  │  130   │     98     │   true   │  false   │             '7.1.1'              │  'danvickmiller.dev'   │  true   │ true  │ true  │ true  │ true  │  true   │
+│   70    │  71  │     'curved_navigation_bar'      │ 1211  │  120   │     98     │   true   │  false   │             '1.0.3'              │    'mobilemvp.app'     │  true   │ true  │ true  │ true  │ true  │  true   │
+│   71    │  72  │     'awesome_notifications'      │ 1193  │  120   │     98     │   true   │  false   │             '0.6.21'             │       'carda.me'       │  true   │ true  │ false │ false │ false │  false  │
+│   72    │  73  │   'persistent_bottom_nav_bar'    │ 1195  │  120   │     98     │   true   │  false   │             '4.0.2'              │       undefined        │  true   │ true  │ true  │ true  │ true  │  true   │
+│   73    │  74  │     'smooth_page_indicator'      │ 1192  │  120   │     99     │   true   │  false   │            '1.0.0+2'             │       undefined        │  true   │ true  │ true  │ true  │ true  │  true   │
+│   74    │  75  │       'percent_indicator'        │ 1150  │  120   │    100     │   true   │  false   │             '4.0.0'              │   'diegoveloper.com'   │  true   │ true  │ true  │ true  │ true  │  true   │
+│   75    │  76  │              'pdf'               │ 1148  │  130   │     99     │   true   │  false   │             '3.7.1'              │       'nfet.net'       │  true   │ true  │ true  │ true  │ true  │  true   │
+│   76    │  77  │  'material_floating_search_bar'  │ 1143  │  120   │     97     │   true   │  false   │             '0.3.6'              │       undefined        │  true   │ true  │ true  │ true  │ true  │  true   │
+│   77    │  78  │         'timeline_tile'          │ 1102  │  120   │     98     │   true   │  false   │             '2.0.0'              │ 'juliobitencourt.com'  │  true   │ true  │ true  │ true  │ true  │  true   │
+│   78    │  79  │        'pin_code_fields'         │ 1094  │  120   │     99     │   true   │  false   │             '7.3.0'              │     'theadar.xyz'      │  true   │ true  │ true  │ true  │ true  │  true   │
+│   79    │  80  │           'local_auth'           │ 1087  │  130   │     99     │   true   │  false   │             '1.1.11'             │     'flutter.dev'      │  true   │ true  │ false │ false │ false │  false  │
+│   80    │  81  │       'flutter_neumorphic'       │ 1084  │  110   │     96     │   true   │  false   │             '3.2.0'              │       undefined        │  true   │ true  │ true  │ true  │ false │  true   │
+│   81    │  82  │       'google_mobile_ads'        │ 1078  │  115   │     99     │   true   │  false   │             '1.1.0'              │      'google.dev'      │  true   │ true  │ false │ false │ false │  false  │
+│   82    │  83  │         'charts_flutter'         │ 1065  │  100   │     99     │   true   │  false   │             '0.12.0'             │       undefined        │  true   │ true  │ true  │ true  │ true  │  true   │
+│   83    │  84  │         'image_cropper'          │ 1037  │  125   │     99     │   true   │  false   │             '1.4.1'              │      'hunghd.dev'      │  true   │ true  │ false │ false │ false │  false  │
+│   84    │  85  │           'getwidget'            │ 1025  │  120   │     97     │   true   │  false   │             '2.0.4'              │    'getwidget.dev'     │  true   │ true  │ true  │ true  │ true  │  true   │
+│   85    │  86  │       'flutter_rating_bar'       │ 1024  │  120   │     99     │   true   │  false   │             '4.0.0'              │ 'sarbagyastha.com.np'  │  true   │ true  │ true  │ true  │ true  │  true   │
+│   86    │  87  │         'flutter_hooks'          │ 1014  │  130   │     99     │   true   │  false   │            '0.18.2+1'            │  'dash-overflow.net'   │  true   │ true  │ true  │ true  │ true  │  true   │
+│   87    │  88  │          'flutter_html'          │ 1013  │  110   │    100     │   true   │  false   │       '2.2.13.0.0-alpha.2'       │  'sub6resources.com'   │  true   │ true  │ false │ false │ false │  false  │
+│   88    │  89  │      'flutter_inappwebview'      │ 1008  │  120   │     99     │   true   │  false   │             '5.3.2'              │   'inappwebview.dev'   │  true   │ true  │ false │ false │ false │  false  │
+│   89    │  90  │       'flutter_typeahead'        │ 1002  │  120   │     99     │   true   │  false   │             '3.2.4'              │       undefined        │  true   │ true  │ false │ false │ false │  false  │
+│   90    │  91  │             'camera'             │  983  │  120   │    100     │   true   │  false   │            '0.9.4+14'            │     'flutter.dev'      │  true   │ true  │ false │ false │ true  │  false  │
+│   91    │  92  │           'fluent_ui'            │  984  │  120   │     94     │   true   │   true   │             '3.9.0'              │     'bdlukaa.dev'      │  true   │ true  │ true  │ true  │ true  │  true   │
+│   92    │  93  │           'expandable'           │  974  │  130   │     99     │   true   │  false   │             '5.0.1'              │       undefined        │  true   │ true  │ true  │ true  │ true  │  true   │
+│   93    │  94  │           'qr_flutter'           │  966  │  110   │     99     │   true   │  false   │             '4.0.0'              │     'theyakka.com'     │  true   │ true  │ true  │ true  │ true  │  true   │
+│   94    │  95  │            'stacked'             │  947  │  120   │     98     │   true   │  false   │             '2.2.8'              │   'filledstacks.com'   │  true   │ true  │ true  │ true  │ true  │  true   │
+│   95    │  96  │        'qr_code_scanner'         │  941  │  130   │     99     │   true   │  false   │       '0.7.01.0.0-alpha.1'       │       undefined        │  true   │ true  │ false │ false │ false │  false  │
+│   96    │  97  │              'uuid'              │  942  │  120   │    100     │   true   │  false   │             '3.0.5'              │       'yuli.dev'       │  true   │ true  │ true  │ true  │ true  │  true   │
+│   97    │  98  │        'flutter_blurhash'        │  936  │  120   │     99     │   true   │  false   │             '0.6.4'              │ 'fluttercommunity.dev' │  true   │ true  │ true  │ true  │ true  │  true   │
+│   98    │  99  │        'in_app_purchase'         │  935  │  110   │     98     │   true   │  false   │             '2.0.1'              │     'flutter.dev'      │  true   │ true  │ false │ false │ false │  false  │
+│   99    │ 100  │  'flutter_staggered_animations'  │  920  │  120   │     98     │   true   │  false   │             '1.0.0'              │     'mobiten.com'      │  true   │ true  │ true  │ true  │ true  │  true   │
+│   100   │ 101  │       'responsive_builder'       │  919  │  110   │     98     │   true   │  false   │             '0.4.2'              │   'filledstacks.com'   │  true   │ true  │ true  │ true  │ true  │  true   │
+│   101   │ 102  │         'extended_image'         │  919  │  130   │     99     │   true   │  false   │             '6.0.1'              │  'fluttercandies.com'  │  true   │ true  │ true  │ true  │ true  │  true   │
+│   102   │ 103  │       'connectivity_plus'        │  877  │  130   │     99     │   true   │   true   │             '2.2.1'              │ 'fluttercommunity.dev' │  true   │ true  │ true  │ true  │ true  │  true   │
+│   103   │ 104  │          'supercharged'          │  874  │  120   │     97     │   true   │  false   │             '2.1.1'              │  'felix-blaschke.de'   │  true   │ true  │ true  │ true  │ true  │  true   │
+│   104   │ 105  │       'sign_in_with_apple'       │  873  │  120   │     99     │   true   │   true   │             '3.3.0'              │     'aboutyou.com'     │  true   │ true  │ false │ true  │ true  │  false  │
+│   105   │ 106  │      'flutter_easyloading'       │  859  │  120   │     99     │   true   │  false   │             '3.0.3'              │       undefined        │  true   │ true  │ true  │ true  │ true  │  true   │
+│   106   │ 107  │           'velocity_x'           │  855  │  120   │     97     │   true   │  false   │             '3.4.0'              │     'codepur.dev'      │  true   │ true  │ true  │ true  │ true  │  true   │
+│   107   │ 108  │            'timeago'             │  843  │  115   │     99     │   true   │  false   │             '3.2.2'              │       undefined        │  true   │ true  │ true  │ true  │ true  │  true   │
+│   108   │ 109  │           'share_plus'           │  837  │  130   │     99     │   true   │   true   │             '3.0.5'              │ 'fluttercommunity.dev' │  true   │ true  │ true  │ true  │ true  │  true   │
+│   109   │ 110  │        'firebase_storage'        │  820  │  120   │    100     │   true   │   true   │             '10.2.7'             │ 'firebase.google.com'  │  true   │ true  │ false │ true  │ true  │  false  │
+│   110   │ 111  │        'flutter_modular'         │  819  │  120   │     98     │   true   │  false   │            '4.4.0+1'             │  'flutterando.com.br'  │  true   │ true  │ true  │ true  │ true  │  true   │
+│   111   │ 112  │            'wakelock'            │  812  │  130   │     99     │   true   │  false   │            '0.6.1+1'             │ 'creativemaybeno.dev'  │  true   │ true  │ false │ true  │ true  │  true   │
+│   112   │ 113  │             'flame'              │  812  │  110   │     96     │   true   │  false   │             '1.0.0'              │   'flame-engine.org'   │  true   │ true  │ true  │ true  │ true  │  true   │
+│   113   │ 114  │             'chewie'             │  809  │  130   │     99     │   true   │  false   │             '1.3.0'              │ 'fluttercommunity.dev' │  true   │ true  │ false │ false │ true  │  false  │
+│   114   │ 115  │          'showcaseview'          │  808  │  110   │     97     │   true   │  false   │             '1.1.4'              │     'simform.com'      │  true   │ true  │ true  │ true  │ true  │  true   │
+│   115   │ 116  │              'mobx'              │  802  │  130   │     99     │   true   │   true   │            '2.0.6+1'             │ 'dart.pixelingene.com' │  true   │ true  │ true  │ true  │ true  │  true   │
+│   116   │ 117  │   'scrollable_positioned_list'   │  800  │  120   │     99     │   true   │  false   │             '0.2.3'              │      'google.dev'      │  true   │ true  │ true  │ true  │ true  │  true   │
+│   117   │ 118  │         'flutter_login'          │  796  │  120   │     96     │   true   │  false   │             '3.1.0'              │       undefined        │  true   │ true  │ true  │ true  │ true  │  true   │
+│   118   │ 119  │          'get_storage'           │  793  │  120   │     99     │   true   │  false   │             '2.0.3'              │      'getx.site'       │  true   │ true  │ true  │ true  │ true  │  true   │
+│   119   │ 120  │          'smart_select'          │  791  │  100   │     95     │  false   │  false   │             '4.3.2'              │   'widgetarian.com'    │  true   │ true  │ true  │ true  │ true  │  true   │
+│   120   │ 121  │        'bottom_navy_bar'         │  789  │  120   │     97     │   true   │   true   │             '6.0.0'              │  'pedromassango.dev'   │  true   │ true  │ true  │ true  │ true  │  true   │
+│   121   │ 122  │           'timelines'            │  784  │  120   │     97     │   true   │  false   │             '0.1.0'              │     'chulwoo.dev'      │  true   │ true  │ true  │ true  │ true  │  true   │
+│   122   │ 123  │         'in_app_review'          │  778  │  130   │     98     │   true   │  false   │             '2.0.4'              │    'britannio.dev'     │  true   │ true  │ false │ true  │ false │  false  │
+│   123   │ 124  │             'sizer'              │  764  │  120   │     98     │   true   │  false   │             '2.0.15'             │       undefined        │  true   │ true  │ true  │ true  │ true  │  true   │
+│   124   │ 125  │        'flutter_riverpod'        │  760  │  130   │     99     │   true   │  false   │        '1.0.32.0.0-dev.3'        │  'dash-overflow.net'   │  true   │ true  │ true  │ true  │ true  │  true   │
+│   125   │ 126  │         'flutter_sound'          │  756  │  130   │     97     │   true   │  false   │             '9.1.3'              │  'tau.canardoux.xyz'   │  true   │ true  │ false │ false │ true  │  false  │
+│   126   │ 127  │          'workmanager'           │  755  │  100   │     97     │   true   │  false   │        '0.4.10.5.0-dev.8'        │ 'fluttercommunity.dev' │  true   │ true  │ false │ false │ false │  false  │
+│   127   │ 128  │           'uni_links'            │  755  │  130   │     99     │   true   │  false   │             '0.5.1'              │       undefined        │  true   │ true  │ false │ false │ true  │  false  │
+│   128   │ 129  │     'youtube_player_flutter'     │  744  │  120   │     99     │   true   │  false   │             '8.0.0'              │ 'sarbagyastha.com.np'  │  true   │ true  │ false │ false │ false │  false  │
+│   129   │ 130  │       'flex_color_scheme'        │  743  │  120   │     96     │   true   │   true   │             '4.2.0'              │     'rydmike.com'      │  true   │ true  │ true  │ true  │ true  │  true   │
+│   130   │ 131  │        'dropdown_search'         │  738  │  120   │     99     │   true   │  false   │             '2.0.1'              │     'salimdev.ovh'     │  true   │ true  │ true  │ true  │ true  │  true   │
+│   131   │ 132  │          'intro_slider'          │  738  │  120   │     98     │   true   │  false   │             '3.0.3'              │       undefined        │  true   │ true  │ true  │ true  │ false │  true   │
+│   132   │ 133  │     'flutter_cache_manager'      │  734  │  120   │     99     │   true   │  false   │             '3.3.0'              │     'baseflow.com'     │  true   │ true  │ false │ true  │ false │  false  │
+│   133   │ 134  │        'page_transition'         │  733  │  120   │     99     │   true   │  false   │             '2.0.5'              │    'yasinilhan.com'    │  true   │ true  │ true  │ true  │ true  │  true   │
+│   134   │ 135  │          'flutter_map'           │  733  │  110   │     98     │   true   │  false   │             '0.14.0'             │      'jpryan.me'       │  true   │ true  │ true  │ true  │ false │  true   │
+│   135   │ 136  │         'rflutter_alert'         │  730  │  120   │     99     │   true   │  false   │             '2.0.4'              │     'ratel.com.tr'     │  true   │ true  │ true  │ true  │ true  │  true   │
+│   136   │ 137  │       'flutter_downloader'       │  719  │  120   │     99     │   true   │  false   │             '1.7.2'              │ 'fluttercommunity.dev' │  true   │ true  │ false │ false │ false │  false  │
+│   137   │ 138  │         'auto_animated'          │  716  │  130   │     95     │   true   │  false   │             '3.0.1'              │    'serge.software'    │  true   │ true  │ true  │ true  │ true  │  true   │
+│   138   │ 139  │         'audio_service'          │  714  │  120   │     97     │   true   │  false   │             '0.18.3'             │    'ryanheise.com'     │  true   │ true  │ false │ true  │ true  │  false  │
+│   139   │ 140  │          'liquid_swipe'          │  714  │  120   │     97     │   true   │  false   │             '2.1.1'              │   'sahdeepsingh.com'   │  true   │ true  │ true  │ true  │ true  │  true   │
+│   140   │ 141  │          'like_button'           │  712  │  130   │     97     │   true   │  false   │             '2.0.4'              │  'fluttercandies.com'  │  true   │ true  │ true  │ true  │ true  │  true   │
+│   141   │ 142  │             'crypto'             │  713  │  130   │    100     │   true   │  false   │             '3.0.1'              │       'dart.dev'       │  true   │ true  │ true  │ true  │ true  │  true   │
+│   142   │ 143  │     'sleek_circular_slider'      │  710  │  110   │     97     │   true   │  false   │             '2.0.1'              │       undefined        │  true   │ true  │ true  │ true  │ true  │  true   │
+│   143   │ 144  │         'awesome_dialog'         │  706  │  130   │     98     │   true   │  false   │             '2.1.2'              │     'toranzo.dev'      │  true   │ true  │ true  │ true  │ true  │  true   │
+│   144   │ 145  │         'google_nav_bar'         │  703  │  120   │     97     │   true   │  false   │             '5.0.5'              │    'sooxt98.space'     │  true   │ true  │ true  │ true  │ true  │  true   │
+│   145   │ 146  │             'image'              │  694  │  120   │    100     │   true   │  false   │             '3.1.3'              │      'loki3d.com'      │  true   │ true  │ true  │ true  │ true  │  true   │
+│   146   │ 147  │              'path'              │  693  │  130   │    100     │   true   │  false   │             '1.8.1'              │       'dart.dev'       │  true   │ true  │ true  │ true  │ true  │  true   │
+│   147   │ 148  │            'retrofit'            │  689  │  120   │     99     │   true   │  false   │            '3.0.1+1'             │       'mings.in'       │  true   │ true  │ true  │ true  │ true  │  true   │
+│   148   │ 149  │             'flash'              │  678  │  120   │     98     │   true   │  false   │            '2.0.3+2'             │       undefined        │  true   │ true  │ true  │ true  │ true  │  true   │
+│   149   │ 150  │  'syncfusion_flutter_calendar'   │  675  │  130   │     98     │   true   │  false   │            '19.4.52'             │    'syncfusion.com'    │  true   │ true  │ true  │ true  │ true  │  true   │
+│   150   │ 151  │         'flutter_icons'          │  667  │   85   │     99     │  false   │  false   │             '1.1.0'              │       undefined        │  true   │ true  │ true  │ true  │ true  │  true   │
+│   151   │ 152  │      'assets_audio_player'       │  665  │  110   │     98     │   true   │  false   │            '3.0.4+1'             │       undefined        │  true   │ true  │ false │ true  │ true  │  false  │
+│   152   │ 153  │            'printing'            │  665  │  130   │     98     │   true   │  false   │             '5.7.2'              │       'nfet.net'       │  true   │ true  │ true  │ true  │ true  │  true   │
+│   153   │ 154  │              'rive'              │  658  │  120   │     98     │   true   │  false   │             '0.8.1'              │       'rive.app'       │  true   │ true  │ true  │ true  │ true  │  true   │
+│   154   │ 155  │              'lint'              │  651  │  130   │     97     │   true   │  false   │             '1.8.2'              │   'pascalwelsch.com'   │  true   │ true  │ true  │ true  │ true  │  true   │
+│   155   │ 156  │    'flutter_barcode_scanner'     │  647  │  130   │     98     │   true   │  false   │             '2.0.0'              │       undefined        │  true   │ true  │ false │ false │ false │  false  │
+│   156   │ 157  │ 'syncfusion_flutter_datepicker'  │  646  │  130   │     98     │   true   │  false   │            '19.4.52'             │    'syncfusion.com'    │  true   │ true  │ true  │ true  │ true  │  true   │
+│   157   │ 158  │       'firebase_analytics'       │  646  │  120   │    100     │   true   │  false   │             '9.1.0'              │ 'firebase.google.com'  │  true   │ true  │ false │ true  │ true  │  false  │
+│   158   │ 159  │     'flutter_facebook_auth'      │  643  │  130   │     99     │   true   │  false   │             '4.0.1'              │      'meedu.app'       │  true   │ true  │ false │ false │ true  │  false  │
+│   159   │ 160  │            'sembast'             │  637  │  130   │     98     │   true   │  false   │             '3.1.2'              │     'tekartik.com'     │  true   │ true  │ true  │ true  │ true  │  true   │
+│   160   │ 161  │     'flutter_signin_button'      │  635  │  130   │     98     │   true   │  false   │             '2.0.0'              │       undefined        │  true   │ true  │ true  │ true  │ true  │  true   │
+│   161   │ 162  │             'fluro'              │  633  │  120   │     98     │   true   │  false   │             '2.0.3'              │   'lukepighetti.com'   │  true   │ true  │ true  │ true  │ true  │  true   │
+│   162   │ 163  │         'better_player'          │  629  │  120   │     98     │   true   │  false   │             '0.0.81'             │       undefined        │  true   │ true  │ false │ false │ false │  false  │
+│   163   │ 164  │      'tutorial_coach_mark'       │  629  │  110   │     97     │   true   │  false   │             '1.2.1'              │       undefined        │  true   │ true  │ true  │ true  │ true  │  true   │
+│   164   │ 165  │            'upgrader'            │  623  │  130   │     97     │   true   │  false   │             '3.13.0'             │    'larryaasen.com'    │  true   │ true  │ true  │ true  │ true  │  true   │
+│   165   │ 166  │       'flutter_speed_dial'       │  615  │  130   │     99     │   true   │  false   │            '5.0.0+1'             │       undefined        │  true   │ true  │ true  │ true  │ false │  true   │
+│   166   │ 167  │        'keyboard_actions'        │  613  │  130   │     98     │   true   │  false   │             '3.4.7'              │   'diegoveloper.com'   │  true   │ true  │ true  │ true  │ true  │  true   │
+│   167   │ 168  │    'flutter_platform_widgets'    │  611  │  110   │     97     │   true   │  false   │             '1.20.0'             │     'stryder.dev'      │  true   │ true  │ true  │ true  │ true  │  true   │
+│   168   │ 169  │            'mockito'             │  612  │  120   │     98     │   true   │  false   │             '5.1.0'              │       'dart.dev'       │  true   │ true  │ true  │ true  │ true  │  true   │
+│   169   │ 170  │          'flutter_blue'          │  612  │  100   │     97     │   true   │  false   │             '0.8.0'              │   'pauldemarco.com'    │  true   │ true  │ false │ true  │ false │  false  │
+│   170   │ 171  │    'flutter_datetime_picker'     │  608  │  100   │     99     │   true   │  false   │             '1.5.1'              │       undefined        │  true   │ true  │ true  │ true  │ true  │  true   │
+│   171   │ 172  │             'beamer'             │  607  │  130   │     95     │   true   │   true   │             '1.3.0'              │      'beamer.dev'      │  true   │ true  │ true  │ true  │ true  │  true   │
+│   172   │ 173  │        'background_fetch'        │  605  │  130   │     96     │   true   │  false   │             '1.0.3'              │  'transistorsoft.com'  │  true   │ true  │ false │ false │ false │  false  │
+│   173   │ 174  │             'dartz'              │  601  │  110   │     99     │   true   │  false   │             '0.10.1'             │       undefined        │  true   │ true  │ true  │ true  │ true  │  true   │
+│   174   │ 175  │      'firebase_crashlytics'      │  597  │  120   │    100     │   true   │   true   │             '2.5.1'              │ 'firebase.google.com'  │  true   │ true  │ false │ true  │ false │  false  │
+│   175   │ 176  │          'grouped_list'          │  594  │  130   │     98     │   true   │  false   │             '4.2.0'              │      'begnis.dev'      │  true   │ true  │ true  │ true  │ true  │  true   │
+│   176   │ 177  │             'pinput'             │  593  │  120   │     98     │   true   │  false   │             '1.2.2'              │       'fman.ge'        │  true   │ true  │ true  │ true  │ true  │  true   │
+│   177   │ 178  │       'package_info_plus'        │  583  │  130   │    100     │   true   │   true   │             '1.3.1'              │ 'fluttercommunity.dev' │  true   │ true  │ true  │ true  │ true  │  true   │
+│   178   │ 179  │           'go_router'            │  585  │  130   │     96     │   true   │   true   │             '3.0.1'              │     'flutter.dev'      │  true   │ true  │ true  │ true  │ true  │  true   │
+│   179   │ 180  │          'avatar_glow'           │  581  │  110   │     97     │   true   │  false   │             '2.0.2'              │   'ayushpgupta.com'    │  true   │ true  │ true  │ true  │ true  │  true   │
+│   180   │ 181  │          'flutter_tts'           │  581  │  120   │     97     │   true   │  false   │             '3.3.3'              │    'tundralabs.com'    │  true   │ true  │ false │ true  │ true  │  false  │
+│   181   │ 182  │         'sliding_sheet'          │  580  │  120   │     96     │   true   │  false   │             '0.5.2'              │       undefined        │  true   │ true  │ true  │ true  │ true  │  true   │
+│   182   │ 183  │        'socket_io_client'        │  579  │  120   │     98     │   true   │  false   │ '1.0.22.0.0-beta.4-nullsafety.0' │       undefined        │  true   │ true  │ true  │ true  │ true  │  true   │
+│   183   │ 184  │            'confetti'            │  579  │  130   │     97     │   true   │  false   │             '0.6.0'              │     'funwith.app'      │  true   │ true  │ true  │ true  │ true  │  true   │
+│   184   │ 185  │         'flare_flutter'          │  579  │   90   │     99     │   true   │  false   │             '3.0.2'              │       'rive.app'       │  true   │ true  │ true  │ true  │ true  │  true   │
+│   185   │ 186  │        'flutter_markdown'        │  573  │  130   │     99     │   true   │  false   │             '0.6.9'              │     'flutter.dev'      │  true   │ true  │ true  │ true  │ true  │  true   │
+│   186   │ 187  │           'injectable'           │  570  │  130   │     98     │   true   │  false   │             '1.5.3'              │       undefined        │  true   │ true  │ true  │ true  │ true  │  true   │
+│   187   │ 188  │           'bot_toast'            │  563  │  120   │     98     │   true   │  false   │             '4.0.1'              │       undefined        │  true   │ true  │ true  │ true  │ true  │  true   │
+│   188   │ 189  │        'device_info_plus'        │  556  │  130   │     99     │   true   │   true   │             '3.2.2'              │ 'fluttercommunity.dev' │  true   │ true  │ true  │ true  │ true  │  true   │
+│   189   │ 190  │       'feature_discovery'        │  553  │  120   │     93     │   true   │  false   │             '0.14.1'             │       undefined        │  true   │ true  │ true  │ true  │ true  │  true   │
+│   190   │ 191  │         'flutter_webrtc'         │  549  │  110   │     97     │   true   │  false   │             '0.8.2'              │       undefined        │  true   │ true  │ false │ true  │ false │  true   │
+│   191   │ 192  │     'flutter_webview_plugin'     │  546  │  115   │     99     │   true   │  false   │             '0.4.0'              │ 'fluttercommunity.dev' │  true   │ true  │ false │ false │ false │  false  │
+│   192   │ 193  │        'adaptive_dialog'         │  547  │  130   │     97     │   true   │  false   │             '1.3.0'              │     'mono0926.com'     │  true   │ true  │ true  │ true  │ true  │  true   │
+│   193   │ 194  │     'flutter_image_compress'     │  541  │  130   │     99     │   true   │  false   │             '1.1.0'              │       undefined        │  true   │ true  │ false │ false │ false │  false  │
+│   194   │ 195  │    'change_app_package_name'     │  528  │  100   │     97     │   true   │  false   │             '1.0.0'              │       'atiq.dev'       │  true   │ true  │ true  │ true  │ false │  true   │
+│   195   │ 196  │   'mask_text_input_formatter'    │  523  │  120   │     99     │   true   │  false   │             '2.1.0'              │       undefined        │  true   │ true  │ true  │ true  │ true  │  true   │
+│   196   │ 197  │           'flip_card'            │  521  │  125   │     97     │   true   │  false   │             '0.6.0'              │  'brunojurkovic.com'   │  true   │ true  │ true  │ true  │ true  │  true   │
+│   197   │ 198  │              'moor'              │  515  │  130   │     96     │   true   │  false   │            '4.6.1+1'             │    'simonbinder.eu'    │  true   │ true  │ true  │ true  │ true  │  true   │
+│   198   │ 199  │          'reorderables'          │  514  │  120   │     97     │   true   │  false   │             '0.4.2'              │       undefined        │  true   │ true  │ true  │ true  │ true  │  true   │
+│   199   │ 200  │         'speech_to_text'         │  511  │  130   │     97     │   true   │  false   │             '5.4.3'              │     'csdcorp.com'      │  true   │ true  │ false │ false │ true  │  false  │
+│   200   │ 201  │         'flutter_dotenv'         │  510  │  120   │     99     │   true   │  false   │             '5.0.2'              │       undefined        │  true   │ true  │ true  │ true  │ true  │  true   │
+│   201   │ 202  │   'syncfusion_flutter_gauges'    │  501  │  130   │     98     │   true   │  false   │            '19.4.52'             │    'syncfusion.com'    │  true   │ true  │ true  │ true  │ true  │  true   │
+│   202   │ 203  │        'email_validator'         │  502  │  130   │     99     │   true   │  false   │             '2.0.1'              │       undefined        │  true   │ true  │ true  │ true  │ true  │  true   │
+│   203   │ 204  │          'sliver_tools'          │  499  │  130   │     97     │   true   │  false   │             '0.2.5'              │  'pietervanloon.com'   │  true   │ true  │ true  │ true  │ true  │  true   │
+│   204   │ 205  │         'flutter_quill'          │  498  │  130   │     96     │   true   │  false   │             '4.0.1'              │   'bulletjournal.us'   │  true   │ true  │ false │ false │ false │  false  │
+│   205   │ 206  │         'dotted_border'          │  498  │  130   │     99     │   true   │  false   │            '2.0.0+2'             │       undefined        │  true   │ true  │ true  │ true  │ true  │  true   │
+│   206   │ 207  │      'flutter_zoom_drawer'       │  496  │  130   │     97     │   true   │  false   │             '2.3.1'              │      'medyas.ml'       │  true   │ true  │ true  │ true  │ true  │  true   │
+│   207   │ 208  │   'liquid_progress_indicator'    │  496  │  120   │     96     │   true   │  false   │             '0.4.0'              │       undefined        │  true   │ true  │ true  │ true  │ true  │  true   │
+│   208   │ 209  │         'styled_widget'          │  494  │  110   │     94     │   true   │  false   │            '0.4.0+3'             │       undefined        │  true   │ true  │ true  │ true  │ true  │  true   │
+│   209   │ 210  │           'screenshot'           │  491  │  120   │     98     │   true   │  false   │             '1.2.3'              │       'dsi.dev'        │  true   │ true  │ true  │ true  │ true  │  true   │
+│   210   │ 211  │           'octo_image'           │  485  │  120   │     99     │   true   │  false   │             '1.0.1'              │     'baseflow.com'     │  true   │ true  │ true  │ true  │ true  │  true   │
+│   211   │ 212  │           'slimy_card'           │  485  │  100   │     90     │  false   │  false   │             '1.0.4'              │       undefined        │  true   │ true  │ true  │ true  │ true  │  true   │
+│   212   │ 213  │      'country_code_picker'       │  482  │  120   │     99     │   true   │  false   │             '2.0.2'              │       undefined        │  true   │ true  │ true  │ true  │ true  │  true   │
+│   213   │ 214  │         'toggle_switch'          │  481  │  120   │     98     │   true   │   true   │             '1.4.0'              │      'pramod.dev'      │  true   │ true  │ true  │ true  │ true  │  true   │
+│   214   │ 215  │             'dartx'              │  472  │  130   │     96     │   true   │  false   │             '1.0.0'              │      'honey.dev'       │  true   │ true  │ true  │ true  │ true  │  true   │
+│   215   │ 216  │ 'animated_bottom_navigation_bar' │  469  │  130   │     96     │   true   │  false   │             '0.3.2'              │       undefined        │  true   │ true  │ true  │ true  │ true  │  true   │
+│   216   │ 217  │     'firebase_dynamic_links'     │  462  │  130   │     99     │   true   │  false   │             '4.0.6'              │ 'firebase.google.com'  │  true   │ true  │ false │ false │ false │  false  │
+│   217   │ 218  │          'settings_ui'           │  462  │  110   │     97     │   true   │  false   │             '2.0.2'              │       'yako.io'        │  true   │ true  │ true  │ true  │ false │  true   │
+│   218   │ 219  │       'web_socket_channel'       │  458  │  120   │     99     │   true   │  false   │             '2.1.0'              │    'tools.dart.dev'    │  true   │ true  │ true  │ true  │ true  │  true   │
+│   219   │ 220  │       'onesignal_flutter'        │  454  │  120   │     99     │   true   │  false   │             '3.2.8'              │       undefined        │  true   │ true  │ false │ false │ false │  false  │
+│   220   │ 221  │         'snapping_sheet'         │  455  │  120   │     95     │   true   │  false   │             '3.1.0'              │   'adamjonsson.dev'    │  true   │ true  │ true  │ true  │ true  │  true   │
+│   221   │ 222  │          'flutter_mobx'          │  453  │  125   │     99     │   true   │   true   │             '2.0.4'              │ 'dart.pixelingene.com' │  true   │ true  │ true  │ true  │ true  │  true   │
+│   222   │ 223  │          'after_layout'          │  453  │  130   │     98     │   true   │  false   │             '1.1.0'              │ 'fluttercommunity.dev' │  true   │ true  │ true  │ true  │ true  │  true   │
+│   223   │ 224  │        'json_annotation'         │  452  │  120   │    100     │   true   │  false   │             '4.4.0'              │      'google.dev'      │  true   │ true  │ true  │ true  │ true  │  true   │
+│   224   │ 225  │     'flutter_sticky_header'      │  452  │  120   │     98     │   true   │  false   │             '0.6.0'              │   'romainrastel.com'   │  true   │ true  │ true  │ true  │ true  │  true   │
+│   225   │ 226  │        'graphql_flutter'         │  451  │  110   │     98     │  false   │  false   │       '5.0.15.0.2-beta.3'        │     'zinoapp.com'      │  true   │ true  │ true  │ true  │ false │  true   │
+│   226   │ 227  │             'floor'              │  449  │  110   │     97     │   true   │  false   │             '1.2.0'              │     'floor.codes'      │  true   │ true  │ false │ true  │ false │  false  │
+│   227   │ 228  │         'flutter_lints'          │  446  │  130   │    100     │   true   │  false   │             '1.0.4'              │     'flutter.dev'      │  true   │ true  │ true  │ true  │ true  │  true   │
+│   228   │ 229  │      'flutter_unity_widget'      │  444  │  130   │     93     │   true   │  false   │           '2020.3.25'            │      'xraph.com'       │  true   │ true  │ false │ false │ false │  false  │
+│   229   │ 230  │          'built_value'           │  442  │  130   │     99     │   true   │   true   │             '8.1.4'              │      'google.dev'      │  true   │ true  │ true  │ true  │ true  │  true   │
+│   230   │ 231  │       'fab_circular_menu'        │  442  │  110   │     96     │   true   │  false   │             '1.0.2'              │       undefined        │  true   │ true  │ true  │ true  │ true  │  true   │
+│   231   │ 232  │       'modal_progress_hud'       │  441  │  100   │     98     │  false   │  false   │             '0.1.3'              │       undefined        │  true   │ true  │ true  │ true  │ true  │  true   │
+│   232   │ 233  │    'step_progress_indicator'     │  437  │  130   │     97     │   true   │  false   │             '1.0.2'              │  'sandromaglione.com'  │  true   │ true  │ true  │ true  │ true  │  true   │
+│   233   │ 234  │          'giffy_dialog'          │  436  │   90   │     94     │  false   │  false   │             '1.8.0'              │       undefined        │  true   │ true  │ true  │ true  │ true  │  true   │
+│   234   │ 235  │           'googleapis'           │  434  │  125   │     98     │   true   │   true   │             '8.0.0'              │      'google.dev'      │  true   │ true  │ true  │ true  │ true  │  true   │
+│   235   │ 236  │            'marquee'             │  433  │  130   │     97     │   true   │  false   │             '2.2.1'              │       undefined        │  true   │ true  │ true  │ true  │ true  │  true   │
+│   236   │ 237  │            'encrypt'             │  433  │  120   │     99     │   true   │  false   │             '5.0.1'              │       undefined        │  true   │ true  │ true  │ true  │ true  │  true   │
+│   237   │ 238  │ 'material_design_icons_flutter'  │  431  │  110   │     99     │   true   │  false   │            '5.0.6595'            │       undefined        │  true   │ true  │ true  │ true  │ true  │  true   │
+│   238   │ 239  │        'flutter_linkify'         │  432  │  120   │     98     │   true   │  false   │             '5.0.2'              │     'cretezy.com'      │  true   │ true  │ true  │ true  │ true  │  true   │
+│   239   │ 240  │           'objectbox'            │  429  │  120   │     95     │   true   │  false   │        '1.3.01.4.0-dev.0'        │     'objectbox.io'     │  true   │ true  │ true  │ true  │ false │  true   │
+│   240   │ 241  │           'open_file'            │  423  │  120   │     99     │   true   │  false   │             '3.2.1'              │       undefined        │  true   │ true  │ false │ false │ false │  false  │
+│   241   │ 242  │             'faker'              │  422  │  120   │     97     │   true   │  false   │             '2.0.0'              │       undefined        │  true   │ true  │ true  │ true  │ true  │  true   │
+│   242   │ 243  │       'flutter_app_badger'       │  421  │  110   │     98     │   true   │  false   │             '1.3.0'              │      'daad.mobi'       │  true   │ true  │ false │ false │ false │  false  │
+│   243   │ 244  │        'bitsdojo_window'         │  420  │  100   │     96     │   true   │  false   │            '0.1.1+1'             │     'bitsdojo.com'     │  false  │ false │ true  │ true  │ false │  true   │
+│   244   │ 245  │    'flutter_custom_clippers'     │  418  │  130   │     97     │   true   │  false   │             '2.0.0'              │    'dlohani.com.np'    │  true   │ true  │ true  │ true  │ true  │  true   │
+│   245   │ 246  │          'splashscreen'          │  415  │  100   │     98     │  false   │  false   │             '1.3.5'              │      'dplyr.dev'       │  true   │ true  │ true  │ true  │ true  │  true   │
+│   246   │ 247  │        'cupertino_icons'         │  413  │  110   │    100     │   true   │  false   │             '1.0.4'              │     'flutter.dev'      │  true   │ true  │ true  │ true  │ true  │  true   │
+│   247   │ 248  │      'intro_views_flutter'       │  413  │  130   │     95     │   true   │  false   │             '3.2.0'              │   'ayushagarwal.ml'    │  true   │ true  │ true  │ true  │ true  │  true   │
+│   248   │ 249  │         'in_app_update'          │  410  │  120   │     97     │   true   │  false   │             '3.0.0'              │       'ffuf.de'        │  true   │ false │ false │ false │ false │  false  │
+│   249   │ 250  │      'flutter_colorpicker'       │  408  │  130   │     98     │   true   │  false   │             '1.0.3'              │       undefined        │  true   │ true  │ true  │ true  │ true  │  true   │
+└─────────┴──────┴──────────────────────────────────┴───────┴────────┴────────────┴──────────┴──────────┴──────────────────────────────────┴────────────────────────┴─────────┴───────┴───────┴───────┴───────┴─────────┘
