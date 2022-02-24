@@ -1,7 +1,7 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
 exports.STATE_MANAGE_LIST = exports.OFFICIAL_ACCOUNTS = exports.GOOGLE_ACCOUNT = exports.FLUTTER_ACCOUNT = exports.FIREBASE_ACCOUNT = exports.PLATFORM_WINDOWS = exports.PLATFORM_WEB = exports.PLATFORM_MACOS = exports.PLATFORM_LINUX = exports.PLATFORM_IOS = exports.PLATFORM_ANDROID = exports.BADGE_NULL_SAFE = exports.BADGE_FLUTTER_FAV = exports.metadataSelector = exports.badgeSubSelector = exports.badgeSelector = exports.popularitySelector = exports.healthSelector = exports.likesSelector = exports.titleSelector = exports.packageItemSelector = exports.pubDevUrl = void 0;
-exports.pubDevUrl = 'https://pub.dev/packages?q=sdk%3Aflutter';
+exports.pubDevUrl = 'https://pub.dev/packages';
 exports.packageItemSelector = '.packages-item';
 exports.titleSelector = 'h3.packages-title > a';
 exports.likesSelector = '.packages-score-like .packages-score-value-number';

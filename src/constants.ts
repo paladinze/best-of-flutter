@@ -1,4 +1,4 @@
-export const pubDevUrl = 'https://pub.dev/packages?q=sdk%3Aflutter'
+export const pubDevUrl = 'https://pub.dev/packages'
 export const packageItemSelector = '.packages-item'
 export const titleSelector = 'h3.packages-title > a'
 export const likesSelector = '.packages-score-like .packages-score-value-number'

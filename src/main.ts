@@ -26,6 +26,7 @@ function fetchHtmlFromUrl(url: string, page = 1): Promise<cheerio.Root> {
     .get(url, {
       params: {
         page: page,
+        q: ':flutter',
         sort: 'like',
       }
     })
@@ -62,7 +63,9 @@ function getPackageData($: cheerio.Root, packageEl: cheerio.Element) {
 
   // developer
   const [version, developer] = packageItem.find(metadataSelector).map((index: number, el: cheerio.Element) => {
-    return $(el).find('a').text().trim();
+    return $(el).find('a').map((index2: number, el2: cheerio.Element) => {
+      return $(el2).text();
+    }).get().join(',');
   }).get();
 
   return {
