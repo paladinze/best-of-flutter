@@ -54,6 +54,7 @@ function fetchHtmlFromUrl(url, page) {
         .get(url, {
         params: {
             page: page,
+            q: ':flutter',
             sort: 'like',
         }
     })
@@ -84,7 +85,9 @@ function getPackageData($, packageEl) {
     var windows = badgesSub.includes(constants_1.PLATFORM_WINDOWS);
     // developer
     var _a = packageItem.find(constants_1.metadataSelector).map(function (index, el) {
-        return $(el).find('a').text().trim();
+        return $(el).find('a').map(function (index2, el2) {
+            return $(el2).text();
+        }).get().join(',');
     }).get(), version = _a[0], developer = _a[1];
     return {
         name: name,
